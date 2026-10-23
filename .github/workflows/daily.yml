@@ -1,0 +1,35 @@
+
+name: Daily AI Intelligence
+
+on:
+  schedule:
+    - cron: '45 7 * * *'
+      timezone: 'America/New_York'
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  collect-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Collect AI and technology news
+        run: python collector.py
+
+      - name: Upload collected news
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-news
+          path: news.json
+          retention-days: 30
