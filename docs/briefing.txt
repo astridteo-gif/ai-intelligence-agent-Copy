@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — October 24, 2026
+AI INTELLIGENCE BRIEF — October 25, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• VBC’s shift to performance, AI agents on the org chart, LEAD is a no-go, and why health systems should prep for mandatory risk models (with Tim Elliott, CEO of Navvis) - Hospitalogy
-https://news.google.com/rss/articles/CBMilAJBVV95cUxQRzhYTmpkRWdIZEFJNWNWaVU4RmhUQ1llQXY3TDdwODVBVEh0SFJfX3FSbFFMa3RVbFZieDk0b0d3WFhSU0VaeWx0QjFRVTRwUHpYUzI5SllOMWJDRDhCQWRVZXVkaWRyX0czc1dRUmE4aEpXMFl3TkhfQmN3b2huTURiQW1YZkxyRmxaQkRrekd4UmRjTXNGYzRfNkdqZzdxSkhydGJLR1lGSjFfYUdmYXhLS3BMc0xVZG5JWGg4ZVFtYkt2NGFJMXV1c1F4eVpXSVZlcjZ5YTRBNUpMaEY0TWpWWXJESEVMWGNTbWFYXzVyUUJRZkliWFdIWld4VlpZc3EyZm5IZ2dPXy1vOUdXLUJDSjY?oc=5
+• OpenAI used AI agents to hack its own defenses before resuming model training - CTech
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeHNlQ2lqRGNTeDI2V3FjcTR2czdKOGdaajhGRzZ1MnhRRGhrMUVEYnRmTkdFZHJUS3lJUHl4NzlGcFN3LTFyZTh6TDVpcmZPWDlpbV9Sc284cW8zczVlSDhmTWpiX0E?oc=5
 
-• Banks push back as AI agents enter customer accounts, raising concerns about unauthorized activity - firstcoastnews.com
-https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSXBDd0dsQzNnb3A3M3pYODhSVk16NEVoVGRORWxGOU5Qcl85YnpDcTZhcHpzNi1fQ3lmSVBkM0RMdEFNYXE0MXdqVUtZUlhxa2EyYzhhM3dDRmJpVlVtenBoX1NKMnh3M2RWQ25EMm9XYlVGck1acVdBYVB1TW80Wi1ybHkwU2o5bGdaVzZ0Y2VZcjVHTlY4QjVhRzhxUEZrVllCaDBPV0VPTXVjNEVIU0FDZEZZU05rc1RoclNUeWR4REZEck1uM29EOVhaQ2ZyQXE4MUFLOGRwNXRjX2lV?oc=5
+• When AI agents run your life - Vox
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlUxWHp4ZmZWcUR2azNkdF9GYWNEZUhxeFN2VzBYYjNFZXd2bVJsQmZ0Z1VUQXl3SnFaUUpGZWx0akVKdG1nQ0drZ2xFZGdTU2JfWGVIRkFyR2FpVHlTTU5jZ3djUHhuVW53ODdCeExHYzdMUXZuN3U1eG9TUVFYc1VxV0F4SkJaRHc?oc=5
 
-• Rhamondre Stevenson says Bears’ defensive alignment helped with 48-yard TD - NBC Sports
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd09jNXlmZ1FTdFRJOFdPMTVmOC1KbUlNeEZTWncwanZGakU1Y2dzbjhhLU1pZzZ2YU9PMWFKZWFZYTVSV1VPZDBObkVFMnMwdmQ3cGhlVXN5enl5ai1lQ0tNN1QwT0lQT29vQllnd0lKVVdhTjYzNTM1SlBQVXUwN2NwbHNtMEtwTk1heG5vcVJIa21ZYWctQjVhTnNNemo4RXFWTWYxTEVkMm1LYVh2SFV2N2ZrZGgwajFpZU9ybzkyOGUydTVWeHFMZ3lXNDNr?oc=5
+• OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News
+https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b - Tom's Hardware
-https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ?oc=5
+• Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories' — details unclear about potential overlaps, firm already charges more than twice that amount for its AI Enterprise software platform - Tom's Hardware
+https://news.google.com/rss/articles/CBMizwJBVV95cUxNVEpXZFd5Q2JyNFYyWHpGb1QwWWFZZ3paclJmT0NwTFNpakwwR2l5aDZDNkRyTWVoOUdFanJQd2dWMDJ3QlJxc2NRbllGXy0zU2JiUmJwSkVhaFlES1hXU2hhMFN6S0FLZjJKemtsS1JwWXdZb3QwQUV6QzRhUzZnVUllcHE4Mi0tQ2ZUUHBLc2hHM1ZNbm1xdkJMclUxcTBEcVdrZkZjYnRVRlpFODNNVTBoS0hZaGxwYVktTW85Z2djVWlId2dldzQ2dVVBLXk2dldmdUFGMnJrY19CUXQtbG16NzNiMFJmR3pGb0pOMDFacEJwdGJmYVVUYmVUZGhyeVNDaWNuZVlxZ1VPdlNlMGJGSlc1T3RfOEliZDZ3ZnJFRVZXWHltWFI4SUFsTE41eThnRUJkMU8zVE1mcWQ1N0JvM29BV3Q0MHZDUXdFVQ?oc=5
 
-• TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1. - The Motley Fool
-https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTRfalhnWXlGTDVmTnI5MzN0ZGVseU9IYThCWS1GVldzUzJaTGZZNnFPZ3JJQWpISFctR1IxSTVLQ1N1aHNVLUc3a2pRNEd3TFVDekkwY25jekxBU1ZpbjJwTWxyOUtGVlFOWGNlVnRQczdSWkZXaVJQVXRvVU94S19EZTJnVUlnRXVHTTBodTM1T01ES1dB?oc=5
+• Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2× tensor throughput - VideoCardz.com
+https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUFBeGY4RmQyNWpQQlBJdUduVlNpQWY1Q3hEU3duaUFnOTRhVFV4eTM1Wng3NjlCQ19SQUFQRk90a3lORTNuVThURTRVcmVPRzZPTVpCa0VkNGtZLXpBcnpzcXl5ZXlaWlhfamt2SzN5N0tXN1FyQXVNLW9mUXdTMGVsUUt5elBPQ1NwaGdxRzJmUEFZb0tZMmRrWFFZSTVvNHF4TFhRSm5oNmw5dWE4ZDlZRmw3MGJZY1lOUDJwdnZDLVVBMk55NUpiM0Q5bi1G?oc=5
 
-• Nvidia’s Jensen Huang wants lenders to finance Nvidia chips as neocloud bonds hit 16% - Martin Cid Magazine
-https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUtmaGNjbGNIOFpsMnc1dlZaT09QaEoxSFFWTWVMdFZhMjJ1MDJMc3JQTTdXRTV3a2N3ZW9PNTRrMHhQTVJoc19KaFJHbUV3OXpGZHlGNkFkbnlPTlU4NzlLR1dSY2Jkd2hESFVKWUllX0RGeEVfWWFTRkxWdVM0aWpQU3lybVZnSzJYZnhkU1hJRVAyZXZ1ak9n?oc=5
+• Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool
+https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkF6S3hUY1BCbVMxcE1DUjdUS2dNSHhEX1IxTkQ2OEpOWXRkc2dMbjd6NzFkR1lDQjdpYnJjT0tUSTFTR1JSbmRPRmotQ01yS1hieElPbEJvQThwc2piWTBFTzByeldYQXFCcU5rNmVBM0w2T1RIcWROY3VlSUVvMGlGbkpaSjNoTlpoSm9JMFJzcTUwRHoxUA?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Process Context for Enterprise AI | ARIS Platform - Supply & Demand Chain Executive
-https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkVTYUhoS0NLSmV5bC1rcWx2WnBLZU81TU94eVRKWi1ScVJlWWhwaUEtN0tVS0VQRXluWW9jd2pQZlFfR05fM3pldUp5NENlZVdhSVpnYzkwa2gwNUROVkRTUk1mZFJQbDBFSmVpbHlXbTBqd2lVMFdGMW5tWFR0blE0MTZScUJHUVVQMXhTMXZiR3g0bE5HVHhwdE5peEFqQm5UMHR0QVpqNHB0XzRiSDdRYko1Z00?oc=5
+• AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings - Bloomberg.com
+https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3bHQyejdhX0oxSnVaMDl0TTRTQlF2M25FUE1fZV96VVFXSUdjXzFGblEwOWdOYkM4OWFjV0VVck4yWlVfSVVxemJVUG5PRTVnZHZXMHVSeVJMSUUzNjZTM041MTlyVjd6QUF3ckVDUlVJSFVCcF8xSi1aNWdndVdhd1lSaWNQUUJZNE5VWUQtRjJJampiRlkzRWczOFZyU1dtamtXVWpFdDdxVnFNTWRGSQ?oc=5
 
-• Why the enterprise AI security gap starts below the model - VentureBeat
-https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5YeTg2dFR6WjZqWmlIUXluVkJ4d2dUM3VqdEFqOGs2bXdTRmk1WDRnZ3kwUlRZTG1aOGdlY0VWV0tWZUwxNXJyTXlhUzEwVExTQjJqem0ybDBtajRaWmhOTXdxc0xvSndERkx0MzRNbk1VcnpjaDVXaC1EWWRTM1BhakZfcjl2V1VuaW5OMkw?oc=5
+• S&P500: AI Spending, Big Tech Earnings and Fed Risk Test US Stock Market - FXEmpire
+https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1VJWGlnOHFVWXYzbDAwVHFoaDE4MXUxelhGQnFINkt6XzJraVdQaUpBdjdudGxUYWI4OWtJWmwxRWJwSl80cXcyY25ZZk9YUmZJMG0yMEpPUHd4d2Z4T2tBWkpaMWczZkxHa1l1dGIwU0R1Z1ZWNFA1ZjRWcld5eUtyQlp0RzYxSWM3Y2gwNjMxdFlFN1RfUGVOMzJUa2o1Mjg2S19DQmFqa1Zxd1M3ZzlxeFN4V0JvMDRqNw?oc=5
 
-• Case study: How Xylem scaled enterprise AI - EY
-https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGJJX3RrUlZqMG1PVDhIZm9BYWN4M3hiNmxnTHpNbmEzLXpPT1RzR3BxTHF0V00wTTdzdm1JX2Y5THozQ0ZaXzk2enJGYWZwLWtQLUI4UllzMGYxQzluR0otU0VwWXEyYjZEX3hGUmlnY1V1ZGdleWhSTElrX0RjUXh0ZHpnTUJ2ZkJOUEdYN3NXbkZfRWhJVXpveDVRQTZVWkJBaFJzUXRQbTQ3?oc=5
+• Big Tech Earnings Oct. 28-29: Copilot at 50M Users [2026] - https://tech-insider.org/
+https://news.google.com/rss/articles/CBMilAFBVV95cUxQR21vY0VOalZ1VXNtNDhOTzFOdzFQQUJkcU5RNVBrM0RmTUlpdk43eUpZSVI5cUJnb0g1aWtFRUQweFRXZGxyRTM0T2s2WnFfc0w1dzBpLUk5QU52RmNRYUpmeThKeU9PcG1McnZUaUNxdEtQYV93cElENmxjeTRpa3FtWVZ5dmNLNkdoYklXTHl1c3FP?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Ali Hussain, CEO of Tabs (AI agents for finance and accounting), on going slow before scaling fast. Hussain’s rule for growth is that you sometimes have to “go slow before you can go fast.” Putting a few pieces in place early is painful, but it makes everything aft - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NQzA5MkRuLUtZZjAxZWhkRHNpQlFUYmZlR3BwMVhtNEk5bS1sUVFUX3ItMXdIcGVfak5MaWFnUU1NU2hhRXRyODVMUDZlbjN1RW02czE5dXBSZU1LbTRzLXpOMA?oc=5
+• New paper from Google Deep Mind, and many top Universities finds the best AI agent tested solved 49 of 50 unpublished research-level theoretical physics problems, each roughly a day's work for a world expert. at under $3 each. Benchmarks for AI in physics - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nai1DbTFoX09jM3p0MndfYzl1enBpSHdpRlBneUJRdUo5a2NCWnRBVi1aTUdfWDJmNmNpdXFZNGJEVE95d0J3V0Q3MWliZ0JDMjFYUWZDY2J6eU5qTGFVSHJKQQ?oc=5
 
-• AI agents can trade, but can they prove they deserve capital ? That’s the problem @agenticscredit is tackling. Agentics Credit aims to build a credit infrastructure for autonomous trading agents, using measurable performance and risk management to evaluate t - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHRmNlelZpUkZQbW5GZmZIRnJ2c2g1TXZDd3dDNDlrX3BBRGFpcjgtZDlVXzlyYm42NWZoT1dMeWxLVmM5X0RIRzRpOTZ2TXdtVmdnYmw0ZEc0NnBPQlBfQlBxVQ?oc=5
+• 3 days ago we celebrated a milestone 2 Million AI Agents created in 1 month Days later we stand at 3.18M Agents Using just plain language prompts Agent use cases including: * Perps Trader * Alpha Hunter * Yield Optimizer * Arbitrage & Many More Running - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbWhPUUxFMy0wT3VvbmlYNmFOVlNVeUtnVUdnam4wZGsxRWxtQTZkTzMyNkY3ZXc3UG5OcGlIc1BYdWJQLUZSOUhLU0N4TFlqVFBCZVZoekxfR3o5LUp3aVFCQQ?oc=5
 
-• In 10 years, how will a venture fund composed solely of AI agents perform compared to a human-and-AI firm? - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yaXFaY3RUODVwODFfdDJ0RmY1bk8tX25DT0xOQk1TdG4zbVg2MTlZd01RVjJTNGxaRWNDV0lLcXNTckNwUzcxRDlUZ1RXTlNkdm1aTV92S1hnanNVZ1RGeUpn?oc=5
+• Introducing Binance Agent ID Exclusive — a new launch mode on OpenFour built for AI agents on @BNBCHAIN. During the bonding curve phase, trading is exclusive to Binance Agentic Wallets with an Agent ID. Each wallet is limited to 1% of the token supply, - X
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TeHpNOC0xYmlKSkt6UGU2UVhiMlhqeGM5eHU1bG1YMThiRTk2U1hMVy03bWlTbFBOMGpnSjFIdmJGNmNMMUF5TDFjcHZWUUtraFVPbFJMaWdtZF94TDdpU1lDUFE?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
