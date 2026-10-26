@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — October 25, 2026
+AI INTELLIGENCE BRIEF — October 26, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• OpenAI used AI agents to hack its own defenses before resuming model training - CTech
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeHNlQ2lqRGNTeDI2V3FjcTR2czdKOGdaajhGRzZ1MnhRRGhrMUVEYnRmTkdFZHJUS3lJUHl4NzlGcFN3LTFyZTh6TDVpcmZPWDlpbV9Sc284cW8zczVlSDhmTWpiX0E?oc=5
+• X-62A VISTA upgrade seeks to give AI agents new control over sensors - Aerospace America
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2xyQllrUWJZWl9EZXpYZUxWT1VTcUc3NlNldVhXSVBMM3VEVzRZVjI1VUR6M3RkaDR2TzBXVDlTY1hkdjRibnUyR19BQ1NqckpvMmo5RV85RnBDbjFUMktjUVU2T2c3N2tGWmYyV2VWVi16dnNCVnFaVERoSVItNlFGcGd4U0pzaDIwdnpLS1lHb2ljMk51RmptYy0wVVkzU2JkNzFn?oc=5
 
-• When AI agents run your life - Vox
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlUxWHp4ZmZWcUR2azNkdF9GYWNEZUhxeFN2VzBYYjNFZXd2bVJsQmZ0Z1VUQXl3SnFaUUpGZWx0akVKdG1nQ0drZ2xFZGdTU2JfWGVIRkFyR2FpVHlTTU5jZ3djUHhuVW53ODdCeExHYzdMUXZuN3U1eG9TUVFYc1VxV0F4SkJaRHc?oc=5
+• How Zoom is giving IT leaders control over AI agents across the enterprise - Zoom
+https://news.google.com/rss/articles/CBMifEFVX3lxTFBZVGtsY3VKRVRuSVkzQ05TaGhDTTVwTjc2WHQ3ZWYtTjZkM1pnck5VeHk2OWtTZ2Fscm1HWVo4Mnp5Nzk2MDBjUUk2MktablFwNl9QdFB6SnptRWt4aUsyUHg1UnQzT3NhV3g2c2Q4T2FucnV5RmUxZmJvRWY?oc=5
 
-• OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News
-https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5
+• Activate AI Agents on your entire enterprise estate with innovations in Oracle Autonomous AI Lakehouse - Oracle Blogs
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUdxckw0U29wRFJ3aHhLOVlVMmZWTHY2S1VZSWtnOUVqbXB0TkRGVS1JVHZRTFhWZXFHM0JkWHJKMEhjcEpNY0ZNYnBpSjRYS29HRFVRTzliYWFFXy1CZHpOUEotTW45aXo5N21lYk5OWVJ1RjJNNVBaUjQzT2RyOUl0eV9kMTVLeF8yUFZzd0laS1pfLUZtaFdCTXFUdENNNllkdmktTWRnTDRvZHlJYTJR?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories' — details unclear about potential overlaps, firm already charges more than twice that amount for its AI Enterprise software platform - Tom's Hardware
-https://news.google.com/rss/articles/CBMizwJBVV95cUxNVEpXZFd5Q2JyNFYyWHpGb1QwWWFZZ3paclJmT0NwTFNpakwwR2l5aDZDNkRyTWVoOUdFanJQd2dWMDJ3QlJxc2NRbllGXy0zU2JiUmJwSkVhaFlES1hXU2hhMFN6S0FLZjJKemtsS1JwWXdZb3QwQUV6QzRhUzZnVUllcHE4Mi0tQ2ZUUHBLc2hHM1ZNbm1xdkJMclUxcTBEcVdrZkZjYnRVRlpFODNNVTBoS0hZaGxwYVktTW85Z2djVWlId2dldzQ2dVVBLXk2dldmdUFGMnJrY19CUXQtbG16NzNiMFJmR3pGb0pOMDFacEJwdGJmYVVUYmVUZGhyeVNDaWNuZVlxZ1VPdlNlMGJGSlc1T3RfOEliZDZ3ZnJFRVZXWHltWFI4SUFsTE41eThnRUJkMU8zVE1mcWQ1N0JvM29BV3Q0MHZDUXdFVQ?oc=5
+• Not Nvidia. This Chip Stock Has More Upside, According to Wall Street. - The Motley Fool
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlpTMy1iMkV0QS1RWHFfV191dXoxR0xxMjAyUTdmanFlRmUtUjREcWhMUXNFcDBLclBBVHd4SWZvSUI4TWhPN0pMNnBGUnE1bUJ2UHpxSk5QY1p4Q1BrMkdkQWhxRUhxUDM1WVduOFR5eGlXOFZzd0d2NzZaNVg1VEdIU2FnR0dkSk5SMXRZX0F1ZmxlVnFkaA?oc=5
 
-• Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2× tensor throughput - VideoCardz.com
-https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUFBeGY4RmQyNWpQQlBJdUduVlNpQWY1Q3hEU3duaUFnOTRhVFV4eTM1Wng3NjlCQ19SQUFQRk90a3lORTNuVThURTRVcmVPRzZPTVpCa0VkNGtZLXpBcnpzcXl5ZXlaWlhfamt2SzN5N0tXN1FyQXVNLW9mUXdTMGVsUUt5elBPQ1NwaGdxRzJmUEFZb0tZMmRrWFFZSTVvNHF4TFhRSm5oNmw5dWE4ZDlZRmw3MGJZY1lOUDJwdnZDLVVBMk55NUpiM0Q5bi1G?oc=5
+• Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - Reuters
+https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5
 
-• Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool
-https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkF6S3hUY1BCbVMxcE1DUjdUS2dNSHhEX1IxTkQ2OEpOWXRkc2dMbjd6NzFkR1lDQjdpYnJjT0tUSTFTR1JSbmRPRmotQ01yS1hieElPbEJvQThwc2piWTBFTzByeldYQXFCcU5rNmVBM0w2T1RIcWROY3VlSUVvMGlGbkpaSjNoTlpoSm9JMFJzcTUwRHoxUA?oc=5
+• Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80% - Tom's Hardware
+https://news.google.com/rss/articles/CBMixwJBVV95cUxOdUh2THpuaVc4VDdKMEhWSUFkQVJNOWRyOFNiQXIxdGZJZkZsMlZWUjQ4aWMyLVUtWmVuQVNXV3hFektpanoteXpSR0tZZVlBOFY3WXhhUzZKVVRMVVE3RDkxQ29iODJLUmYwSWtWS09XUU9sb3Q2YjBNdnRpcjlwVVRZUEk1aEdzc19waU44dzRHZXJ2WHRqbmVLVGJNOUJBYXU3RHVVVzF6VGp1NEc2NTl5bXA4d3ZRNnRxby1jLWtjdTU2M0ZNaDFyNWhmUi1BRUY4eWN0ckJLT3R0Q28yUmlEV0hxNkYta3F6R0NjSDdIYS15MEZvNXUwUTk1SURBc3JRUFcwYVFXUTNCb0hNYlB4cHZ0a0F3b0ppblhFNUFvbzZIazZGaEpxQXQtMl9VdE5XVjFqMW5vdDhPNzRoSF84N2E0b0U?oc=5
 
 === TECHNOLOGY INVESTING ===
-• AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings - Bloomberg.com
-https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3bHQyejdhX0oxSnVaMDl0TTRTQlF2M25FUE1fZV96VVFXSUdjXzFGblEwOWdOYkM4OWFjV0VVck4yWlVfSVVxemJVUG5PRTVnZHZXMHVSeVJMSUUzNjZTM041MTlyVjd6QUF3ckVDUlVJSFVCcF8xSi1aNWdndVdhd1lSaWNQUUJZNE5VWUQtRjJJampiRlkzRWczOFZyU1dtamtXVWpFdDdxVnFNTWRGSQ?oc=5
+• Ex-MI6 Officer Wants To Break Big Tech’s Grip On Enterprise AI - Forbes
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEhtYWhtYXItcjg2RDQ0WDJjMUZ3Wm5FemdPVDFkcnZRSFowMWk3LW5LNXBCTnBPcnN2TTVzWDdHMjdHLU9QSGMtNWNnODFtQTBxM1FyTHJGdXlUbHBOeThuZEkydUpGWDgxN2Qzck5QUEZ1ckEwUHF2MVJRU3VENHk2NjZPSlBIX1dUQmtvR2hqeTA5VVlTV0pGX3poeHZvLTAwdFg3MUpTVnFDOTB4TjVR?oc=5
 
-• S&P500: AI Spending, Big Tech Earnings and Fed Risk Test US Stock Market - FXEmpire
-https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1VJWGlnOHFVWXYzbDAwVHFoaDE4MXUxelhGQnFINkt6XzJraVdQaUpBdjdudGxUYWI4OWtJWmwxRWJwSl80cXcyY25ZZk9YUmZJMG0yMEpPUHd4d2Z4T2tBWkpaMWczZkxHa1l1dGIwU0R1Z1ZWNFA1ZjRWcld5eUtyQlp0RzYxSWM3Y2gwNjMxdFlFN1RfUGVOMzJUa2o1Mjg2S19DQmFqa1Zxd1M3ZzlxeFN4V0JvMDRqNw?oc=5
+• Stocks climb ahead of tech earnings, central bank calls - Yahoo Finance
+https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVNoTlJHZGFtWmdpYnQwcG4tR2ZqQ1E3U0FWczVCbjFDNVRJNXctLWtDYTY5TnhFdjdFaEYwakJTY0JNUzFXS1RKeHdkdmtCeWcyaVJNWElzOVBhVHFTaGZ5UmxUUHc0ZUVnTVpWWFB2NHR3dFF4WENadnZDYWFsSG5fR2o4Uk1wcWlwaHFGdXdRX3BOYmxoMF9aTQ?oc=5
 
-• Big Tech Earnings Oct. 28-29: Copilot at 50M Users [2026] - https://tech-insider.org/
-https://news.google.com/rss/articles/CBMilAFBVV95cUxQR21vY0VOalZ1VXNtNDhOTzFOdzFQQUJkcU5RNVBrM0RmTUlpdk43eUpZSVI5cUJnb0g1aWtFRUQweFRXZGxyRTM0T2s2WnFfc0w1dzBpLUk5QU52RmNRYUpmeThKeU9PcG1McnZUaUNxdEtQYV93cElENmxjeTRpa3FtWVZ5dmNLNkdoYklXTHl1c3FP?oc=5
+• US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision - Bloomberg.com
+https://news.google.com/rss/articles/CBMisgFBVV95cUxQa29LWk1mM3hvOXNzYUlVdzdIR2VYSHJCUkdOUFJiMDRsZFpsdDJyekhzbl9qTGVPQUwzLU1IRmQtZEVCeE1kTjYtTk5YS0RhdmZkSHdmQTdEWFpubzdJdDBTS3ptTjNEM1JIaEg4MW9yMkQ4RnJyTERoOFVVa0lWc2w2NEV4OHd1TS1XVDFGbkFYRzBseXdubkhEa2ZnWmJncnV6WXh0SmVkb0J0ZWZxMlRR?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• New paper from Google Deep Mind, and many top Universities finds the best AI agent tested solved 49 of 50 unpublished research-level theoretical physics problems, each roughly a day's work for a world expert. at under $3 each. Benchmarks for AI in physics - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nai1DbTFoX09jM3p0MndfYzl1enBpSHdpRlBneUJRdUo5a2NCWnRBVi1aTUdfWDJmNmNpdXFZNGJEVE95d0J3V0Q3MWliZ0JDMjFYUWZDY2J6eU5qTGFVSHJKQQ?oc=5
+• EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. This is just weeks after Anthropic whistleblowe - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSXliRWRZVVRfZ1FQQmhSWWhKZWhRdGdjQWZaS2NlZVhvcGxjSUc5NVM5ZGxoMThQWl9hSExYWWlsMlJoNW9xbEd4VDB1Zzk4WGg2S3U5X3ZPV1E3WUpZUHFIZw?oc=5
 
-• 3 days ago we celebrated a milestone 2 Million AI Agents created in 1 month Days later we stand at 3.18M Agents Using just plain language prompts Agent use cases including: * Perps Trader * Alpha Hunter * Yield Optimizer * Arbitrage & Many More Running - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbWhPUUxFMy0wT3VvbmlYNmFOVlNVeUtnVUdnam4wZGsxRWxtQTZkTzMyNkY3ZXc3UG5OcGlIc1BYdWJQLUZSOUhLU0N4TFlqVFBCZVZoekxfR3o5LUp3aVFCQQ?oc=5
+• SpaceX closes $40 billion debt deal for AI chips, Elon Musk says https://t.co/3lPIYqGV2u - X
+https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTk1PLWpENVJ0cTMycW05dUIwMEg5X0RLZm0zUzNoNDNUYXA4Zy1BcDhnTnF2Umw2SkU5MWUyckRPSVFlY05BOFVCM3R3T3R4SmR6VXV6dk0?oc=5
 
-• Introducing Binance Agent ID Exclusive — a new launch mode on OpenFour built for AI agents on @BNBCHAIN. During the bonding curve phase, trading is exclusive to Binance Agentic Wallets with an Agent ID. Each wallet is limited to 1% of the token supply, - X
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TeHpNOC0xYmlKSkt6UGU2UVhiMlhqeGM5eHU1bG1YMThiRTk2U1hMVy03bWlTbFBOMGpnSjFIdmJGNmNMMUF5TDFjcHZWUUtraFVPbFJMaWdtZF94TDdpU1lDUFE?oc=5
+• $ORCL ANNOUNCES NEW AI PLATFORM THAT LETS CHATGPT EXECUTE ENTERPRISE WORKFLOWS Oracle introduced Fusion Companion and Fusion Agentic Home at Oracle AI World, allowing employees to manage business operations through AI to - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcElSUm5vODJ6U1NZcWVQY25jTFQ1UWpJaUItMTFxdVdKdDVSUEVvLVAyTUw0ZVc2bHgtZ0wzOXlOQ3lPQXVnLURLbU5PR1NzZ3FVVUF3aXlXcE1Mc0hWU0R1cw?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
