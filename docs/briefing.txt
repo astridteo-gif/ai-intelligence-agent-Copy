@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — October 26, 2026
+AI INTELLIGENCE BRIEF — October 27, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• X-62A VISTA upgrade seeks to give AI agents new control over sensors - Aerospace America
-https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2xyQllrUWJZWl9EZXpYZUxWT1VTcUc3NlNldVhXSVBMM3VEVzRZVjI1VUR6M3RkaDR2TzBXVDlTY1hkdjRibnUyR19BQ1NqckpvMmo5RV85RnBDbjFUMktjUVU2T2c3N2tGWmYyV2VWVi16dnNCVnFaVERoSVItNlFGcGd4U0pzaDIwdnpLS1lHb2ljMk51RmptYy0wVVkzU2JkNzFn?oc=5
+• AI Agents Are Media’s New Favorite Audience - WIRED
+https://news.google.com/rss/articles/CBMie0FVX3lxTE4tOE5ocGJJNHZxN3BwQW13Q05sS0lkTzVYTEtWN3hHd1JHUHYwNTJZTnZpanozRmFPM2lUWG1GZERUOU5yWVpXTHFPUWJhVkZvUVh2Q2YzbC0zOTFzSk9Oa1N2Rm5xRjBnd1Bscl96M3NyaVZMai1kMWVsMA?oc=5
 
-• How Zoom is giving IT leaders control over AI agents across the enterprise - Zoom
-https://news.google.com/rss/articles/CBMifEFVX3lxTFBZVGtsY3VKRVRuSVkzQ05TaGhDTTVwTjc2WHQ3ZWYtTjZkM1pnck5VeHk2OWtTZ2Fscm1HWVo4Mnp5Nzk2MDBjUUk2MktablFwNl9QdFB6SnptRWt4aUsyUHg1UnQzT3NhV3g2c2Q4T2FucnV5RmUxZmJvRWY?oc=5
+• Anthropic is pitching Congress its own AI safety bill, report says - Mashable
+https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5
 
-• Activate AI Agents on your entire enterprise estate with innovations in Oracle Autonomous AI Lakehouse - Oracle Blogs
-https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUdxckw0U29wRFJ3aHhLOVlVMmZWTHY2S1VZSWtnOUVqbXB0TkRGVS1JVHZRTFhWZXFHM0JkWHJKMEhjcEpNY0ZNYnBpSjRYS29HRFVRTzliYWFFXy1CZHpOUEotTW45aXo5N21lYk5OWVJ1RjJNNVBaUjQzT2RyOUl0eV9kMTVLeF8yUFZzd0laS1pfLUZtaFdCTXFUdENNNllkdmktTWRnTDRvZHlJYTJR?oc=5
+• First Principles: Building AI Agents on OCI - Oracle Blogs
+https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1NBZHVtRDNZVVJfYno1bFVZY0Qzal9ocGpuSXZtdDlBcmtoZXlTYVp2dnZTaWttQUMycXhDQi1GOXFRY3hJc1Vpc3lNU2R5ZFZsdEdZbllBXzhyMzBkQnFzcXF3RHZHWTlfWDlvcmdLNUJqOTRNaUpOQlA2S2hkZzFqcC14ZHc3eXpQSlB6LVQxUQ?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Not Nvidia. This Chip Stock Has More Upside, According to Wall Street. - The Motley Fool
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlpTMy1iMkV0QS1RWHFfV191dXoxR0xxMjAyUTdmanFlRmUtUjREcWhMUXNFcDBLclBBVHd4SWZvSUI4TWhPN0pMNnBGUnE1bUJ2UHpxSk5QY1p4Q1BrMkdkQWhxRUhxUDM1WVduOFR5eGlXOFZzd0d2NzZaNVg1VEdIU2FnR0dkSk5SMXRZX0F1ZmxlVnFkaA?oc=5
+• Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - Reuters
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5
 
-• Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - Reuters
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5
+• AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today. - Yahoo Finance
+https://news.google.com/rss/articles/CBMikgFBVV95cUxPa05Cb1NpWEpwbmpNOVRNV3E4ZTZqNFFLTUhpNERwRWd5N2dlQkFIV05feGs0am5uSDFTWDAzNzRpRlYzdjVwdDdtaXQ5WGhyQTA1bURwT3AyMlpEV0F5LWY2MHpSUnM1SzZFaVN4bzdqdzRTYkY3bTh6M2FhWUk4TlVLUzQ5WVJuOGVtQVpCWUdDZw?oc=5
 
-• Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80% - Tom's Hardware
-https://news.google.com/rss/articles/CBMixwJBVV95cUxOdUh2THpuaVc4VDdKMEhWSUFkQVJNOWRyOFNiQXIxdGZJZkZsMlZWUjQ4aWMyLVUtWmVuQVNXV3hFektpanoteXpSR0tZZVlBOFY3WXhhUzZKVVRMVVE3RDkxQ29iODJLUmYwSWtWS09XUU9sb3Q2YjBNdnRpcjlwVVRZUEk1aEdzc19waU44dzRHZXJ2WHRqbmVLVGJNOUJBYXU3RHVVVzF6VGp1NEc2NTl5bXA4d3ZRNnRxby1jLWtjdTU2M0ZNaDFyNWhmUi1BRUY4eWN0ckJLT3R0Q28yUmlEV0hxNkYta3F6R0NjSDdIYS15MEZvNXUwUTk1SURBc3JRUFcwYVFXUTNCb0hNYlB4cHZ0a0F3b0ppblhFNUFvbzZIazZGaEpxQXQtMl9VdE5XVjFqMW5vdDhPNzRoSF84N2E0b0U?oc=5
+• Nvidia and AMD Take $4B Chunk of Meta’s Equity. They Are Fighting Custom Chips. - Barron's
+https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWRsM3hhTFdOVTR4S2dZWkdCM2lLdUNvajFzRTRIN0wyQXRKUkdYd3hJWlNPQzEtYl8xa0paU3VSNzJUbnI4eE5fdzRGMktOUWE2cFpYMVZ5MEtPaWxuWU9uMUVaMko5dklsM0RmYWM0TGRzejRyRkl5UWt5SHJxag?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Ex-MI6 Officer Wants To Break Big Tech’s Grip On Enterprise AI - Forbes
-https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEhtYWhtYXItcjg2RDQ0WDJjMUZ3Wm5FemdPVDFkcnZRSFowMWk3LW5LNXBCTnBPcnN2TTVzWDdHMjdHLU9QSGMtNWNnODFtQTBxM1FyTHJGdXlUbHBOeThuZEkydUpGWDgxN2Qzck5QUEZ1ckEwUHF2MVJRU3VENHk2NjZPSlBIX1dUQmtvR2hqeTA5VVlTV0pGX3poeHZvLTAwdFg3MUpTVnFDOTB4TjVR?oc=5
+• Big Tech earnings to test AI boom amid market turmoil - Reuters
+https://news.google.com/rss/articles/CBMingFBVV95cUxNRXF6SzRzQjFlSVJ4Wjk2OEdySTRrS0F3eWlZcXQtRDdXN3hYZ1Z1YmVqbUJzbURWRW9zZHBEcmd3QWNxRGp4QWZuX0VfT1dQNVBJNDNMaXVYSDFHY3NTb2ZvNlJfdjZuUmluNERuS3FIeF92cV9uWVFyQ29zU29ybEFHRU92SDR3ODZvWXpvQU5NZ3dfZGFQcy1iQVhudw?oc=5
 
-• Stocks climb ahead of tech earnings, central bank calls - Yahoo Finance
-https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVNoTlJHZGFtWmdpYnQwcG4tR2ZqQ1E3U0FWczVCbjFDNVRJNXctLWtDYTY5TnhFdjdFaEYwakJTY0JNUzFXS1RKeHdkdmtCeWcyaVJNWElzOVBhVHFTaGZ5UmxUUHc0ZUVnTVpWWFB2NHR3dFF4WENadnZDYWFsSG5fR2o4Uk1wcWlwaHFGdXdRX3BOYmxoMF9aTQ?oc=5
+• From Data Silos to Enterprise AI with SAP, AWS and Snowflake - Snowflake
+https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVdUU2hEbHFmUlB1V25zRnc5UHlEYmZvU0JQMF9lZzREb3B5Yl9VTlJuaVBpVmh4NVpCQU9CckM3ZDgzQUZScVdpc21DNkdpa3lqX1lETGxhOXQzdE02VkhlM3g2SXdSeUE3a0ZjT1JZY0FjOVFXekE0eHE5ekhLb2wyb2laeDM2cW4yS3JObEp5Q2gxdkJhX0V1TFhLMk1ud2dDVzBySG9BTFV1V243eFJBaEg?oc=5
 
-• US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision - Bloomberg.com
-https://news.google.com/rss/articles/CBMisgFBVV95cUxQa29LWk1mM3hvOXNzYUlVdzdIR2VYSHJCUkdOUFJiMDRsZFpsdDJyekhzbl9qTGVPQUwzLU1IRmQtZEVCeE1kTjYtTk5YS0RhdmZkSHdmQTdEWFpubzdJdDBTS3ptTjNEM1JIaEg4MW9yMkQ4RnJyTERoOFVVa0lWc2w2NEV4OHd1TS1XVDFGbkFYRzBseXdubkhEa2ZnWmJncnV6WXh0SmVkb0J0ZWZxMlRR?oc=5
+• Anthropic Says Enterprise AI Adoption Remains in ‘Early Phases’ - WSJ
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQWm93clFxa0N1RmJ3N3oxWEN1cUx5NjB5WGdfallYRFhmMXFiTHF5dDktRWpXNnNnVWgtMDFxRHJqSzN5YUlPLU9wTjZ3QThZVkRQbTB6ODJzWWhxUDA1cWpuYWJDQ1czSGc1b1B6M1dfY25kSkUxcnFoVlB5NTBZQ2s0ZEE4TDN5WGxkMmVLTndXUFBZc1VZNzlkTm1EbGYxMzByZA?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. This is just weeks after Anthropic whistleblowe - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSXliRWRZVVRfZ1FQQmhSWWhKZWhRdGdjQWZaS2NlZVhvcGxjSUc5NVM5ZGxoMThQWl9hSExYWWlsMlJoNW9xbEd4VDB1Zzk4WGg2S3U5X3ZPV1E3WUpZUHFIZw?oc=5
+• "The Trifecta" my latest essay on how @flop_labs compute spot market will become the reference price for all compute focused derivatives. "This summer, I unveiled my idea for the Flop Network. FLOP is food for your AI agent. Agents will use FLOP in commerc - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdHJrM0o1akVhY1F4X0ZXaTczMC1xVXBxci1Ca3o0Y1hYeGM3SUpjVXUzOVVzTk8ySHJpUjhzMHQyN0JkNXNOZUR1R0JOV1k5NXkzRTFGdmxILUhJWTI5WXJn?oc=5
 
-• SpaceX closes $40 billion debt deal for AI chips, Elon Musk says https://t.co/3lPIYqGV2u - X
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTk1PLWpENVJ0cTMycW05dUIwMEg5X0RLZm0zUzNoNDNUYXA4Zy1BcDhnTnF2Umw2SkU5MWUyckRPSVFlY05BOFVCM3R3T3R4SmR6VXV6dk0?oc=5
+• AI that knows your company’s content and branding? 👀 With Templafy Team, build and share AI Agents that create editable PowerPoints using your company's knowledge and templates. Get started 👉 https://t.co/5Nql16vN1p - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Tzd2RTNxdllMWTZmOFgxTURQQmlaUk5jVVBWZk1qQXpuLTFYc0Fud2RYX05WLUhacG50ZjZsZXpKU1pfd3JHbmpiZG1FS1JnM1pmQ1MyYTByNGhtQ3c?oc=5
 
-• $ORCL ANNOUNCES NEW AI PLATFORM THAT LETS CHATGPT EXECUTE ENTERPRISE WORKFLOWS Oracle introduced Fusion Companion and Fusion Agentic Home at Oracle AI World, allowing employees to manage business operations through AI to - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcElSUm5vODJ6U1NZcWVQY25jTFQ1UWpJaUItMTFxdVdKdDVSUEVvLVAyTUw0ZVc2bHgtZ0wzOXlOQ3lPQXVnLURLbU5PR1NzZ3FVVUF3aXlXcE1Mc0hWU0R1cw?oc=5
+• $DASH is in advanced talks to acquire $CART after $UBER stepped away which would give DoorDash a much bigger grocery delivery network and access to Instacart's high-margin advertising business. That could become even more valuable as AI agents st - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RaHVHd04zX0h4TGJZeTZEQ25ydUYwcjNSRWx5TFN1b3hmbE8zaUxnX01CaGUxbnRSSHkwdi1uLXdZYWVKTEtoVGJRTGJxY05XLU45WGZKejVjM2gtZGZxSm1KcEltZw?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
