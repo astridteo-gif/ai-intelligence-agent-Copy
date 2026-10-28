@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — October 27, 2026
+AI INTELLIGENCE BRIEF — October 28, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• AI Agents Are Media’s New Favorite Audience - WIRED
-https://news.google.com/rss/articles/CBMie0FVX3lxTE4tOE5ocGJJNHZxN3BwQW13Q05sS0lkTzVYTEtWN3hHd1JHUHYwNTJZTnZpanozRmFPM2lUWG1GZERUOU5yWVpXTHFPUWJhVkZvUVh2Q2YzbC0zOTFzSk9Oa1N2Rm5xRjBnd1Bscl96M3NyaVZMai1kMWVsMA?oc=5
+• BankThink: Understanding the banking industry’s reaction to AI agents - Bank Policy Institute
+https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXVIZE1kOUVCQmxYalhLVDlmNjRKQjZ2cEtIeHd2RWFaaThOSnFEODBfNk5kOS11R01MQjF4eTg2c21YLU1CYVZXLVdsS3ROZVVMYklMd2FhSk1iQnZWckdzVlBjYlpDZHFyRm1oYmFIcl9vRFNET2kzTWtGR2R3eVdHZV9odTM3Q2tVdw?oc=5
 
-• Anthropic is pitching Congress its own AI safety bill, report says - Mashable
-https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5
+• Zocdoc CEO: will AI agents make your business more valuable or more vulnerable? - Fortune
+https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTZ5WURZYUxNUS1BUkFPWXduNWxQSjcybTBjcEFxZ3hOSC0yd0toQWl4NjQxSXRiLXRUS2VCakRuRjV1eGp6TWEtLWxnRFBocDRKU28yaE1jd3ZsVVdYeWtJQ1VzNXpaSERLbkJETnZCWVBjVmdEM0tSeVRONnRocmZsTldjQ1FwSUQzRVQ1TjZQVFk5c1BNUWFCS19nZmxnMmJpeDFuRlE0MHZJZ3c?oc=5
 
-• First Principles: Building AI Agents on OCI - Oracle Blogs
-https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1NBZHVtRDNZVVJfYno1bFVZY0Qzal9ocGpuSXZtdDlBcmtoZXlTYVp2dnZTaWttQUMycXhDQi1GOXFRY3hJc1Vpc3lNU2R5ZFZsdEdZbllBXzhyMzBkQnFzcXF3RHZHWTlfWDlvcmdLNUJqOTRNaUpOQlA2S2hkZzFqcC14ZHc3eXpQSlB6LVQxUQ?oc=5
+• Inside Anthropic’s IPO + How AI Agents Spy on Your Messages : Machine Gods - NPR
+https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzZmaWlydTRmOXk1ODN0ZTVZc0lJMVd5cHpBMVVJVlhrZzUxNnlGNWJGRHRTQ2pWSXNFc2Y5bWU5UWZWczJfUjJqMUV6MmxHblhtVHoyNFFreTF2UEFZMFNiX3l0Y3BvTm1GVW5WYXZnXzI0YmdkRHV0QXc5azBqLThySm0zalBxVkszeHQ0emkyZDMxeWdOcFRsT01GeHVPalc4?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - Reuters
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5
+• Google's AI chip business is getting harder for Nvidia to ignore - Business Insider
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ?oc=5
 
-• AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today. - Yahoo Finance
-https://news.google.com/rss/articles/CBMikgFBVV95cUxPa05Cb1NpWEpwbmpNOVRNV3E4ZTZqNFFLTUhpNERwRWd5N2dlQkFIV05feGs0am5uSDFTWDAzNzRpRlYzdjVwdDdtaXQ5WGhyQTA1bURwT3AyMlpEV0F5LWY2MHpSUnM1SzZFaVN4bzdqdzRTYkY3bTh6M2FhWUk4TlVLUzQ5WVJuOGVtQVpCWUdDZw?oc=5
+• Nvidia Stock Faces a Test From Its Biggest AI Chip Rival - Barron's
+https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3BUbE1JVUhsMjRDT1V5LUY3RlMyTmJEM0JpVHdoLTdzdjJFOHFiSTdhNHVHRlRUMVJGN1JOUlFpZDd4SDRCNHUzQjYxN2tIRUgyVzQ3RnVlcmpCVE9wajJqcE5SNWpERU9ScHdwb3A2NHlGU29tc2lZR2lVWmxFTU1DdlNHczQ?oc=5
 
-• Nvidia and AMD Take $4B Chunk of Meta’s Equity. They Are Fighting Custom Chips. - Barron's
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWRsM3hhTFdOVTR4S2dZWkdCM2lLdUNvajFzRTRIN0wyQXRKUkdYd3hJWlNPQzEtYl8xa0paU3VSNzJUbnI4eE5fdzRGMktOUWE2cFpYMVZ5MEtPaWxuWU9uMUVaMko5dklsM0RmYWM0TGRzejRyRkl5UWt5SHJxag?oc=5
+• Why Nvidia Needs CoreWeave - WSJ
+https://news.google.com/rss/articles/CBMicEFVX3lxTFA3SFFrQkZQazVtd2tRMURid2JEVVNGTHltNEFjZThqcHFCWHZtczZ1eG9nbVRsMVJhaE9haWlxSXJQUmFndXpXb3gySWMyeWpxcHZ6RHM5X0RBQWhhaFdpUkFHbWxhSmtabzNsc2tHeGY?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Big Tech earnings to test AI boom amid market turmoil - Reuters
-https://news.google.com/rss/articles/CBMingFBVV95cUxNRXF6SzRzQjFlSVJ4Wjk2OEdySTRrS0F3eWlZcXQtRDdXN3hYZ1Z1YmVqbUJzbURWRW9zZHBEcmd3QWNxRGp4QWZuX0VfT1dQNVBJNDNMaXVYSDFHY3NTb2ZvNlJfdjZuUmluNERuS3FIeF92cV9uWVFyQ29zU29ybEFHRU92SDR3ODZvWXpvQU5NZ3dfZGFQcy1iQVhudw?oc=5
+• Big Tech Earnings Face a $600 Billion Question: Is AI Spending Paying Off? - Yahoo Finance
+https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2gwRjI1V1NZNS1oRjhhN1FIeUhYRTNMZFNPdkJySnB5c0Fqc3h4OHNSNHBVT1Judk9wVEstTnRVc1BqY2FRS0xvUlJDX3FWV0QxSFNVaWlPUElZRFFnMVE4dGJpRTkyNjE5UUtjQy1QZFVzSXJhQ3VwWUZRRi1aV0ZyMGhESGR4aUtjT0Q4OGpxRmkz?oc=5
 
-• From Data Silos to Enterprise AI with SAP, AWS and Snowflake - Snowflake
-https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVdUU2hEbHFmUlB1V25zRnc5UHlEYmZvU0JQMF9lZzREb3B5Yl9VTlJuaVBpVmh4NVpCQU9CckM3ZDgzQUZScVdpc21DNkdpa3lqX1lETGxhOXQzdE02VkhlM3g2SXdSeUE3a0ZjT1JZY0FjOVFXekE0eHE5ekhLb2wyb2laeDM2cW4yS3JObEp5Q2gxdkJhX0V1TFhLMk1ud2dDVzBySG9BTFV1V243eFJBaEg?oc=5
+• The AI Trade Is Back. Why Sandisk Stock Is Rising Before Big Tech Earnings. - Barron's
+https://news.google.com/rss/articles/CBMihAFBVV95cUxQRV9JTk41bTdzdHM4M2VZYnc3aVVEbWFxT2xFbDd2T0R2bXVSZ0hZX0FkZ2lNa0lTdFFlOGNwUHBDUUlfdDFsX0huY1ZHM2VyYlhNVEt0RVhQcTU5TzJMaTRSbFpZdXA2Nmd2TEw4M0pYdHJZdVNrLWExVzU2OGJPdVJoMlg?oc=5
 
-• Anthropic Says Enterprise AI Adoption Remains in ‘Early Phases’ - WSJ
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQWm93clFxa0N1RmJ3N3oxWEN1cUx5NjB5WGdfallYRFhmMXFiTHF5dDktRWpXNnNnVWgtMDFxRHJqSzN5YUlPLU9wTjZ3QThZVkRQbTB6ODJzWWhxUDA1cWpuYWJDQ1czSGc1b1B6M1dfY25kSkUxcnFoVlB5NTBZQ2s0ZEE4TDN5WGxkMmVLTndXUFBZc1VZNzlkTm1EbGYxMzByZA?oc=5
+• Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings - Reuters
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• "The Trifecta" my latest essay on how @flop_labs compute spot market will become the reference price for all compute focused derivatives. "This summer, I unveiled my idea for the Flop Network. FLOP is food for your AI agent. Agents will use FLOP in commerc - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdHJrM0o1akVhY1F4X0ZXaTczMC1xVXBxci1Ca3o0Y1hYeGM3SUpjVXUzOVVzTk8ySHJpUjhzMHQyN0JkNXNOZUR1R0JOV1k5NXkzRTFGdmxILUhJWTI5WXJn?oc=5
+• New Anthropic research: How AI agents shape experts' judgment calls When experts delegate work to an agent, do they still make the key decisions? We tested this in a randomized trial with 50 professional data analysts. - X
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE85NTBMR0hjaWs0WmJsV1lZeTB6QVJZQUE1cXRNcVU0N3J4UTVwSkdlNURtQTA4MGFnODhjZEM4MjYyQkFFMEZVeDdwTVRhS09zeHRLZS1fZTU2OUc5S0V3SA?oc=5
 
-• AI that knows your company’s content and branding? 👀 With Templafy Team, build and share AI Agents that create editable PowerPoints using your company's knowledge and templates. Get started 👉 https://t.co/5Nql16vN1p - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Tzd2RTNxdllMWTZmOFgxTURQQmlaUk5jVVBWZk1qQXpuLTFYc0Fud2RYX05WLUhacG50ZjZsZXpKU1pfd3JHbmpiZG1FS1JnM1pmQ1MyYTByNGhtQ3c?oc=5
+• Congrats to @matsiiako, @dangtony98, @maidulll and @infisical (W23) on their $40M Series B! Infisical is the open source security infrastructure that manages API keys, passwords, and certificates for developers, machines, and AI agents. When an AI agent n - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VYTk0dVlYMHBXYUlpNkJ5MktPaC1JLXRuek1xUGMxSFBfazhkQUdfelRrUFJEMDV2WEVFbDZlVG5wT3YweUFDUXpFSTljM3A5OGN2T3Z2Y0cyOGJMWnBCN1pR?oc=5
 
-• $DASH is in advanced talks to acquire $CART after $UBER stepped away which would give DoorDash a much bigger grocery delivery network and access to Instacart's high-margin advertising business. That could become even more valuable as AI agents st - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RaHVHd04zX0h4TGJZeTZEQ25ydUYwcjNSRWx5TFN1b3hmbE8zaUxnX01CaGUxbnRSSHkwdi1uLXdZYWVKTEtoVGJRTGJxY05XLU45WGZKejVjM2gtZGZxSm1KcEltZw?oc=5
+• Must-read paper from Microsoft Research and Georgia Tech. This one has lots of great insights. They used 163,487 Reddit posts about AI agents and surveyed 73 experienced agent users to map how delegated agent work goes wrong. The result is MANDAT - X
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKMlA0UlA1NzIwVVd3M3BpZVFOTS1GUGZOVVdPRGRjQmh2bU9vdE5kVTlPLUZUUmktTWlDYXppTXBpc1ctNDVmWXRyZVk1Umc4T0JnMnJvdk5XQ3p4?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
