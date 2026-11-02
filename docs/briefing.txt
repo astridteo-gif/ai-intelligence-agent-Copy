@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 01, 2026
+AI INTELLIGENCE BRIEF — November 02, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• AI agents bypassed crypto spending limits without human approval, researchers find in a new test - CoinDesk
-https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY09RQkZtUy1pcGpmVXJHNXY1VzJueUNTWG9sZm9JMVRsRk5HRERRcWtWN2JiNEZBaURtbFVBX0VmcG1SN1dnVHd1ZEVHaC1JX3VOUTVUUHNlcmh0bkF6RmMzQUFEdS01ejFwUmFDSTR1Z25fVFA4Y2d5NV85U0drOG1JcVpFU0lScGlKYmtfTkZhOXM3TlhsN0RKem5BdDZ5MEF3RXRIMjdTbFVuN0htbzNQOHVYN3dad2wwb1NKdE5DQmlJalYtaUMwWUdaODZIdUE?oc=5
+• 3 questions for securing AI agents - Cybersecurity Dive
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkt1X3RiQUNqODF0bFNZd0UtLWdCUE9fYVY5V0J4bE1TTEFpWVk5RGRiSWstSFBfdDhnVG1DUzUybk5hTHZCc3kycm1RcmxBTmJhVzJIbVNKd0lvemFydndqUUxfdmVZMTN6RGdiUU9ialZ0Z0RsNEo2R1hTUG9qNW5qNGxkVkpoaEE?oc=5
 
-• AI Agents Bypass Crypto Spending Limits: 9 of 10 Models [2026] - shattered.io
-https://news.google.com/rss/articles/CBMimwFBVV95cUxNS092dW1aT2pKeng2eUt5c2M2V2xkdE5RUTEwOWttTkhnYkQyRndvTHYtVVE4MzAzUEgzM2wwTmpZa1hULWg2WVdYTGY3dUdmWDJvTUF1OU5IS2ozYUZJbVpOLVZjOVhRTjRKaXktbTIybGJnVUVpeXM5VUdyZngxQVd1RTRCS1Q2UGpBM0xtbmZZMHNGV2ppNXQtOA?oc=5
+• New Cortex XDR Integration with Claude Cowork Secures Desktop AI Agents - Palo Alto Networks
+https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlV0REQxNE51RE80WmxjMDNncy1KSzhEWFZ2cE1sa1Q3NWVrdW0wMXNWWjU0MUFKalJNTjlHdmJ3WHVqZExueW5FWlBuOEVsVTZiNHUzaW51WW5xbjl6RE9ZZWZseWFtUl9ncDlLdUR1STRseXMtQVpaT1o4MTc0eEhSRjRaTEpHQ29CNEhWZ1M3RHRZdDMyZklJZFVkbkRFbFpwRzdQVVAxYWphRnY5WFFsWUJ1NkdJbVE?oc=5
 
-• I run an 8-person startup that uses AI agents. We don't let our agents run on vibes — here's the playbook system we created - Business Insider
-https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFoxXzdIOVdRWjZOc1JTVEtkd1lsVjM2Z0pZS01GU3pjUHdyYjhhOE52REZCQ3JLVkFBRmpJY2J5NnhJeE9XQUpNLTFYdzNzX29kMnBybUZ4WlFSeGhxbUJhMXBJNmhRckhuM0JlM0NLRkxHaGVMQzVBQWs4eUtfakl3aGlJZHlDMXd2dEtlb0lIaGZUUmcwU1ZB?oc=5
+• Wells Fargo wants customers to prove they've revoked AI agents - American Banker
+https://news.google.com/rss/articles/CBMingFBVV95cUxPTFllV253eXc5QTlsUm9USFhyLUl2SXF3Ylc5dG1SYWNhemJ4bUFVZXF5Z21XRVIxWk1FcmVkblJxNjVsc0Z2OVRHV01VMDl2Q3Vkak8ydFF1UGdKdlJsLTFHc2VETE1fRk90MHNxbktYRVdjNjAxSjlZcFlaMFNlVG81ZUJKcmRRYWppWUNRbVBOYWw2QkZheFNjV3hzdw?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia revenue soars 106%, beats expectations as AI chips stay in high demand - ABC News - Breaking News, Latest News and Videos
-https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdlSVdfanZLZVB3elBDNkpjOXRrVEtqODlaaVJEakxvWUhTLU9zNEpkUkUzbUpGWVhDNEQtc2JNSEpwRFlTQUpnNkw4eU5xakpQd09OaXAzQUw2ZEJaVHRlb1N5cU1rcFZ3XzYxMl9RNWx0dGwzMGtvb1dORHNqbUVmdmd1RDZXdEFIcXc4Vmp2MEFmc1hmYXpzONIBoAFBVV95cUxQbExCZEYxVi1YOTlRaVdpZVlpb1NSZVZUWExBazBJSVBhUlZtOUM3YzhpUG1EZGE0WGZ5VkNoNDM4LTBqTG82bXktaGdzb2tmcFY5dVV3VEpseDZhNXc5SGVjOTZIWFNscmRFNDJkd0IzdHJCYkZHSUFHZG1KcVdldGdOYkd4b3NnYVFMRnB0NW9lRkxIdVhRRjFHZ0lsVm92?oc=5
+• Nvidia Stock Is Rebounding but Stock Chart Is Really Ugly - Barron's
+https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ?oc=5
 
-• Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops - Tom's Hardware
-https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVUtXVThBWVBJbnBvZk1QVUZvQ0l3aEVQd1FETFlLdGZocmtJaGp5VmI5N0JnLTlUSWV3cTdoR1FYLXpzcjN1TjBzR0JEU0RubUpUbUlPd21YaHpldFI0dTJxTXM2ak9SRnV0ZVI5UWxFSVhCQUFzcnd5TTYzNlB1amRFdERkYmpFQmQxMlBndFVoV0JIZmRkbnhCUHJPb2l0djNyQ3BOejR6d3ZEYWtURW1ua0c3YzN0N3BTUEJNRzQwTndnVFNjdTRQcWQySXc4SVc1UEFWY0ZxdzJjTV9sTXdKeWluRlBFc0Vydnpldzk4OUh3dVpzTFRnQmdjTE01MWtYRmZLNFc5aVVuQkNudWZjdFNUclBJS3BULWNUVGZMQ2dfYVhKNHpSYUhUN3BJWThlQWIyZmFfUGhtUzRtMHkxbjVvbFRib1paN25JdTZ1amtvdDlYLQ?oc=5
+• Nvidia stock valuation gets torched by tech stock rout - Yahoo Finance
+https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZseDhYeDZxTDFzcm9tLVdXRlo0RzdnTzR6U284RVFhTW1Rc09WU2R6TG1iODczZUQ0RUdPTDdPR09CajZWc0tNMV9laGxQZktza2RtZXRKTE5YT0xfY2FFWFRmVTkyWUxnb251UEJ5TWV5UFJ0VzU1LVgtTzEyZ0RjcURPUXItdEc2YzdSREtuRGZhVUlHQ3JMbWNOZmllc1RzNUphcFBRSjFTakZrT0dpTENVMFhFVVE?oc=5
 
-• History Says Now Is the Perfect Time to Buy Nvidia Stock - The Motley Fool
-https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWMyN3BWNjUydjN3Z0tDM2ZTQVhqOHhKLUp4eE1PRlJEWE9zaFRzQ1hNbUdodV84UWoyaGo1LXRMcmltNV9jYkFIMnVCVFlxMDVUdzBBNW1yaWpjcDFWTWdna3lmTk5FZmU0SE1SLThOLW1ZWlgyeUZtV0VQb0RvM2lSaHByeXhWMlVRcTRUbmR6dWFkbzZBYg?oc=5
+• Nvidia Stock Looks Surprisingly Cheap. Why NVDA Could Rise 61%. - Barchart.com
+https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjA4NDQtRjBtaDZMX05LdkpMeWZrOVYxWFc2TTgtU0phdXlnc1RvZlJVb3NxWjlfbnkwY3VIOXpvZWpzUklKWEh3LTF6NVBxLWs3OWlsVDY2bXpwa2MwZXczNDhXelFzYUNfWHhwaDVKSnhWZnZDQ1FiRWN4TUNjUVdsaHNHWjJCMDNmbFR0SHFscGpZekx4b21zYmZ5aDVsSkF2UTRmQQ?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Enterprise AI Is on the Ballot Too - WSJ
-https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTVpMldVTW9uaXhuTGx5V21XWXJWSkh1ZERzVGFuUTZTRlF5Y2lOc1lWeEhHMUJDZ3ZzNEpTTHo0QmoxRnRoWFhhcXI1N3psenM0NV9INWFsaXpUS1AxR1dydGVfWVpzekZ1SVRraWdsX2tDUUk2TE9lZ0RKZlNmYw?oc=5
+• IDC Analyst Connection: Moving Enterprise AI from Pilot to Production on a Private AI Cloud - Broadcom
+https://news.google.com/rss/articles/CBMirwFBVV95cUxPSjhXWFBZR3pIeWFFZlZVdGdERnFlRUpTMGhGUHpUZ0wteVZ6Z3BzODZpNmxKZ1hzc09Vcnk5QVl1QmJsYzJDb05VVDRHd3lsdzV6UFFNUXdNQzl0VzhlemJBZmRLeVh1ZmpuZTNndFR3V0F4VTlwTzcyVE5JeUlxZGtHSU9DNUtUaEFfaDVadjM4QUJrS3hUdFZoLUMtdTdXcnhESkVDVy13QmhFVTAw?oc=5
 
-• A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week - Yahoo Finance
-https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmhmUzRia1E3UTZOLUQ1YlQxdkdqYkk0dUJINVh5WWtpQ2xhZ0tsakhDbHF5OFlXTzFtTlFrOE5QVzZFbUJjNDRyUDY3RHRNdmhtS3JoQVhkb0RqdEctbjhPV0VPMXRVTDFvOHBXZXdoRmtMY3J5NmNJQU02ZE16RkkxVThKV3BiQVFoTnFtRjc5d2RPLXBQd1VUZ25BSEhJTHB5bkxoOFVFU3R4MHB6UGljUTJNYU92eGZSb29rbFhsT293OFJURldyREpGOWZ0Y0ZTQ1hsMEFxWkdMTE9kU25IZkNSampjeC04?oc=5
+• Enterprise AI strategy sees Cloudera bringing models to the data - SiliconANGLE
+https://news.google.com/rss/articles/CBMinAFBVV95cUxObnhFdzU0U0RLN1RuUUd2cF9CaTNPYWZ4SlZuaHJRTDVuTGNhRW9GM1prb1p6ajNyQXhkcmstVTExSUFJT2hhWWlvWlh0cUQ1NlRzUDZaUVRxYUVjMjVBeWIwRXdmaXVDMDVBUHRNNlA3SzFqbU5MaHJJYnpaUERlNElfbm9JdHhxVWhhbHZJcnJsZ1ZONEJXV01GSkM?oc=5
 
-• Big Tech Earnings: Azure +48%, Alphabet -12.6% [2026] - shattered.io
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUk9ERlhzNzNrS1I4QXI3OW92T2t0UVRuZWNzVElqbDlvc2piVmdNWGxUdkE2RFZEVVkyQXdRbkMweUpFaXFJVlNLRzJqbmRvcHZ4bU5wLWxNNWRDU1pFel9UVGlLUl9MemU3ZWFLcUJCUTVCSUhxSUJTeHk1TXFQMk9yZVRDcGFPQkdv?oc=5
+• Palantir Tech earnings beat by $0.03, revenue topped estimates - Investing.com
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU0wtdFBQZmNoR3pNWXdiZzhXRHJEcGx1N0NHQXRFZ2o0dFV4OEZnQ3dBbGpqSjNVQ2VDRDNQRU9yeWhLSG90UU01MHB1dUhmbVhJRHFFMUJpUS1KcldkNm93LXhHY08tNk5sUy1vV205MVVLYkZIbGpHdk82MUZOTUZ4X1FKWF9SbC1Sc2JISHM2YjFKMUdUTHUyMk53VGxLeWhCa1JwNjdhSHM?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• The three largest cloud platforms are now generating a combined ~$440B in annualized revenue: • $AMZN AWS ~$184B (+39% YoY) • $MSFT Azure ~$133B (+48% YoY) • $GOOGL Cloud ~$123B (+103% YoY) Agentic AI is becoming a massive tailwind of cl - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TWFd0alY2UkRTZkJDc3BpVUlzckVIVFpCMlhKM08wX1ZiZGVrelExd2FvYnBMakxYTU5sQTVuQlktVUpVY3FnUTdUY09CTmt2ZC1iWERZaVZoNlduM2ZqR3RwSFd5QQ?oc=5
+• Super interesting Benchmark. GDPx measures how well AI agents handle 206 challenging tasks across 11 economically valuable fields, including chip design, software engineering, finance, and biology. But here's the interesting part: Opus 5.5 wins with 12%, - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PNnRuZzhXal8wX1ZjbkJZV04xR3BRSnI5Q2w4VzhEUmg0S3JLdkdBSHE2NGR0YXIxYmpyZmVHZ1o3a25icXNDZ0ZsNjdwdkk3dHV0Y3MyR0NzTmxMTm1UYVNB?oc=5
 
-• I assume this insane explosion in demands for verification is a response to the threat from AI. On the other hand it could just be general corporate paranoia what annoys me is that there isn't much variation in security between sites which really matter (such as y - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE0weXdlSmZBYzJrbXVob0sxMmdwUndIWE5HY2tNTnNRaEZINUJDU2RMTS1QRzdlaVNlUEg5bGduWnNCNVgxYk1SbTZGckRtMU4tb1d5NmlCLWQwZHBiYnZxN1A3SFFWdw?oc=5
+• I'm slowly enabling auto-merge across my repos Claude Code agents already handle PRs, CI failures, security scans, and AI code reviews (Cubic + Greptile + Claude Code review + NVIDIA Skillspector) Once all checks pass, PRs can merge automatically IMP - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTFBicG1tcDMtMkZ2UnVHdGswZ05ZTzdqTDljYXpoRWFMSFYxYjRtQzYyNmtaS1RtaUJnZXM2WnFGcXZDaTFJZmNEMEgxNVcyLUF1cTJpQ1VvUlVreFRfd0NIb0VR?oc=5
 
-• BREAKING 🔥: A hidden Claude Mythos 5.5 mention has been spotted on the official Anthropic website. > "Claude Mythos 5.5 - Our most capable model class for cybersecurity and biology research." Should we expect Mythos 5.5 for cyber defense next week? F - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoVnNCek5hWEVvV1RFdGMwNjNHUFJjVWNTY2xudFN1TEJvbzVoSzdFeUducmtfVUQ0SFZ4QzRzSUZKeDhvbWJEbnBOeXpMdUFfdDlvNldTdXlTVDNFam1QNVI3Zkw5QQ?oc=5
+• Full-Stack + AI Engineer Roadmap 2026 1. 🌐 HTML + CSS + JavaScript 2. ⚛️ React + Next.js 3. 🟢 Node.js + APIs 4. 🗄️ PostgreSQL + Databases 5. 🔐 Authentication + Security 6. 🤖 LLM APIs + AI SDKs 7. 📚 RAG + Embeddings 8. 🧠 AI Agents + MCP 9. 🐳 Doc - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LejhjZ1FzZWI0b2RwUTc0UmtfY3lVa2sxcHJZZng1ZnlJalp6clA3V0hUcTRUSHhrbDR5enoySXZpcG81ZHQ3UElqS3Q4ZVo0UktaNlZHeklJRDR0YnZ1VmxB?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
