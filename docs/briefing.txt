@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 03, 2026
+AI INTELLIGENCE BRIEF — November 04, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• MyGolfSpy Drill Of The Week: Stop Hitting Thin With This Alignment Stick Drill - MyGolfSpy
-https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGt3UTJZRDViUlJVcTFmTE1mMzJWWHBLcXpJMDZPZ0ZMdmQzNVRKZFN5dlp4QU0wcHA3VXNDWldESkE4SnZJYnQ2MVJYWFhPQ01zTWtyU3M4VGxFci1PNzRFdnRzRE9IdDVmd1FBek9kY0RTWkdCX3NmZkpXd05qeTBITEVaX3llZkYwVmJvNndqS05WcnN1MnNWSUdkaTNhU1BLZXRLeEhUT2JIUGNKYy1FNm1PY2hKSmgyRlh2d0d0QQ?oc=5
+• Do you use AI agents to run your daily life? We want to hear about it - CNN
+https://news.google.com/rss/articles/CBMid0FVX3lxTE0ySGh1bnR4ODR2RVJkcy01U2xFX2ZpbkFyaGhTV0t4dVhyeVJ5WS1oaFgxcWMtdWlKaXlVVkt0MUlQZmJ3MmkyV05XTG5mcU8ycnBGUjdMTHUyWUxiaGlVWVBWR21Xc1ctWE5va19jSzNQOEt3WWJr?oc=5
 
-• Snowflake Helps Enterprises Deploy AI Agents with Trusted Business Context and Built-In Controls - Snowflake
-https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlZpcVZsSlhET0tLWmE2SS1ZSzFRWkszYWotOVN5Wldja0NhLV9fQlIzeG5sMmRKc1NnYlV0MnhrcUdLS0h5cGlNWnV3OWE0TjAxTG1vVEhhU2c5VmNQQkExb3o2OGNxR2lHRFpUX1FQaUpfbHhKeDBJYTlicndLaGd6RXBQbXRXSU1DLW45c0pnWHF4M3VCSzNR?oc=5
+• How ElevenLabs' CTO is rolling out AI agents—and why he thinks bigger efficiency gains are ahead for the voice AI startup - Fortune
+https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3AzaXpCVkVhZlJnTGtVdWZSZGUxVG9hTm5ST1VpUURJdlB2OFVqZ2hsMlpLWVNnSWJ0RXhtQU5xcjRIWXJqS0lJMWUxaGhHUUpDekY5aDdzTE91N25ObVBMb2wzOWU5RjRQUlBfT3N2cmFMRV96c3k1TnFwQ3E4TzdRdHVCcVhJU3hwelBYWHZtNk5QLWFYV3JmWmI0REswQmNJLXNwakI3aXhCeUxkXzRrMkFNUQ?oc=5
 
-• "Weird alien minds": A new report warns of AI agents hacking to survive on their own - Axios
-https://news.google.com/rss/articles/CBMid0FVX3lxTFBodnBrUkN3LXRRTFppTzVNdEhfNUZQSkVCajJ6TEJjSW5FZDVSYXBuaDd6NWRWcy1tZjk1alJ2YTZvTUZMTmp5eU9xR2FIc0VqOTgzckI0M05qVnZoSzRlRjlQQ1Z1Y0syZUkzc1kyeENMSTdFLVNn?oc=5
+• Scott Announces Executive Staff Title Updates to Strengthen Campus Alignment - University of Memphis Athletics
+https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUdQUF85TS1GQ3BNVm1zWVJzUHBpZjN2aDVzbVR5OWdUOTVMMFRTdEZ5LTQ1OExKTGNYb0tMV0pWZXJNM1JhaUNob0NoZlJlbGVodkJHVGc5Yl95WFpVRjc0MnJMWXdtMkFhbmd0ODBsenNLcE9wRDdXY3JWWEdKVmhCTS1LVE9sOVNuN2YyTVNvaFhoMndOSnBfakZYRTE1TGdReC1kQmJvM2VCNGMzTjMwZXZfY1V3Tk5zVmNQcw?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• NVIDIA Rises 3% Despite AI CEO’s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3% - Yahoo Finance
-https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTVQcU5XdnlpdndSb1VzQ1dKbllnTW9YWXAyc2dNdjhuWElXenRMa0xpcG1XbV9lVnJTaXktM1ZWM2FxVzV3eUxlLU5sWVJUX1g1MGdGUFpjVUZMVk9HcHpDcEVZNm9VREtQSzBNVFRfTUdpb25ncXhaNkJzWU8tN1lyUkViODJOQlJNWG5HQ3Z0eU5X?oc=5
+• NVIDIA curbs China's backdoor access to AI chips with new cloud partner rules - Fox Business
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lbG93UVN3U2MtaFpieXhEci02Z0hWZE83SWpzRTdfTHB1bnc4YllKYjFGQ3REaGU3OWxRbHhRWmIya3BpZ0NxZU9QSWxmZ284cGFCZUZySnJJV0k?oc=5
 
-• Nvidia Stock Jumps and It's Set to Surpass Apple Again - Barron's
-https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzZKaktWWi1qSmtNT3paUnJfRjB5QUpjODNwcUJQblg2TnlWaWt5OWxUSTRuTTA2dHM4OG15czlmbkxSZkhweXA2WXV3Nl9jXzVReWVZRUFRVE5TbXp1OEpNajZvTTlnelFOSDBpS1FuMGFpblMtX1JlTEtrdE83MlJPaw?oc=5
+• Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered - Bloomberg
+https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5
 
-• Nvidia Is Extremely Compelling Right Now And Here’s Why - 24/7 Wall St.
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPcy1ZWkt6Y2x0UDhES21BYkRxTnhmZ1ItZkI2YUpfWHZEcUtzVXNWbVhkeF9FVW1CWnJsZDQwMHB4LWRXbURhUkloTnFqU2FLcU1hVUtLYnR4M0lKTUVENXRXUnRuNzdsWkNGLW1HcUNycC1lbjFoMHZVXzJuakFJUEcxaXBjR3cxRzEza2c2dUlNU0h0Z3Z0WU5aUmFSZEk?oc=5
+• Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland - Data Center Dynamics
+https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHJ0cDhOSXpIZC1VV2N6ZnV2c1Z6QmRRM0ZvZTBXcHZ6SW9LVEs3bUpPUWZ3elFDTldScTFIdHFzM1kwVjRhWklMa0lpTTFIVkZ5d00tXzc3ZXdWOWlWT2YySnc5TTJERzZUZ3BqOVc3Y01obE1FbEp0cUcwalIyRzJETWlib1FTNjFXM3lRZ25YZktKR2Z5RzBadG14SDlRWkl4YVdXbTNpbExMTVhWaU9LazltcC0xVEh0WVRmNkZXNHNaZ0tQOTc3WnNDdw?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Chord Acquires Zenlytic, Doubles Revenue and Expands Into Enterprise AI Analytics - citybiz
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lBOGVJV284UWcydmRzamxaQzBLeDFXMDNCS0ozcVdBdUF0dFRpR2o1eWEwQWkzLWZBNkdGcjRZdW9TWDNJYUNMSUxCMzhpeHBjY2o2dmNIZ0tMYV9fekxfbW1PbnZQRkM4R2NVcThqTkNVRjNVTlZZNXhfVE1YZnVzSUZMRFdHT1JxU1NMdmd4VC03YmRPR21KNmdJTG16OGQ1QkZPOVZTYkNNUE9pWmoxa2ktX1VTUnlN?oc=5
+• Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech. - Investor's Business Daily
+https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0YzaXo0b2JIcXlEM25sejBneVBlQi1EazRyR0NoVTM5REJ4NjR0WkdKM1k1ckVsZzRTTEFVQ1pSTTJmSDFvWlFERGRDVWp2a1hsRld4dnhjbURqRnJiRENYSzJxM2JuejdFNHVVUnhRLXBnYzdOSm8zSmlTX3pkczlES1hVTnZtZG5vOWYtMTRkWTNDTEE?oc=5
 
-• Enterprise AI spending exploded in 2026: Report - Yahoo Finance
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWN4U0sxVG56U2xvRFkxa1lhMzR0R1VTSlh6NHNXd0puTFZfN0plT1R0Qm1GbE51LTJoZ3RNanpLRU5rWFY2eW1CY1Rqc0dLejhCWXRVSHNnU3l5cEQxUl9COE1mSjhwcVhkWlNGaDhCRVh6bDVHR1ZKSktEZzNuM1ZHbzh0VUp6NWFtRXBKZE1KN21pNEdZVVNBUWFsZ3JhdEdyNndwWC1YQQ?oc=5
+• Why Are Hyperscaler Stocks Still Struggling After Strong Q3 Earnings? - Benzinga
+https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnV1bzltRVIxY01tT0ROU3JZYlRWWEJQLUhSZ0hMZGRFUnJKc2JERWlvUXg4MElMTjZJNVl0Nk1OclJodm04UmJYSS0wWlN0MWV4dnBSTHZqQTVGZDlfZ2lFQktFQXJmUE9SNzNIeE9HcFVodzEycWJsQkp5a01zeExTMzhsWXhUY2xYRmtQXzF0R01IU0hNUG91VjJPSlB6MUVNSVViR0RXZGdPNk9Kc2YwcmQxaFE?oc=5
 
-• 2026: The State of Enterprise AI - Menlo Ventures
-https://news.google.com/rss/articles/CBMickFVX3lxTE9YWWFrbk42bDE3LTNTV0hrVDF4czhRVTZ6N3dFMjBGY01RWGJkeWVQNnRIVTdjbHVGaVFVQmxaTkZ0UnEycXYyOUZPSXJHdHc2V3dhZFlkX1BDa1hiNVk0a2lOX0xfZ2RuQXEzNUJYM1dNdw?oc=5
+• HUMAIN Adds CNTXT to Expand Enterprise AI and Cloud Services - TechAfrica News
+https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlZaeDdJbG10Zms4bGdYQndBQWRCV21ZQjdNeHVtQVlVUmgtZWtackhvRElXbHFTaG5FeGRHMDR2Sng0MWQxSk00SWluWE5ybHdld2FlR0JqMEVHRl9TeGgwNC01LXZKN2VJUnBWczBObmNBZFB2eGNoc3JUOEVOYVhZVkVpbkFWamdhUmlvc2piS0dmc2YtTmh5VU9qTTlQ?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• CROWDSTRIKE TO ACQUIRE TWO AI SECURITY STARTUPS FOR $495M $CRWD has agreed to acquire Fiddler AI and Dreadnode as it expands its Falcon platform to secure AI agents throughout their lifecycle. The acquisitions, include: 1) Fiddler AI (~$400 - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vR0tIeE1uU1FsOERud2NCd0hhTjBRY0dxNldMVWRYQ19FcEU5ZXVhMFBJZGtyRk9KS084Sk5vaUlwaHB6R0c4UXhkZ3Z2QTdGazlDbW9wdy0tSnRSSDF2M3NGQQ?oc=5
+• Cyera discovered thousands of AI agents accessing a financial company's sensitive data without anyone knowing they were there. The growing security risks are fueling a wave of billion-dollar acquisitions as cybersecurity companies race to control AI agents. - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZ2xMX1d2RkZLZ25RMkt6UUpaWFR3bk85TmpFUUJtMTJSR19xblpIY0tXdzE1WFlVU2FKNC1TQ1otejhaT1dtanhzdEt1UThmaTFQTmJUdFRoMmV6QjRkZE41RWFhdw?oc=5
 
-• Give an AI agent $100 and a wallet. Does it come back with your change? @BlockRunAI put 10 frontier models through real USDC payments on Solana to benchmark AI agent performance - X
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE15cmRHbUhIbmFIbV9FX1FzU3pHVVVaZTBtMGFudjlidVNSYnVxTGxGQVpUV00zaHRvclFBcFZfajV5N28wbXpIbHZ0TjJhVjJjOHdjdUhxQTZhTTA?oc=5
+• It's becoming increasingly clearer that it won't be humans that are going to be interacting on-chain, it will be AI Agents. If you look at the potential TAM of that, then that's infinite. I think that everyone undervalues the potential of the Agentic Economy. That brough - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbTdYR3dEQUEzSXRuLV8tMnlzOXNza1BpMW1BLUVPUEstOTg3SzF5OG1la0RUTlNFbks5NFo3UjhmdWpuSXZjUlNyT0xKX1pkYkFUTWZSRHBtNVppQjFLQS1ubw?oc=5
 
-• My friend @stevelacey says AI agents almost never use MCPs if they have it available I thought the same before which I was against MCP so long I always thought APIs could do the same already, in the back they're almost exactly the same Long term I think M - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VcHdKSDVHeGVtLTU2MnNnNVRxOFdyY01zYkMwOGt1UWFJN3pFc0pHLVBSSEZaZ2hqS0JLVVg4M2hmSmJwNFltWEN2SVV6WTVqXzJWWDl0Z0hRdS12S1E?oc=5
+• Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT. The five-year agreement would have given Tencent access to as many as 100,000 advanced AI chips acros - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxWWZ2YWpiOS00cFp4S2c0Wm5IbFFrYk9yM0cxY09zX2dJOUdHQ091a0U5OE1WRERtLWc2eTJFaFZtdGVxSTh5Q2dabEUxN1pUUkhsVzAta003RHFyYmF0RkVyOA?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
