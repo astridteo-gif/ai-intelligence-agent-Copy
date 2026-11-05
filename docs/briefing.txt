@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 04, 2026
+AI INTELLIGENCE BRIEF — November 05, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Do you use AI agents to run your daily life? We want to hear about it - CNN
-https://news.google.com/rss/articles/CBMid0FVX3lxTE0ySGh1bnR4ODR2RVJkcy01U2xFX2ZpbkFyaGhTV0t4dVhyeVJ5WS1oaFgxcWMtdWlKaXlVVkt0MUlQZmJ3MmkyV05XTG5mcU8ycnBGUjdMTHUyWUxiaGlVWVBWR21Xc1ctWE5va19jSzNQOEt3WWJr?oc=5
+• AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research - SecurityWeek
+https://news.google.com/rss/articles/CBMingFBVV95cUxQOHQ1eWdCOVFrWkFUTks1M2hLWVdib0lCZWFnVW5NOXFPN0JXbTNXczhBQldSaEliOFNaWm9NaHVFMjJDdWhYYWNPZFdQUlptWUlkMnRORmJzTTJ4WHY3bWs2b2ZYQUxiT2tJcWlINmVNMGlpR2VLMGprN1ZjUUJSUmJrS1lmcnMyNGpTYmlDcG4zRVVQVlQ1ZGlVbGFRZ9IBowFBVV95cUxQNXE5V2F5MElDY1N6WTg0Z05MdVhCa05EZl9yUWtCRjFaQThRT0Q5cjl3NXVXbWNzdmo0TWVJU3hHM0xRckwtakpxa2VTaURVbV93aXNDR0ZDcG5nbDV0Zi1IbTlrY3ZBSFNaekdBQUNyS29aUnBiVUNZczFCeEI1dDRGWnRheWI2bnRBRXdwSUpWaFZKM05TY1ZoUWxYRzBRWjNn?oc=5
 
-• How ElevenLabs' CTO is rolling out AI agents—and why he thinks bigger efficiency gains are ahead for the voice AI startup - Fortune
-https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3AzaXpCVkVhZlJnTGtVdWZSZGUxVG9hTm5ST1VpUURJdlB2OFVqZ2hsMlpLWVNnSWJ0RXhtQU5xcjRIWXJqS0lJMWUxaGhHUUpDekY5aDdzTE91N25ObVBMb2wzOWU5RjRQUlBfT3N2cmFMRV96c3k1TnFwQ3E4TzdRdHVCcVhJU3hwelBYWHZtNk5QLWFYV3JmWmI0REswQmNJLXNwakI3aXhCeUxkXzRrMkFNUQ?oc=5
+• Parents Sue Google Over A.I. Safety Risks on School Chromebooks - The New York Times
+https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUtIZ3lxajZKZXl4SEUxN2lzbV9xemZJYl9FXzVPTkZ0dGNSZVhFRXpZUHRMTUVpb3A5WERhaXdEYmM5T1QtMHBVdjJZLTE1U1V2UkI0N1ZvUkN2S1ZHVFlfUW9hazhRaEtLMTJ6Wkt6eEV0N3RFVnp5N3VSQU9wYjh1cnZVaWJVWXZtdmZLRTF1UEVlUENOUmdB?oc=5
 
-• Scott Announces Executive Staff Title Updates to Strengthen Campus Alignment - University of Memphis Athletics
-https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUdQUF85TS1GQ3BNVm1zWVJzUHBpZjN2aDVzbVR5OWdUOTVMMFRTdEZ5LTQ1OExKTGNYb0tMV0pWZXJNM1JhaUNob0NoZlJlbGVodkJHVGc5Yl95WFpVRjc0MnJMWXdtMkFhbmd0ODBsenNLcE9wRDdXY3JWWEdKVmhCTS1LVE9sOVNuN2YyTVNvaFhoMndOSnBfakZYRTE1TGdReC1kQmJvM2VCNGMzTjMwZXZfY1V3Tk5zVmNQcw?oc=5
+• China’s AI Agents Are Trapped - Bloomberg.com
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFlFeU1Ec09TQVRyem5EWldLZEVWQ0tIdWdDMnJZNHBRQ3BhRTFmZWFMMjBzd0VkX3lEVlhfUlViRG1qNFVjYjFvV2hfbWtSZmZxMXZlS08tcEpaejlUUFpuYTFXbTFLZU9fR3hrVDFQMGtTTVozUmxPMDd5RTgxVnV0TjlnRTRjMzdv?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• NVIDIA curbs China's backdoor access to AI chips with new cloud partner rules - Fox Business
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lbG93UVN3U2MtaFpieXhEci02Z0hWZE83SWpzRTdfTHB1bnc4YllKYjFGQ3REaGU3OWxRbHhRWmIya3BpZ0NxZU9QSWxmZ284cGFCZUZySnJJV0k?oc=5
+• Not Nvidia. Not Micron. This Dutch Company Controls a Key Bottleneck of AI Chip Production. - The Motley Fool
+https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFU0QVpHd0FIaFBnM19WZ1dQNXd3aFBXTlJJR2ZUTG5xZG14UTBMLVo1S3RXNzhyMG4xZVN2d0pTS0pCVVFTelN1QlVKdXJQRU1td1RCMDlwdDBKb3VSOXZNbXR3RlRFLV9kcm1JVktKM0k4cTZlV2lYY2ppTTdPVkk5eWliNTNFQVdJdFUxU3pjbXBPSmJn?oc=5
 
-• Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered - Bloomberg
-https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDF2WGJ0VTU5c0hYZ3BSLTJzWHd4eHc2N0trQlNwZ2MzcjYwRnpOUXExalczVW9yODBJTXVnUDZ6MGVPQzI3allYS0Q3eG1qblB3Nm1oQlcyQ0xzOU9CTjdqR0dTeURvUzhSYkQ1dnJFbTVieFplUmU3Unh1VjlWNS02SVZWWk1NRVBWQ1hvWGxRczhqVWt4ektFUWRjMW1KMEpYRmpNY2N0X1dySmRuUzNB?oc=5
+• AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8% - 24/7 Wall St.
+https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXpOcVdYWWIyd0ZyaldnY3QxMFJUUk14d3E0UmpWVzRwakhSOF9lOUE1azgtTmxRMm55V1JWZ24wZmhsNlVjWHBtZW1DNTJLMmFRNjd1YS0yaFJ1cUxQQVhkdU14V0Mzb1VjbFBreGpFS3FjYUdnXzd1NkVYUUlEY05uYWVJVEgxaGMzbDhzMU5rZWpmNkxqcjdBT0lLMy1kWVlhN1lhbjB2TDFEOGQ4SEJ3YXAxUnpuMi1kMy1RdkZzZVFicVE?oc=5
 
-• Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland - Data Center Dynamics
-https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHJ0cDhOSXpIZC1VV2N6ZnV2c1Z6QmRRM0ZvZTBXcHZ6SW9LVEs3bUpPUWZ3elFDTldScTFIdHFzM1kwVjRhWklMa0lpTTFIVkZ5d00tXzc3ZXdWOWlWT2YySnc5TTJERzZUZ3BqOVc3Y01obE1FbEp0cUcwalIyRzJETWlib1FTNjFXM3lRZ25YZktKR2Z5RzBadG14SDlRWkl4YVdXbTNpbExMTVhWaU9LazltcC0xVEh0WVRmNkZXNHNaZ0tQOTc3WnNDdw?oc=5
+• Nvidia has lost nearly $1.4 trillion since its October record - Yahoo Finance
+https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2NrRkNsOE94M2lLbzNWdWkwZWdyZmVNd2ZsTW0zcTNSWW4ySjBFeVJyaktrS0dtaWcxVC1keV9SLURsMkRKTnk1cklBUmxSRUM5TEFKci1TQlBWS01fNzFhUFR6LXdxVmRBdGduNzUtZi11dlE0alphdjRyQjEtdmFwR0Q2OWdMODFjdld3aTRzWmlDcGpVNHdEX0Zra2NFc09oc09Oamh3R3hlQ0Q1aHl1dGFVWk0?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech. - Investor's Business Daily
-https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0YzaXo0b2JIcXlEM25sejBneVBlQi1EazRyR0NoVTM5REJ4NjR0WkdKM1k1ckVsZzRTTEFVQ1pSTTJmSDFvWlFERGRDVWp2a1hsRld4dnhjbURqRnJiRENYSzJxM2JuejdFNHVVUnhRLXBnYzdOSm8zSmlTX3pkczlES1hVTnZtZG5vOWYtMTRkWTNDTEE?oc=5
+• Enterprise AI Is on the Ballot Too - WSJ
+https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTVpMldVTW9uaXhuTGx5V21XWXJWSkh1ZERzVGFuUTZTRlF5Y2lOc1lWeEhHMUJDZ3ZzNEpTTHo0QmoxRnRoWFhhcXI1N3psenM0NV9INWFsaXpUS1AxR1dydGVfWVpzekZ1SVRraWdsX2tDUUk2TE9lZ0RKZlNmYw?oc=5
 
-• Why Are Hyperscaler Stocks Still Struggling After Strong Q3 Earnings? - Benzinga
-https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnV1bzltRVIxY01tT0ROU3JZYlRWWEJQLUhSZ0hMZGRFUnJKc2JERWlvUXg4MElMTjZJNVl0Nk1OclJodm04UmJYSS0wWlN0MWV4dnBSTHZqQTVGZDlfZ2lFQktFQXJmUE9SNzNIeE9HcFVodzEycWJsQkp5a01zeExTMzhsWXhUY2xYRmtQXzF0R01IU0hNUG91VjJPSlB6MUVNSVViR0RXZGdPNk9Kc2YwcmQxaFE?oc=5
+• Oracle Database pitches one engine to tame enterprise AI data - SiliconANGLE
+https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXVRQnRIMUt6SFJLbFRvOFFWYWcwZWE3SFdrRWJORDRtd2dQY0FFcFlsQ1lpUWFOdV9DQl9yNk1FaUtUb3hUMzBzT0M2Q1l4VDBlLWNwQ21TdTFMSC13TVhpRVFfbmVPSlR4MXdYOWlKaFZPRWN3akpZS3VBeE53VDhkUTFYYTJjZTdjQTV4U09fSk42S25tZ2ZKN1ZqWDdjQlAweUlwMkhSMjdhNXc?oc=5
 
-• HUMAIN Adds CNTXT to Expand Enterprise AI and Cloud Services - TechAfrica News
-https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlZaeDdJbG10Zms4bGdYQndBQWRCV21ZQjdNeHVtQVlVUmgtZWtackhvRElXbHFTaG5FeGRHMDR2Sng0MWQxSk00SWluWE5ybHdld2FlR0JqMEVHRl9TeGgwNC01LXZKN2VJUnBWczBObmNBZFB2eGNoc3JUOEVOYVhZVkVpbkFWamdhUmlvc2piS0dmc2YtTmh5VU9qTTlQ?oc=5
+• The Enterprise AI Gap: Productivity, Agents and Security - Yahoo Finance Singapore
+https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW9TUU5mMVZsT3VjR19sUGkySWNBSkJWYnkyNzRpNlBJdzhaNXJ6YlZmYlVQUXVkVnFQSmhWZ2xEUm1wVXpOd2dJYW9ZeGEwdTlyNk9aWkVNcXFyQlpqTjNtTUdwWlVKTllLSWdhNXNkZnQzakVqYXdlVWxBZnlFLS1GenJnWmJJMHlCR0d4NEw?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Cyera discovered thousands of AI agents accessing a financial company's sensitive data without anyone knowing they were there. The growing security risks are fueling a wave of billion-dollar acquisitions as cybersecurity companies race to control AI agents. - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZ2xMX1d2RkZLZ25RMkt6UUpaWFR3bk85TmpFUUJtMTJSR19xblpIY0tXdzE1WFlVU2FKNC1TQ1otejhaT1dtanhzdEt1UThmaTFQTmJUdFRoMmV6QjRkZE41RWFhdw?oc=5
+• Watch Arc x Catena: Building Financial Infrastructure for AI Agents on Arc live on X. Join the conversation and get real-time updates. - X
+https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2WVJtN0hKeTUxT1VLaDhQcFBxUTRIOV80X1BMZEpGbnNBZFc3aGJTS1prMWJ5bEt6QUpRMHA1d2EtUFp6V0QyRFA1U1RGbE1nbXlB?oc=5
 
-• It's becoming increasingly clearer that it won't be humans that are going to be interacting on-chain, it will be AI Agents. If you look at the potential TAM of that, then that's infinite. I think that everyone undervalues the potential of the Agentic Economy. That brough - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbTdYR3dEQUEzSXRuLV8tMnlzOXNza1BpMW1BLUVPUEstOTg3SzF5OG1la0RUTlNFbks5NFo3UjhmdWpuSXZjUlNyT0xKX1pkYkFUTWZSRHBtNVppQjFLQS1ubw?oc=5
+• Significant win for OpenAI: Cat Wu helped lead Claude Code and Cowork at: Anthropic, briefly joined Cursor, then returned to Anthropic before moving to OpenAI. It’s a major hire: OpenAI gains one of its biggest rival’s leading product minds in AI agents. The I - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XR3RhcFh3RTJJaEhyNWl4M3c2eXhJQVZmSGhrdVFDUkxkaksxWERoVXNCQ01EOEtvM3o3cEFRREJ5UW1RalUyMC1aeG53VUVlSVVDdExla2NwU1dSbWRtNlhn?oc=5
 
-• Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT. The five-year agreement would have given Tencent access to as many as 100,000 advanced AI chips acros - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxWWZ2YWpiOS00cFp4S2c0Wm5IbFFrYk9yM0cxY09zX2dJOUdHQ091a0U5OE1WRERtLWc2eTJFaFZtdGVxSTh5Q2dabEUxN1pUUkhsVzAta003RHFyYmF0RkVyOA?oc=5
+• My AI agents are slowly getting better at running my company than I am. Increasingly, they're the ones telling me what to do. They review my work, give me feedback, and approve/reject my stuff. And I let go... Cause they're now the ones with the bigger picture - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE85YWJhaFFZSWJmc1duUzVEX1lxa1JhS1FBb3dxMDA5dzJ1RDVaU2szU3B2ZEV5SVJmSWVza1ZNQlZ4RTgwVzhMTkFSM3Z1SURCUnhoMXN1YlFBMTJYTmxMY1BaSQ?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
