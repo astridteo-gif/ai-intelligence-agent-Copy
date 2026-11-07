@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 06, 2026
+AI INTELLIGENCE BRIEF — November 07, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• OpenAN Takes Aim at the Next Frontier of Autonomous Networks: Getting AI Agents to Work Together - Fierce Network
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3FPeks3cHFUdFhUdmZ6aTNEY2p0SldxOXd3LUVfU2tLNEZtamJxVlptNWRDS0UzWVV5Qy1sUGhhNW1IeFBtVXNqb1lTMTViRTZJY3FjdF9lQkVxbldRVk9xYVQ0WTZyaUpWZ0tTdDV5RjR4bVBkU0ZzSWtYbTlBM3FvVnA1NmQyQmtQXzVSYl9BeHpwREpPSER1UlJtTEhOZzdYNEtNZlNObHl1RmtUWTNqaTlGNkdURnVXSDhSby0?oc=5
+• Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar - The Decoder
+https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFlfeEdDYWRON3J2X0lmRHB4SmFpRWNwalMwaHlDbGZ4R0daTUxvc25oaWY4Rm9RUjRDRWVMLUIwS3BpdUJXd3lDTXYyMVZEMHZoVzQxdFRsYTg3VHpvUEV0NmRkbE96aHM3RmJzaFJtSUo1VEh2Rk1ITXB5dkpFUkozTU5SWWw2dkd5NzNHSU5WM3lHdXV1RXJPVFdDRHFpdlE5blRWOHg3eDRNV3B1Y1BRT21QOUVZWEtYMThWSnhla0x1cUVMZTJkak1ld1FNeV8w?oc=5
 
-• Companies struggle to know what normal looks like for AI agents - Cybersecurity Dive
-https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0ZKS0VrNVlaZ1ozdkh2eFlkWFBPR3p3aEpOWUhwOFVHRUI0Wm9ZZGpJTy1la1ljSllRVHVkMl9LZGx4YTQxQ2hNV1VEa3psRU8tWG9YdXpBMkgxaHA4UmVES25TSVdVQ1huQldENktMVUd3UFphZFIxS254dHk2UTNwVlpsZnNmVHltTXlwbVBjc3ZwaXg0?oc=5
+• Aliens, Yearning, and Alignment - Front Porch Republic
+https://news.google.com/rss/articles/CBMifkFVX3lxTE1NVVgzdVdtbmRBdlk5amJxdFlXcTRjSlJZcWRSeXJlcGh5N1BXX2FyVFAtS0lyUEFTSWdXbmsxWF84T0M4cGphWURibUZZMEt1d2hNNlVrbTdkdnZxOGhjQ0hQTzlOTkx2bEJkai1UczJmejlhQlBEYjZocU03dw?oc=5
 
-• Hackathon Gives AI Agents Room to Grow - USC Viterbi School of Engineering
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTBUQ0haSzVhUjFTZ1gzd2xKUlRtOGRaQ2hXa2N3SWhuZUpHNTNNRHpFTUdkLXAwd1Fid195UXVWMXR3RUMteEdpQmU2clZIY3ppT3VKQ292N1ZHbGplWU42clM4ekQ3aGJCMTNONEN0S1I3Ql8yakJnaGdzbWoyaTFfX0p1V0JYdlE?oc=5
+• AI Safety Advocates Make Gains After $110 Million Midterm Fight - Bloomberg.com
+https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJhRnFjblNCalFSTllsR19sT1RDWC1ZRE50MlBJTlFYQzJhYmRTa1E0RGxxNExfamVvZDdVZUtsYVYwTUFIME90OS16V1FFb0xYTlotTDR4V3VUdVFWdjVmMGI2eVA0Zm1KbDJBUEZWRTFaMnpJZHFYdHZjUXlVcG12NzBJb2R5QUxkLUNKUW53QkFkMjc1OXlLc0V1d2NvcHJzTDRUczRDT1Z3TFhPWHdCaw?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• TSMC considers making advanced memory chips, The Information reports - Reuters
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5
+• TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia - 24/7 Wall St.
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLThISkFpaFQ2b3BIQVVMTXFDcWdTX3d4ZnFzQVFEc2U3WGRNZUp1dlkwZmc5V29vQUVGcXZCZ3Y5X2RTRGltWC0wdkNia1VnM2pCZFlLdXFRV1UyM3lWZ2tDWUZ2Y21Bc1hrcktOUGNmRFlNSFlWNmRNVGdXekxNNkJueHdkOWtkU29yeHBERkV4RGc0azJONTJzTERxT0JOaXJValBKb1RQSzg?oc=5
 
-• TSMC Weighs Making Advanced Memory Chips to Capture More AI Spending - The Information
-https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDhRREo1cGVJbmxPMy1qbEl2cUM0aW1sbkpvc1l1YjVLUlgzWWV1cTh3Wi1wWHhZTkZ4em4wcVlkOXhxWVI4V1JYYWhnNFVlMFczS2xGQnFxQlJLYmVheEd5OC0tdEJfdHhobWt5NFBad1o1dWVSZHI1S0l4QkFMRDNKTkUtakd4b0F4cktCcWRxR2dEZnBDN0x0Z0tMRHNTWnc?oc=5
+• U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties - The New York Times
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5
 
-• TSMC Mulls Making Advanced AI Memory Chips, Information Says - Bloomberg.com
-https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVJGbWZwV3FvN1Q3OHRSQTdCTGI4eFFHM2VKYzItYlM3SjFKVW1vbkZCMzJiRDVOLXhhSXBIX0lybV9FNUlfVFU4UzJIYUUyVkdka3VXdG1LOEVIWTBqblFCaGt3NEE5bTB2bU92MkZ5VHFPalZ3MzJwSHN6YmFtNjF5YWxiUFZHYXBqbTVGUHhGYnhHUHZVcUhXNndCdGdBM0N3bGpUeW1EYjZGc2hV?oc=5
+• The US let Nvidia sell chips to an empty office in China - The Verge
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWY3V3lvSXNva3FsVmVuN3p0WndDSjhJSE5hMWhrSWUtajR3dmNtY2FrNWViNkNRUXAxOXVsLVJ4WnJyMFpjamM2MTlqcFU0Y3ljNjZiam5NWU5oSWFaeTF0TXFUOGtGSUkwOFk0MG5sZ3dKNWE4UFNKZFA0eWVaZVJQbk9vWGFXWmdQN1l6dERzVkdOMEJvc3Z2WHY3UEJKUmFGaw?oc=5
 
 === TECHNOLOGY INVESTING ===
+• Big Tech Earnings: AI Spending, Cloud Growth and Cash Flow - www.equiti.com
+https://news.google.com/rss/articles/CBMilAFBVV95cUxOempsYi1sMXhFVE5LdlE4c2ViTWZ1M2xaLV84cm1scUY2b3FvZDB3NWJHUWZfU245MFhKLWVhOEEwZDU1d1ZpVEhXbVVfSW5uMTljeDhFdW1wcjgxNTlhRmk2LW1Vc3VLenRXa09JekFRN0puYTY3U2hsaGJLdG5CajlrR3N4TGxLb1llbl9QNWZRN2Jz?oc=5
+
 • How Cisco Built an Enterprise AI Factory: Scaling Economics, Performance, and Security - Cisco Blogs
 https://news.google.com/rss/articles/CBMihgFBVV95cUxOYS1naFZjQ0pmVGR0bFhwTXdJeEsxSk5TTDJLdHhEeDRRWGtJTU5iNjZyVmhDRHFxRjhzYUFqZ3dOeGdtR2QtMUdRb3kyVVRDeUNRUEtCOF9kNVNZRTdheGdOVTNTVlJ2OTgtR2IxUHBieTI2cWZ2ZnhqLUwzUkQ1Mkl2R1lNQQ?oc=5
 
-• Alphabet is The Best Positioned Hyperscaler for This Blue Wave AI-Energy Regulation Shift - Yahoo Finance
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTFLUWR5SHd4cnpHaUJTZU1leXJjRmhWMXVTenhKUXpCWjdTb1ZyUFg0bXFYeUdlRUw5YVlWUDFpR0VzejExcEJkdVdGMnZCR21zUElGT25UbzVVY0tVNDA1TGcyRzVnNGJJZk45VUFwcC10bThlSmxrME5yTVF1NXFRZG8wZDNnejRhSUxDRHBwLTZ3UUZTWVNQanhpSkZnRnpmb2ZuLWE?oc=5
-
-• 2027: Enterprise AI Will Begin Learning How to Run the Business - VMblog
-https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1BGeFZCdVJWMGtNNndEZEZaRElZU2VwUUtfaUpydnBsRkhoTzc4OVRhUy1pRjZDd2VyZmZlb3d5UjRVaDFBOWVCa0IyMGR0OTJYMkNDOHA1bEM0SGt6UDFyQS1UOWFxUGd5eFltQkhNdzNJTUpPYUJ1bWxUYkVUM190WEd5QzNGbVlYa1dVTUQ4cXFI?oc=5
+• SpaceX is now primarily an AI hyperscaler, renting out computing power, says Jim Cramer - CNBC
+https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ2I3bUt0YXJYV3JIMEhFMFA5a2xkZ0Y1V05hVWk3dlJyb0wzVTFCcFh1dlJRTGR5M0V6Y2lpeWVlVjJ4bGRKUDlwYi05MGxhMXJxSE50U2tUOWdyaDBXeU5KTHFhOC1UcWZGQi1zUG9ORkdBUENYREJDeTBXMGlnUzdMUzY1YkZHcTQzSnRka3cyajh5T3JoVDJzNlNUbjJyZTk4dFRGMGxnZW04RG5yWERydk9YWDVsdE85ZnZLcHRzSzJxNXN4aENZY1VtVnNMNmdnSlM3UGZ2QQ?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• We’re sharing new research demonstrating how AI agents can accelerate the science of stress-testing encryption. Guided by humans, our models uncovered two major weaknesses in legacy 1024-bit RSA cryptosystems. Our VP Science @Pushmeet explains - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE16QkFjSXcyTVYtVjFwQklIMTd5MW9zN1J5R2hyZWFjWU1DakRJQWljSjVjeU1hcVpKRTRuNDl3cl9RYTZ2WDlLRDlIS0lwMUFCV3pZTU5VYkRvQkxXVlhvQTZwUzBFdw?oc=5
-
 • A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can - X
 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4walprN05lOGczWlNMYTlPOUV1MjNrV2xSNjNIZHVjTHZkV0VNb3JvNVkwUE11cTRDQUd3bC1uRjNWd2JHZGtiMThjOGotR3JmTjR4YUFMZ29QNXM?oc=5
 
-• Tony Xu, DoorDash CEO, on orders from third-party AI agents: "right now, AI agents are generating several hundred orders across the time that they have been up and running." For context, DoorDash does ~330M orders/month meaning agentic share is barely - X
-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMDdlUUdpMlJnQm50ejIxUW1NMGkyRGNEc1VySjlYU1BjWW9fTUNxQWlHaFg5eG11bzcwNzhuOUFJQTBHZElsT2o3SzB0QnlUT0lib0lHTVVnU2M?oc=5
+• JUST IN: OpenAI unveils BioBasicsBench, new benchmark testing AI agents on 100 real-world wet lab science tasks. - X
+https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqYXpQbmNxSG5SejlaRmNkZzBpc1pGYVo0YWhvYVNzTEM5Ymg2ei1fWUlaTld3WjRtOFlNNV9RZFlMeERBWFlXTGY3UllnOW8wWVNMeUtTVXp2VTRHaldOTA?oc=5
+
+• Great weekend read from Stanford on measuring AI agents as teammates. (bookmark it) If you build multi-agent systems or build with agent teams, this one is worth your time. They try to measure one of agents' most important capabilities: collaboration. They pr - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSm9mSm9wTmN2Z1VTSGFiVUowemVzRXhTQ3phYnhGbnpPc0hJUmFDUG92LWhuZVJSN0NEV0UzakZOTjVtV2MzWHprOFRBQURHR3g0WjNBQlpOUzlOZ0E?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
