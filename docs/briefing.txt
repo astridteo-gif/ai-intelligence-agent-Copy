@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 07, 2026
+AI INTELLIGENCE BRIEF — November 08, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar - The Decoder
-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFlfeEdDYWRON3J2X0lmRHB4SmFpRWNwalMwaHlDbGZ4R0daTUxvc25oaWY4Rm9RUjRDRWVMLUIwS3BpdUJXd3lDTXYyMVZEMHZoVzQxdFRsYTg3VHpvUEV0NmRkbE96aHM3RmJzaFJtSUo1VEh2Rk1ITXB5dkpFUkozTU5SWWw2dkd5NzNHSU5WM3lHdXV1RXJPVFdDRHFpdlE5blRWOHg3eDRNV3B1Y1BRT21QOUVZWEtYMThWSnhla0x1cUVMZTJkak1ld1FNeV8w?oc=5
+• Enterprises prep for influx of personal AI agents - Constellation Research
+https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVNuNEd0aWJtTFZPR1BwQXA5aUVLLWhsdFNRWnpONzNmdnZKdE5UeWxudU1JRGExNG93a0Y5eE5tMEEtbVM1dVhYd1VtcEkyblJMT0lNY3RuMld2MUZodGNPMGI0d3YzcThaY0hFb2M1cm5BVXVDRjdDVWs1X0VXVzBOZlhLbHJfNWZhY1MxZFA?oc=5
 
-• Aliens, Yearning, and Alignment - Front Porch Republic
-https://news.google.com/rss/articles/CBMifkFVX3lxTE1NVVgzdVdtbmRBdlk5amJxdFlXcTRjSlJZcWRSeXJlcGh5N1BXX2FyVFAtS0lyUEFTSWdXbmsxWF84T0M4cGphWURibUZZMEt1d2hNNlVrbTdkdnZxOGhjQ0hQTzlOTkx2bEJkai1UczJmejlhQlBEYjZocU03dw?oc=5
+• Missing the Point: Isolation Alone Will Not Build AI Safety - MedCity News
+https://news.google.com/rss/articles/CBMirAFBVV95cUxOR24zSXZ4OVRRV1o5ZkRfWEpMelQ4OTVITVQ4S3VNVHAyenluOUl6ZTN3ODhtN2xnRm03Q1RQR2FZWTlBZnFYZXNtbmNXcG15aWV3MG4wV09WSmFpUmlTTkprWlByVU83RkJscmRIYVQydnlSQmFVT3Z4T2hnRXN2Yk1ubXY2Q09mQXppUGFteEhQN2RiNTBVSXhOVVRpbkkwOTF4ZUQ1eGFFcGxE?oc=5
 
-• AI Safety Advocates Make Gains After $110 Million Midterm Fight - Bloomberg.com
-https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJhRnFjblNCalFSTllsR19sT1RDWC1ZRE50MlBJTlFYQzJhYmRTa1E0RGxxNExfamVvZDdVZUtsYVYwTUFIME90OS16V1FFb0xYTlotTDR4V3VUdVFWdjVmMGI2eVA0Zm1KbDJBUEZWRTFaMnpJZHFYdHZjUXlVcG12NzBJb2R5QUxkLUNKUW53QkFkMjc1OXlLc0V1d2NvcHJzTDRUczRDT1Z3TFhPWHdCaw?oc=5
+• Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations - CNBC
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia - 24/7 Wall St.
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLThISkFpaFQ2b3BIQVVMTXFDcWdTX3d4ZnFzQVFEc2U3WGRNZUp1dlkwZmc5V29vQUVGcXZCZ3Y5X2RTRGltWC0wdkNia1VnM2pCZFlLdXFRV1UyM3lWZ2tDWUZ2Y21Bc1hrcktOUGNmRFlNSFlWNmRNVGdXekxNNkJueHdkOWtkU29yeHBERkV4RGc0azJONTJzTERxT0JOaXJValBKb1RQSzg?oc=5
+• Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses — investigation reveals businesses have ties to sanctioned Chinese military suppliers - Tom's Hardware
+https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5
 
-• U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties - The New York Times
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5
+• Nvidia-Backed Cohere Says IPO Timing Uncertain Despite Surging Revenue - WSJ
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0xzbkZDSktlNl9LTFZWNENQTXgxT0gtVEVNclBXMmVTVnFuVU9BeTBwc3h0UWtXU3RkTzF2dUVzQmF5UXFzS1BDQWlmZHBMbzVhakZfRTZYSExTcEJqVjhFTWlwYkRyNFFxME82WmJLQ21jSHFfenFBc0RFemJ5VHMxMVhSYXY5SkRDRkQxRzcxano1OWZpUDFKQXhkMUhGQ0ZjbU0zNEt2OXRDTzQxcnhlRzMwV1Z3WFF3?oc=5
 
-• The US let Nvidia sell chips to an empty office in China - The Verge
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWY3V3lvSXNva3FsVmVuN3p0WndDSjhJSE5hMWhrSWUtajR3dmNtY2FrNWViNkNRUXAxOXVsLVJ4WnJyMFpjamM2MTlqcFU0Y3ljNjZiam5NWU5oSWFaeTF0TXFUOGtGSUkwOFk0MG5sZ3dKNWE4UFNKZFA0eWVaZVJQbk9vWGFXWmdQN1l6dERzVkdOMEJvc3Z2WHY3UEJKUmFGaw?oc=5
+• "Congress will investigate": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties - Axios
+https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Big Tech Earnings: AI Spending, Cloud Growth and Cash Flow - www.equiti.com
-https://news.google.com/rss/articles/CBMilAFBVV95cUxOempsYi1sMXhFVE5LdlE4c2ViTWZ1M2xaLV84cm1scUY2b3FvZDB3NWJHUWZfU245MFhKLWVhOEEwZDU1d1ZpVEhXbVVfSW5uMTljeDhFdW1wcjgxNTlhRmk2LW1Vc3VLenRXa09JekFRN0puYTY3U2hsaGJLdG5CajlrR3N4TGxLb1llbl9QNWZRN2Jz?oc=5
+• Nutanix (NTNX) Expands Enterprise AI Access Through A New Multitenant Cloud Model - Yahoo Finance
+https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnZ0N3A1RmZPS3VjZTJrbFpWdnVjZy1hYkE1YnV4NHdaZWw2bThHUlNlN1NSRUk3aGNqeFdvRnBMQVlJS1kxbUs2OEhocGFOTjNBTlY2bkVTSklEYi1rck53dXMtcWNaVzJHSWtUYXdfOUpMeUtlUWZ3TEdSazF3N3dHMndfT3ZjcmQ0VXAxSFJCN3BaUUlaQ21EalM4RDQ?oc=5
 
-• How Cisco Built an Enterprise AI Factory: Scaling Economics, Performance, and Security - Cisco Blogs
-https://news.google.com/rss/articles/CBMihgFBVV95cUxOYS1naFZjQ0pmVGR0bFhwTXdJeEsxSk5TTDJLdHhEeDRRWGtJTU5iNjZyVmhDRHFxRjhzYUFqZ3dOeGdtR2QtMUdRb3kyVVRDeUNRUEtCOF9kNVNZRTdheGdOVTNTVlJ2OTgtR2IxUHBieTI2cWZ2ZnhqLUwzUkQ1Mkl2R1lNQQ?oc=5
+• Enterprise AI is waiting for its Transformer moment - Fast Company
+https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnhzRHEyd1hEMWw3M0o0YnZTVEVaUHNBYzBJbTd4S2ZWZnBvLVlueDltSkQ0c05vYW1uRHJTaHk3em1EQklSWmdGS0pWNVplazhHbGtGTVI4OGRHNVoyQjJJaERHNlR3cm1lOUhoSlJVZTRMWldkUzJVbU00eW53eVBrRQ?oc=5
 
-• SpaceX is now primarily an AI hyperscaler, renting out computing power, says Jim Cramer - CNBC
-https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ2I3bUt0YXJYV3JIMEhFMFA5a2xkZ0Y1V05hVWk3dlJyb0wzVTFCcFh1dlJRTGR5M0V6Y2lpeWVlVjJ4bGRKUDlwYi05MGxhMXJxSE50U2tUOWdyaDBXeU5KTHFhOC1UcWZGQi1zUG9ORkdBUENYREJDeTBXMGlnUzdMUzY1YkZHcTQzSnRka3cyajh5T3JoVDJzNlNUbjJyZTk4dFRGMGxnZW04RG5yWERydk9YWDVsdE85ZnZLcHRzSzJxNXN4aENZY1VtVnNMNmdnSlM3UGZ2QQ?oc=5
+• Palantir Technologies (PLTR) Lands Enterprise AI Partnership For Insurance And Retirement Rollout - Yahoo Finance
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJzOFczTDcxT1BjVGZuYmNkajRGV2lSMDZ0TGlYMGJSMXpVTm81emk0bU50X3g2M3o5SDFkdXRoOUhHc0FNNUVTbVk1cGY0QXV3cDJzSW5YMjBUZ1c3dTdRSVRXWkd2dVNNcnQ4WUMwalgySHNueDN6ZXM3dGQyOHk1QUhYRjhicDhMWlBzTE9jVFR3b1pNMUFmT0JyV0l5YnpTS2RqVExBZTA?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench. Developed with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can - X
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE4walprN05lOGczWlNMYTlPOUV1MjNrV2xSNjNIZHVjTHZkV0VNb3JvNVkwUE11cTRDQUd3bC1uRjNWd2JHZGtiMThjOGotR3JmTjR4YUFMZ29QNXM?oc=5
+• If this is true, that would explain why they got outperformed by one good researcher with 10M USD and a bunch of agents 🌶️ - X
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcTlweTM5bnhqWm5YYXVLRXJrTHFzNjNybkRLQ3h2alZsZnpoNmYwU2k2TkxxOUI0ZnJFQzZKMGFLSThidEYzSVBMdkRLOUFMU2U5ZFI0OHAzYlo1?oc=5
 
-• JUST IN: OpenAI unveils BioBasicsBench, new benchmark testing AI agents on 100 real-world wet lab science tasks. - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqYXpQbmNxSG5SejlaRmNkZzBpc1pGYVo0YWhvYVNzTEM5Ymg2ei1fWUlaTld3WjRtOFlNNV9RZFlMeERBWFlXTGY3UllnOW8wWVNMeUtTVXp2VTRHaldOTA?oc=5
+• Jensen Huang says Anthropic CEO Dario Amodei's push to stop selling AI chips to China is what something I "completely disagree" with. Jensen Huang: "We have to make sure that technology created by America advantages America first. Every country would - X
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yTnUxM2wzc1JUQmdweXpHUFEzem1Fc0lWbTZHWlJjZ0licXV3dnZHZ1pUTkUzN29NX0xCQy1nN0ZCNHZudzNZVHZncG5MTDZlQ3BIUUxLM19rek5kUTZR?oc=5
 
-• Great weekend read from Stanford on measuring AI agents as teammates. (bookmark it) If you build multi-agent systems or build with agent teams, this one is worth your time. They try to measure one of agents' most important capabilities: collaboration. They pr - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSm9mSm9wTmN2Z1VTSGFiVUowemVzRXhTQ3phYnhGbnpPc0hJUmFDUG92LWhuZVJSN0NEV0UzakZOTjVtV2MzWHprOFRBQURHR3g0WjNBQlpOUzlOZ0E?oc=5
+• The AI layoff gamble is backfiring. Companies that rushed to replace workers with AI are now cleaning up the mess, per The Guardian. Meta scaled back plans to cut staff and use more AI agents after employees spent growing time cleaning up the agents’ tech - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE82SmZXMlhDbHNYQjQtcGtiaUlpdWt6UkYzRVVueDcxRXhiemF6SUpJc0dxRzBzeUZwbUhvS25CUVYxaEtjWEQ2NElhQmJqRTRQd1pSNGJXUy04QlJZY3ZGUXRtclJwdw?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
