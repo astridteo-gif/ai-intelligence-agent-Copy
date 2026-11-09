@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 08, 2026
+AI INTELLIGENCE BRIEF — November 09, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Enterprises prep for influx of personal AI agents - Constellation Research
-https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVNuNEd0aWJtTFZPR1BwQXA5aUVLLWhsdFNRWnpONzNmdnZKdE5UeWxudU1JRGExNG93a0Y5eE5tMEEtbVM1dVhYd1VtcEkyblJMT0lNY3RuMld2MUZodGNPMGI0d3YzcThaY0hFb2M1cm5BVXVDRjdDVWs1X0VXVzBOZlhLbHJfNWZhY1MxZFA?oc=5
+• AI Agents Can’t Talk - Communications of the ACM
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Qa2hadkdxQ21PMTNLYXBacjdxTHBoZDU5cWlIQjNlSW1OMjVBV0hfeWxqQTRVVXVJT2VxRF9GQ1ZIbmZLVGEzOTRrVjkyalNpV20zNkJhLXhESkkyN2Zn?oc=5
 
-• Missing the Point: Isolation Alone Will Not Build AI Safety - MedCity News
-https://news.google.com/rss/articles/CBMirAFBVV95cUxOR24zSXZ4OVRRV1o5ZkRfWEpMelQ4OTVITVQ4S3VNVHAyenluOUl6ZTN3ODhtN2xnRm03Q1RQR2FZWTlBZnFYZXNtbmNXcG15aWV3MG4wV09WSmFpUmlTTkprWlByVU83RkJscmRIYVQydnlSQmFVT3Z4T2hnRXN2Yk1ubXY2Q09mQXppUGFteEhQN2RiNTBVSXhOVVRpbkkwOTF4ZUQ1eGFFcGxE?oc=5
+• Staff at the US center for AI safety are reporting to the White House, raising independence concerns - Sentinel Colorado
+https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLUJxRXUtczJQV1h4NF9OM0tyZXVqS2VMY1l2SnVpdERrRWJMOFlSWS1BWXhPTk5jcFBSQ0Y5dnZrc2lrejBzdTRnMDFXaElxSXdWbDhuc2swcFlySGt5X09kaVNUNk4weXpGcE1XSjZhVWxqMXp1XzNobk1hQWZ6bXAxNjE0bFUzTkdTb1FHdmlwYTAtejh4OFA2RmRYUXVza09rdmVuTUtONWpmeVpTTl9IcGpRQ0lrNXM2Nlp0WkpkVTh5UHFfMjdUQU1ZdlNqNjd5ZE5mazRCS0E?oc=5
 
-• Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations - CNBC
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5
+• AI agents test and improve robot code in virtual worlds before deployment - Tech Xplore
+https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRHl4RnpwREUzVlJickl4TzRSRGZ1WGVXaUF5LVBBcndESTM4UzhqMGpKOVVCUEhKakxsbW9mQUQyWkVYT01HbTZsZExkRkYyZHhjbzdOUUpBU25MbkhaZktuaDd5YVl0YnhJbThic19JR3pfOWhPZA?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses — investigation reveals businesses have ties to sanctioned Chinese military suppliers - Tom's Hardware
-https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5
+• Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention - The New York Times
+https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUh5TFdGSHdZMldSRkxUUjRNYjFRV3ZVdURtUkEwSG9mSHVhdlhES2ZObmtJVzFLRUhNbm4xdkl6YmZHV2d1VUNHNE9Md2ZKVlowUU5yOU8wa1AyMGNtdWNlX2NIUXpsOUJVa3pJNjRKa2MxWGdrTW9jYVNqLVM5cmpCblZSVzkwTVR5YzJ2TER0c3VpZ3AyZw?oc=5
 
-• Nvidia-Backed Cohere Says IPO Timing Uncertain Despite Surging Revenue - WSJ
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0xzbkZDSktlNl9LTFZWNENQTXgxT0gtVEVNclBXMmVTVnFuVU9BeTBwc3h0UWtXU3RkTzF2dUVzQmF5UXFzS1BDQWlmZHBMbzVhakZfRTZYSExTcEJqVjhFTWlwYkRyNFFxME82WmJLQ21jSHFfenFBc0RFemJ5VHMxMVhSYXY5SkRDRkQxRzcxano1OWZpUDFKQXhkMUhGQ0ZjbU0zNEt2OXRDTzQxcnhlRzMwV1Z3WFF3?oc=5
+• Nvidia shares sink while stock market surges - NBC News
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzlZWVRPREFzUWR3QTU0d2NGLTJ6cWhvZVdjbkY1eWRVa2RyUGRPSFpBaGlmMjNvTVpBTDZjbkR1NlFLRGkyZ291OWxHWC1xRVk3YkVmNjhOb1dJNDI3blNnV19XU3Jwa3JNNUVYWVFhYl80TVVzSzN1cGU4SmFDZ09FVEFuV29zUlV0Rk1SZU9Ec3ZSdlh3QVZ0aTAzbGxtbnd3SGJkN1FkQQ?oc=5
 
-• "Congress will investigate": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties - Axios
-https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5
+• Nvidia stock falls after company opens probe into CEO Jensen Huang - ABC News - Breaking News, Latest News and Videos
+https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Nutanix (NTNX) Expands Enterprise AI Access Through A New Multitenant Cloud Model - Yahoo Finance
-https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnZ0N3A1RmZPS3VjZTJrbFpWdnVjZy1hYkE1YnV4NHdaZWw2bThHUlNlN1NSRUk3aGNqeFdvRnBMQVlJS1kxbUs2OEhocGFOTjNBTlY2bkVTSklEYi1rck53dXMtcWNaVzJHSWtUYXdfOUpMeUtlUWZ3TEdSazF3N3dHMndfT3ZjcmQ0VXAxSFJCN3BaUUlaQ21EalM4RDQ?oc=5
+• Enterprise AI Spending Outpaces Adoption Growth, Report Finds - THE Journal: Technological Horizons in Education
+https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWJ4ZmtlVURGNjIxdWRWelBpeVliVXo4WlFxUlJxYmdEbi1aQUlPT1JwSmg4UTR5OUFsMnozYUl0QmJSSFVjLWV2NDlRODhOWHhNQV80djVZOWF3bVJFUnBhMGd4WjU0c0x1LWFVNnFzbWhXUDJ4aVFYeEYzd2dMcEY1cXpHdk4xVlJMaUJMeFd4Ym94MWg3LUpPYUQtazNVNWFubjBVaVNVeTRo?oc=5
 
-• Enterprise AI is waiting for its Transformer moment - Fast Company
-https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnhzRHEyd1hEMWw3M0o0YnZTVEVaUHNBYzBJbTd4S2ZWZnBvLVlueDltSkQ0c05vYW1uRHJTaHk3em1EQklSWmdGS0pWNVplazhHbGtGTVI4OGRHNVoyQjJJaERHNlR3cm1lOUhoSlJVZTRMWldkUzJVbU00eW53eVBrRQ?oc=5
+• Cisco research: Trust, not technology, is now the speed limit on enterprise AI - SiliconANGLE
+https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2tfaTFkTHNnNzVnRGVEWjZ1aTFaV3JSYU5oVkRiUG1FeHZqZzNqd2o4SkxUMkxfSVNuejdpWVV4SVZNalBRc25NY3pEaTZqVmRfanB5RURvVmcxcDdqNkJKc2RVV19RR09sdFBHZ1cybHp1ZTUxOVFGdGk4N3B2TDhYRTdMTzJCWVVWSmhQdmI4ZWpyaDdLSFMybHFiQ3IwWFk5aVJST1ZSSG5aTEtfQ1Vn?oc=5
 
-• Palantir Technologies (PLTR) Lands Enterprise AI Partnership For Insurance And Retirement Rollout - Yahoo Finance
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJzOFczTDcxT1BjVGZuYmNkajRGV2lSMDZ0TGlYMGJSMXpVTm81emk0bU50X3g2M3o5SDFkdXRoOUhHc0FNNUVTbVk1cGY0QXV3cDJzSW5YMjBUZ1c3dTdRSVRXWkd2dVNNcnQ4WUMwalgySHNueDN6ZXM3dGQyOHk1QUhYRjhicDhMWlBzTE9jVFR3b1pNMUFmT0JyV0l5YnpTS2RqVExBZTA?oc=5
+• 2027 is the year of the 'non-hyperscaler trade': I/O Fund CEO - Fox Business
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZXJha01VTjh1S2hpeTQwbjBaOWNTelhTM2Vzb2RDZzBuSUNqbm1yRGhYYmVWLUVCVnhjSzkwWjJ6bEdOaWx1ckZTZ1lzZzVRUFNoUGgzSEpMZW8?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• If this is true, that would explain why they got outperformed by one good researcher with 10M USD and a bunch of agents 🌶️ - X
-https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcTlweTM5bnhqWm5YYXVLRXJrTHFzNjNybkRLQ3h2alZsZnpoNmYwU2k2TkxxOUI0ZnJFQzZKMGFLSThidEYzSVBMdkRLOUFMU2U5ZFI0OHAzYlo1?oc=5
+• NVIDIA AI Day Seoul is underway! 🇰🇷 2,000+ developers, startups, and researchers are coming together to test AI agents, explore robotics, and share how they’re putting Korea’s open models to work. Catch the news, demos, and highlights from Seoul: https://t - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE85Mmp2UFZDbzFLb3Uwajg3d2R3Y2ZMYzVoTEYzYWdUcVJmT2d4ZUlfcEdJUEZwOUZMaGtzLXVWLUc4N203dVBCQXBwN3N1RHdZRkFScTgyYi1GOHZiUlE?oc=5
 
-• Jensen Huang says Anthropic CEO Dario Amodei's push to stop selling AI chips to China is what something I "completely disagree" with. Jensen Huang: "We have to make sure that technology created by America advantages America first. Every country would - X
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yTnUxM2wzc1JUQmdweXpHUFEzem1Fc0lWbTZHWlJjZ0licXV3dnZHZ1pUTkUzN29NX0xCQy1nN0ZCNHZudzNZVHZncG5MTDZlQ3BIUUxLM19rek5kUTZR?oc=5
+• The woman at the centre of the Nvidia spying scandal pitched an AI chips deal to China-based investors, touting her ability to secure the US company’s coveted GPUs and her commercial relationship with tech giant Alibaba." https://t.co/zvL8OkTDVW @zijing_ - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN2VwOW1YRV9rT0l2SXY0ZTlNMjNNbjRZY1ZzdG01cVlsY3JQeGtra2NRM1d0NFp0cHZYUTdydXJsNHdldTRsNG5uX0ZiYmdPbHEzWlFfRDRDaVREek5JdFlnZkMyUQ?oc=5
 
-• The AI layoff gamble is backfiring. Companies that rushed to replace workers with AI are now cleaning up the mess, per The Guardian. Meta scaled back plans to cut staff and use more AI agents after employees spent growing time cleaning up the agents’ tech - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE82SmZXMlhDbHNYQjQtcGtiaUlpdWt6UkYzRVVueDcxRXhiemF6SUpJc0dxRzBzeUZwbUhvS25CUVYxaEtjWEQ2NElhQmJqRTRQd1pSNGJXUy04QlJZY3ZGUXRtclJwdw?oc=5
+• BREAKING: Google $GOOGL launches two new AI chips to rival Nvidia. Google's chips reportedly cost around 30% less than Nvidia's, while offering similar performance and using less power for certain AI tasks. - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpU1JWN1RfdjNFN3VaNFlJM3BEREdWcVdMYmlnUk8wb1VaaUdPamNZTTBMenQ5Z2N5Ty03WDNYQkNRSGlmSmJnRWpINXNmcWZWZjRDV2d5RkVOa2V0RTVsLW5fSQ?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
