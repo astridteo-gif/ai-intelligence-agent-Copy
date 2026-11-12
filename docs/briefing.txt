@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 11, 2026
+AI INTELLIGENCE BRIEF — November 12, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Greg Morrisett to co-lead new NYS AI safety research center - Cornell Chronicle
-https://news.google.com/rss/articles/CBMingFBVV95cUxQLUhvQ283dnZCUVR1dTBab1MwZ1BwUHFsczJmQWlaOXlvYlVWS1dhRll3YjdqZUdJQzZSYnZ5Vk9XNFVOdi1ZSkpuNDJSLU1WVW5pSUlaUm1MelFRanJaM3BOVkh2UEEtSXpUZ2wwbldCOTlpQmthY3BOQVcySnZBblg5dXIyeHg1UEd4LUhCcWlWdzE2WHRVaF9ZNHdjZw?oc=5
+• Theoretical Limits of Language Model Alignment - Apple Machine Learning Research
+https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN0NsRU1rbnNZNzZVcVFWbXctekQ1em91T2VlWEx1c2F6R1piWEloNkRkeG9CMlJPQ1NtdlhnWmo5eU5yQjloWnEyWFp3Z25lQTE0QnFTX3ZwaTd6OUZEcXJVNjdQR2xhUmNTMU1mVnRIMGl4LU9uV0pxcw?oc=5
 
-• KT ‘Meisters’ and Microsoft engineers build AI agents to spot network issues before customers do - Microsoft Source
-https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRmlHa010N1huTWRDb2xmYS1JcDVPMFBDdS1lV0pQSG5RNUxKOVdwNEUxbjV5NkxRaklPU1J0MTRMT3BWcGFUMURoRERaellDblY0M2tQM2x1OVBDSEFrdlFYaVcwWW90dm5RalFmbk4ya3NJbE1NdE1Za21qdi00T09veHRyNTdPUGMtM3JEQlRaY1lPQ0RWZy1hbG9aLXJHM3VnV3JvYWFEWHdTaVhHaXNPUy02R2FUMm0xS3hJck9ZSDl0U2dNbzVEUnhjNkRBdkhkejczd2lJdmx1R0JyMmVPV2wwVXdGdFotb3BvaGJQNUE?oc=5
+• United Airlines blocks AI agents from booking flights - The Washington Post
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5
 
-• United Airlines moves to block AI agents from its platform over security concerns - Reuters
-https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlJLSUtLZnlkQ2FuamtrbzJqMUw5RFVQWnAtV0tyUmI4YVJzeXpSYS0wS2dGSkdvb0RybTR5ck9FRFFGY25pb1V6cm1RbFpSTGhhZUNIN3BjVHFyTmpoYVJOTWhGZjFDb21WNUYtMFFVUWgzUG9CTURNUTFsQWtUcGw5Tmh5TFA3ZHRKZzhRWFVVRjZFaFBWQzZrV0tkYkZSS2FMWGN5OFpTM1JsR0xKSEhkYWFKRFBKcVFTU0hDaktQMEox?oc=5
+• United Airlines blocks AI agents from booking flights, citing cybersecurity risks - TechCrunch
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes - CNBC
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXhKWElWbF84SlAwVHhHTjBZQ044MTBtVFZJVjFqR3czZFB4RVRGZ1lmcGJjWGZfZTl3T3lUNk5Ucy1CRDhmREpBN1E4OGpHWlhHN2ZEZFhSV0E1ekZubEtEVmVMTjRZamRtREdPeDhtWHNmaUU2d3YyaGxqa19HSERTVERTV3Nr?oc=5
+• Jensen Huang Has Been Ousted as Nvidia CEO - WSJ
+https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5
 
-• Nvidia stock rebounds as scrutiny into Huang mounts - The Hill
-https://news.google.com/rss/articles/CBMieEFVX3lxTE9zclVPRXQyaHdmenNtcVpyeTZlcFVPWHRiYXZzb0o3RzVqQm5XQXg3Zm1nWGZQSjhHR3pVSFFlTzNIN2tiZE43akhfbVFPMGNCNkZLRkdfWExoanRMbjdxcFJBQmtUOGt0c1R1Y2Itb2NYZ3hyaXR0atIBfkFVX3lxTE4yeXJtOHVVa05xMUdxZGthaF9obE5lM3FHS0ZwdkFVQXdqQXJKRXY1eGxEeUZiQkVyVDEyNnlPU3ZTeVdWb2k3eUtvZDZROEo4WUVSY2Rrc1ZrTVV0dklfb2NscFpnYk9OMkpHdkRma3EyUjgtYTZCaktmcjlldw?oc=5
+• NVIDIA Announces CEO Transition - NVIDIA Newsroom
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZNXBiTEpIYWNHT2hlMWVfSXJ1UWd6eEVKUW1URllFTkpERzVyRWpBOEgyaU90Sk5KVm9VZXRseUlXSEswU1JSNHhzeVhRN2lxQXRUbVk1cTBLZXRjSHFNWTNQRWNXb2FrQno3TzNzQTg2UXA1?oc=5
 
-• Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios
-https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTWlEVTREeTZ0V3J5d1VBblV3Q1JiV0tqTWJUSGVJQ2MxSElWWHpVVG9lTkxKR3ctY2RDVHJUaTdWak1oS2lGSGhPbUJ6MU9CZ2xJdGY1Ui0zQy1uaFliV3c1MXprY3RDejF2eXp2WWc2WWJRSTZiOEljZw?oc=5
+• Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times
+https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5
 
 === TECHNOLOGY INVESTING ===
-• IBM’s Digital Sovereignty Index Challenges The Promises Behind Enterprise AI Deals - Forbes
-https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVh3TEhCWDhTd2ItQWcwREwtenNueFpIZUZEbmkyaFVSc2QxYXA2QXN0UWJDQkQ5VkdpR2d0UWNwWlI5WktfUHNGaVlsSE9vcWc0cDk0Sk1rbWktMnFteGF0cnpSc0RsV3R0d091MXdvamlOSm93d2h2RmNoMXR3eTRldFZUMFJCR0RvOFFuVjdsOGs3bl9nTnpYREFGNFpzakV1T1JGMlZGNXhFQUNyR29iMGNQWU0xc2tHVGhTVUxCVjdBdFZRSVMtcFQ?oc=5
+• Fermi Announces New Agreements with Investment-Grade Hyperscaler and Third Quarter 2026 Financial Results - Yahoo Finance
+https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE55ODFmeXVxbTBWeDMxcUtfME1sMWJNU1o1ejhucmtNWUdFRFdRY19oZEpxTlpfcGZkR05vX0lkQXlIaU9BMi1yUS1BWDJVdzd1VHU3MXl1Z01tYnpMcGUyTVcxcS1aTzB3Z2p2eVc3aTFPWVM3cjBwdFdaeU5VMl80Z19taGJYSnJlZzZrTHo0SnQ0RHNmazRpNTd1TG42VHc?oc=5
 
-• Databricks to Invest ~$3 Billion Across Europe and the Middle East to Accelerate Enterprise AI Adoption - Databricks
-https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTlzdWtpRGJfeDhQQUFqdG41dGNJSnlHS0U4dUd4eTFtNEtmQndyT1FnTHdiZWswV2U4S2QyTjhPYU84NWM2UmRZVHNUR1NBT3I2d1V1NVlVOUMxR0ZiV25KVi1ZQXVzbFJtOU1LSXRVZXJZR0lrTFdfU1p3cE83bXdma3ppU2pTQVZDMjhGTWhuQnc4ek5kZVBCVEgtVFhxR0RTZ3l0MmxFWWtjN25ZdGwtdFpjNGc?oc=5
+• Chicken Little Was Wrong: Hyperscaler Backlog Nears $2.5 Trillion - Cloud Wars
+https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2tXeUU5emZVQVV6MXl3OUdEcTYxcEp2UUN0UTFDVkZ2YjZUejRpXzNNSm9Ea0NiMGxXSmNZNjJxcU9xemlZOXNvSF9VNC1QcUNweVptTGZseVU4UjZLUXpKRGxIMEg3b2gzbVRuZ3ZIbmRQb1NPeVpCa0JHYi1tUUl0RTlGMVQ2ZnFvdTQyeWNEaFk?oc=5
 
-• AI trade could unwind further if hyperscaler spending slows: Strategist - CNBC
-https://news.google.com/rss/articles/CBMirwFBVV95cUxNYTVzTFROcllqNUFRRFVkcTExUFZLRGdKd3Fma0tqb3FwYm9zQkptYU5oS2lWRWdpX0RXZ2pOUTBUYjVYd0RESXJuUkVtalB3MFlTTVNRdWI4d0JrcWpfSVdrQVdmYlRQN1FHSTllOHZCcVBTczBZZGVNeGotYjBxeW51eUQ1eDJXZTNhOG91bFh2dVhlY2cyU2FyQ1k0VC1vYTBOdjBOWk1fTFhFTmZz?oc=5
+• EY Survey: Data Gaps Are Stalling Enterprise AI in Tax and Finance - The Futurum Group
+https://news.google.com/rss/articles/CBMiogFBVV95cUxONTZFSjJBU3pYNzFULUp3YkQ3NG5MTFJWS1diRjZCWUFPSVJQZ1RueUdIMnRjeGZlcWxKb0MyREgwMGNtbTUtMDE2X3pXaG1KSndDMlFIUjAwVUZFaGtxWXBueTZwN0NXa3hqcFpKQzkweDMySE84WWJGWmJJNFhUY25FN0RqQUlBeG9YWHZ5bEdMRHZUVURCVzNGeGppcHVZV2c?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Our direct experience with Nvidia, never shared before: 22 months ago, we published the below analysis raising concerns that Nvidia's AI chips were potentially being routed to China through Singapore. Less than 24 hours later, Nvidia's Head of PR contacted - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBU1l4bkFRSTB2eFpRZTVpYklLc2NUZldscllhbDZ5QmRBY3Q2TGdyQ2M1UndzaWJEcHhmTS1XRk5tekR1UENFSk9CWWlOTVdieW9DRmRIb2lzUEkzeGJKRU9idVlZUQ?oc=5
+• AI agents need access to your accounts. But how can you let them use your credentials without putting your security and privacy at risk? 1Password for Agents’ security model gives agents a secure, seamless way to request access and sign in, while making su - X
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWFk5VFJXd0V4RzNkbkdXU0ZOeFg1VE1kYU5mN3J4dDQ2TWM3X1JRT3dKYzNNYkpvalZEcEJ2T2licWRTZXNNQUF0ZmplZnoybFhlMzc2T2dCUDN5NnNV?oc=5
 
-• Introducing Gamma Tokens A native payment system for Bittensor’s AI economy. Users and AI agents will be able to access and pay for subnet services with a Bittensor wallet, without separate accounts or API keys for each subnet. - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1naXQ0QjVPc05ZLXlDbEc3Wm1sel9Zd1Z1amszeUFZOGRhWmRKd0lEZ0tKVUQwSTVreDh1NVluTlBzU19PakJ6TVZXcVB5S081Z2stM25JQXIxZjRFV2F5Nw?oc=5
+• Turns out AI agents have feature requests too - a lot of them. We’re getting hundreds, some of which are becoming product updates in under 24h. Your agent can use the /feedback endpoint in Coinbase for Agents. If it needs anything to make its life easier, we’l - X
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYUtHa3I0YTYzaFVPVlRjdjN6MXNrRXhjdzdTVGZhbGozTlRmc18xUEJxWENtNWd4RkxnVTBjWmtTNjFKdDFEN29GcjcxWUpqbkZYXzh5OFNvTXhBcUNQSk1BRVVSLVE?oc=5
 
-• Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents We find that weight reprogramming fewer than 10 dormant neurons in an LLM is enough to backdoor any agent built on it, with no training required. The model passes evals and beh - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4aHdPY2dnMWhnSG1sS05LVmtCYk5iVUVjLXlidUhGRmJxdE01TGxLXzVtMjAwQ3p3aDU5SGJuMGRjUjBuY2J6WU9wSWFBdEpaMVN2QmdNNGxaMklUM3liRXVhSHNxQQ?oc=5
+• The primary users of the Internet are no longer human. They’re AI agents. As agents move from answering questions to completing tasks, they’ll increasingly decide which products to use, which services to subscribe to, and where to spend money on our behal - X
+https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kNmQ3MC1weFVGMEU3SkJpM0x1MzQ4aVlSMHIwRmh3bC16SWE1MFlRRlZmMmxEc1k5X0NZaDlSRXdhcDZtRGxPeWpSdGp3TlNrbXpNaTVONDg?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
