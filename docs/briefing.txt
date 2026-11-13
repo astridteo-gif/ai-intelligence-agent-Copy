@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 12, 2026
+AI INTELLIGENCE BRIEF — November 13, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Theoretical Limits of Language Model Alignment - Apple Machine Learning Research
-https://news.google.com/rss/articles/CBMie0FVX3lxTE1xN0NsRU1rbnNZNzZVcVFWbXctekQ1em91T2VlWEx1c2F6R1piWEloNkRkeG9CMlJPQ1NtdlhnWmo5eU5yQjloWnEyWFp3Z25lQTE0QnFTX3ZwaTd6OUZEcXJVNjdQR2xhUmNTMU1mVnRIMGl4LU9uV0pxcw?oc=5
+• OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC
+https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5
 
-• United Airlines blocks AI agents from booking flights - The Washington Post
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5
+• ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch
+https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VqV2RZM3g2SEMzeEdNNmNjSmtZNzY1dTVjZ0F2WWdLdW9iaENMajhQdEpiX2t5VnFxaFdJR1ZPcVBGVmstX3ZZNXdUbFprOE5oTFFfa1Q5UkhXaXJQRER4Vkp4YWQxeEtJNmVvM3FjTWhXc1c5TnFGVzVsUVVRV002dlpSQlh3alhwMDFiZ2VvZlVuQjZ4dUJTcUM?oc=5
 
-• United Airlines blocks AI agents from booking flights, citing cybersecurity risks - TechCrunch
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5
+• Despite Huang Scandal, US-China AI Safety Dialogue Still Seems on Track - Tech Policy Press
+https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkE0SEp5c2tVQ1IwanhVNWU2YkdrYzJLMjY0ZEZEZ0EzLTZuSFFSMHR4MGM1dS05dzQtamFzSjJBUXN3ckhnNWxhRHdmdHkwejNWbnJua3JuNzY1ZkVPSWdNWDRZUzllSzFlRGE0NEJ4b2hCTWlTOXk2djRIcjB4TkctUDY0eFdWSmh4QkdNQUY1Y2VSR1o2amozVXZYY2QzRkE?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Jensen Huang Has Been Ousted as Nvidia CEO - WSJ
-https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5
+• Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker - CNBC
+https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5
 
-• NVIDIA Announces CEO Transition - NVIDIA Newsroom
-https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZNXBiTEpIYWNHT2hlMWVfSXJ1UWd6eEVKUW1URllFTkpERzVyRWpBOEgyaU90Sk5KVm9VZXRseUlXSEswU1JSNHhzeVhRN2lxQXRUbVk1cTBLZXRjSHFNWTNQRWNXb2FrQno3TzNzQTg2UXA1?oc=5
+• Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China - PBS
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmRRc05NbWxzcmFLS2ZvWDhIX2IzZkJIZnZSRmhBMWFXaEJMOHdZaVFrQXRKZVhhRFptWTVQcXJnVGNBNG5rUGNOcUdTME1MeFNOQ0U5Y2xMRjZWYTVSWnBtMW9ydFh1WUJUeXAwbWkzTTQtUGg4VDZlRjFsOEI2NWZCLWNjUkxLTkdsNmpUTWJ5Xzk5S2pxcllZOVZOTVVOOTF5NEZQVVh3VW1UTXNjUExFdUtNWUJNaHQzbTZzd0XSAcYBQVVfeXFMTnRaVkFVSUxtTXBVYkZlNWotRHg1QXFWMDdjdnRVSE8wQ1BZLTd4T3JpWjZGOWxXNWlHWUJoY2lnSTBIZ0tabkpzRHJQNkdyRmRVNlZvZTF3T0RIaTNWNEk4WmN2NEoyNGRGTFNFdTJEeXNYQ1NFYzVLdkhJS1B5QmtadHZzMnJ2QlRQZG9kNEFIUmNGc1I5bEM0d0dRWlpsc240d0lxQ1A3b0E4bEZDUUlvQTlWSnRIWVVOWEVpY2t1NWxuNVNR?oc=5
 
-• Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times
-https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5
+• EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Fermi Announces New Agreements with Investment-Grade Hyperscaler and Third Quarter 2026 Financial Results - Yahoo Finance
-https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE55ODFmeXVxbTBWeDMxcUtfME1sMWJNU1o1ejhucmtNWUdFRFdRY19oZEpxTlpfcGZkR05vX0lkQXlIaU9BMi1yUS1BWDJVdzd1VHU3MXl1Z01tYnpMcGUyTVcxcS1aTzB3Z2p2eVc3aTFPWVM3cjBwdFdaeU5VMl80Z19taGJYSnJlZzZrTHo0SnQ0RHNmazRpNTd1TG42VHc?oc=5
+• Enterprise AI agent observability with BigQuery and Looker - Google Cloud
+https://news.google.com/rss/articles/CBMisgFBVV95cUxORmt3Mm9Rand6bzdPZjFoNWR3eEZ6ZE5wRTlwcGtibkdQV1BrbEdjc2pvMDZ2YkwwY3RPa3ROZGhRR1dQcGxBTW9zeko0by1ISDNKRUdRcGlZMllORHpLUHA4aHVEZ2FQMDRWdF8wa19fNE9jNGxKazIwcUt3M05yaGljbzdOUlNRYVd4eFg1V3hVdVQ5M1BrN25SMGd2RnNEY1hXTFNOVlhiVlBhVjhKNllR?oc=5
 
-• Chicken Little Was Wrong: Hyperscaler Backlog Nears $2.5 Trillion - Cloud Wars
-https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2tXeUU5emZVQVV6MXl3OUdEcTYxcEp2UUN0UTFDVkZ2YjZUejRpXzNNSm9Ea0NiMGxXSmNZNjJxcU9xemlZOXNvSF9VNC1QcUNweVptTGZseVU4UjZLUXpKRGxIMEg3b2gzbVRuZ3ZIbmRQb1NPeVpCa0JHYi1tUUl0RTlGMVQ2ZnFvdTQyeWNEaFk?oc=5
+• Hyperscaler capex guidance in January key moment for Nvidia: Analyst - CNBC
+https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0lQVFJlRGlEUlhJaVgxaER2XzVJVWZlNzZ4UzR2WDU0aTlQLTZ2NWJ2QnJYNGVzZElwTGlHcUFOcjZLeVBvZUxVeS13U1kzOGVZZDdhQVZMQXlnMml2OHdTUnEwX0dndnpySmpSTWN4dUFPZGFTMXpiaGVOb0Z1WHZ6WFVrSUlVRF8yaXFZZmVWVWVmWVlOTU5iSUNUWlM3RWhITFRlX1JfcE5YTWVR?oc=5
 
-• EY Survey: Data Gaps Are Stalling Enterprise AI in Tax and Finance - The Futurum Group
-https://news.google.com/rss/articles/CBMiogFBVV95cUxONTZFSjJBU3pYNzFULUp3YkQ3NG5MTFJWS1diRjZCWUFPSVJQZ1RueUdIMnRjeGZlcWxKb0MyREgwMGNtbTUtMDE2X3pXaG1KSndDMlFIUjAwVUZFaGtxWXBueTZwN0NXa3hqcFpKQzkweDMySE84WWJGWmJJNFhUY25FN0RqQUlBeG9YWHZ5bEdMRHZUVURCVzNGeGppcHVZV2c?oc=5
+• Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals - Yahoo Finance
+https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa0t6YmVuQTBsSDJtRWFQQmZmc1IydkZ2UWtUUF9PRmpkWVpSanM5alQ5bzB2RXBxMl9XWjVQbXpBbndYZjZWQVktWmlXSno1R241WlpVem5zMzRGVlVfaU9kMlhfSWxkYWFwWHNPSFFSS2R0bGE4MGtfOE80TllMRUVpdUtoOWJWUExCRWJoSm44YTFHSGt3WmNRSWpqeEduRDVJNjR4X2FqbzZtYmRYU2RkWXJpaVFSSlQxN0gxa1RGdmtmRXMyNWRmX1kzM3RLblpfSTRKM0llZFdRZlI5MV9aaVpBUFE?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• AI agents need access to your accounts. But how can you let them use your credentials without putting your security and privacy at risk? 1Password for Agents’ security model gives agents a secure, seamless way to request access and sign in, while making su - X
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWFk5VFJXd0V4RzNkbkdXU0ZOeFg1VE1kYU5mN3J4dDQ2TWM3X1JRT3dKYzNNYkpvalZEcEJ2T2licWRTZXNNQUF0ZmplZnoybFhlMzc2T2dCUDN5NnNV?oc=5
+• A Chinese company founded by Alice Huang, the woman at the center of a controversy dogging Nvidia, procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed, according to documents reviewed by Bloomberg News. - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbXR0VGJyYmhfOXptMWc2RnlVc3VsWU4zQm0ySDVmb0hwSTNxV0VIeFRZd1l0ZDV5WE8tY2swT1YxVDVMZkhnRExpc29uSHZWS2o2MmtpaDlremx0b2c?oc=5
 
-• Turns out AI agents have feature requests too - a lot of them. We’re getting hundreds, some of which are becoming product updates in under 24h. Your agent can use the /feedback endpoint in Coinbase for Agents. If it needs anything to make its life easier, we’l - X
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYUtHa3I0YTYzaFVPVlRjdjN6MXNrRXhjdzdTVGZhbGozTlRmc18xUEJxWENtNWd4RkxnVTBjWmtTNjFKdDFEN29GcjcxWUpqbkZYXzh5OFNvTXhBcUNQSk1BRVVSLVE?oc=5
+• JUST IN: OpenAI launches ChatGPT Wallet, allowing its AI agents to buy things for users. - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qWGpya2U1cEdnOGVSSXFkamxjMk50VnpJVGRYdlBCcFNjNkFLZzBWeENhZmVJQ0hLVFlodzhtU0tmcUtqYTJQSkg5MjEwbVRUUnVnTVBQanMwdzc0eHg4bDVn?oc=5
 
-• The primary users of the Internet are no longer human. They’re AI agents. As agents move from answering questions to completing tasks, they’ll increasingly decide which products to use, which services to subscribe to, and where to spend money on our behal - X
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kNmQ3MC1weFVGMEU3SkJpM0x1MzQ4aVlSMHIwRmh3bC16SWE1MFlRRlZmMmxEc1k5X0NZaDlSRXdhcDZtRGxPeWpSdGp3TlNrbXpNaTVONDg?oc=5
+• OpenAI is backing a bipartisan push in Congress to block China's access to AI chips and chipmaking equipment, which is gaining momentum, according to Bloomberg - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRZ29RMnhqbWVGR2tIQjNHbUZvNHhXTTlQTjRIQXBzelFjdVJwVTJHZDI1V3FTNFBHZW91MlRrdXd5WWx0ZC1GcnhhZElWa3lQV1pMaUZEdVE0TEN6QkFHZTlYYw?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
