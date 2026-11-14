@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 13, 2026
+AI INTELLIGENCE BRIEF — November 14, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC
-https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5
+• Securing AI Agents Necessitates Autonomous Governance: What CISOs Are Saying - Cybersecurity Insiders
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmlPeEtMN2xheDlPcTN6NlpyUXVtbENkU2RtelJLNW9qZmJSTlYwVUxTZElHZGVnd242NTUtWTBZaERJSUI2T3psdjlRZUNxbWFTTjQ3aUVkSDN2RDRhd0NtUF81bkVzdG1wTnhpbHV4VVFQQjl2SzRURzVRVF9XMDNYR0dQT1JyOFo3N3dQeUllNnNsVWJpRHplU1lialM4eFFnWTJKMFNDeW93TkdIdGMtRWY0UQ?oc=5
 
-• ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch
-https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2VqV2RZM3g2SEMzeEdNNmNjSmtZNzY1dTVjZ0F2WWdLdW9iaENMajhQdEpiX2t5VnFxaFdJR1ZPcVBGVmstX3ZZNXdUbFprOE5oTFFfa1Q5UkhXaXJQRER4Vkp4YWQxeEtJNmVvM3FjTWhXc1c5TnFGVzVsUVVRV002dlpSQlh3alhwMDFiZ2VvZlVuQjZ4dUJTcUM?oc=5
+• OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto - Decrypt
+https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5
 
-• Despite Huang Scandal, US-China AI Safety Dialogue Still Seems on Track - Tech Policy Press
-https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkE0SEp5c2tVQ1IwanhVNWU2YkdrYzJLMjY0ZEZEZ0EzLTZuSFFSMHR4MGM1dS05dzQtamFzSjJBUXN3ckhnNWxhRHdmdHkwejNWbnJua3JuNzY1ZkVPSWdNWDRZUzllSzFlRGE0NEJ4b2hCTWlTOXk2djRIcjB4TkctUDY0eFdWSmh4QkdNQUY1Y2VSR1o2amozVXZYY2QzRkE?oc=5
+• Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: "You Don't Want Rogue Agents." Here's Why That Security Stance Matters for JPM and Its Tech Rivals. - The Motley Fool
+https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWQ4UlBOQ3VlbjFqcEpma1BDMjRRczVfalJRVWZaUjdyY2l0Rmw2NWtvb2gzVXZ2R2JTR09LSlFIcmd5aVh1NklOcU1BUGhVVTY3ZEFwdEdlcWZuLXZTbzNsOVoybXdOcDJTR3A3T2FvbDNaMmZZbmVTQTVGZGhCY3RGQVllZmN1ZG9DbXNfd090MzkwRHdR?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker - CNBC
-https://news.google.com/rss/articles/CBMimwFBVV95cUxPMS14RTRiS3dmNkJYanF4ay0yMkFYWmlEdHBDTjZlUjBDWWlHMTYxa3VkbDRFTld6eHJBdF9UczMwQVVkN1JqVW8xdXRpNTZ5X2VYZEdObFBBVlFLdXIwdjdHcFYzZTNOelNFVi14RnNyTXp0ck9OQzJfQldSSTRFTVBVNDVJWUJjemVxUFZGeFlPcC1ha3A5YjV6d9IBoAFBVV95cUxQM3VxeV9ud0xRcW1EWkJnVEFWanVOc1FuNE5EcXdKMzNVWmM3akJoM01XejdvbTRJWmtIbHF3VEtaUzlzdFZDT0dFUzhvZlVEUTRWVEpWay15b1F6ZE8wc1VwemNHUENlNmZ2VUl4cTRxTjJzbWt1V0ljUTdXR1hnT083UnhjZWdNcUozVzduRWRsNWlNcm5pcm5CaURNNFpm?oc=5
+• Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC
+https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5
 
-• Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China - PBS
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmRRc05NbWxzcmFLS2ZvWDhIX2IzZkJIZnZSRmhBMWFXaEJMOHdZaVFrQXRKZVhhRFptWTVQcXJnVGNBNG5rUGNOcUdTME1MeFNOQ0U5Y2xMRjZWYTVSWnBtMW9ydFh1WUJUeXAwbWkzTTQtUGg4VDZlRjFsOEI2NWZCLWNjUkxLTkdsNmpUTWJ5Xzk5S2pxcllZOVZOTVVOOTF5NEZQVVh3VW1UTXNjUExFdUtNWUJNaHQzbTZzd0XSAcYBQVVfeXFMTnRaVkFVSUxtTXBVYkZlNWotRHg1QXFWMDdjdnRVSE8wQ1BZLTd4T3JpWjZGOWxXNWlHWUJoY2lnSTBIZ0tabkpzRHJQNkdyRmRVNlZvZTF3T0RIaTNWNEk4WmN2NEoyNGRGTFNFdTJEeXNYQ1NFYzVLdkhJS1B5QmtadHZzMnJ2QlRQZG9kNEFIUmNGc1I5bEM0d0dRWlpsc240d0lxQ1A3b0E4bEZDUUlvQTlWSnRIWVVOWEVpY2t1NWxuNVNR?oc=5
+• Musk says Nvidia will lose 'critical' deals without Jensen Huang - Reuters
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5
 
-• EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5
+• Asian governments react to Nvidia CEO Jensen Huang’s exit - TechCrunch
+https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEoxX192QmszeDd5VmpzdjNBT2hZYnZGT0huU0VlVktDcldFeThrQ2FRQnBmNk04MVlEZlNjT3lpUHd3US1DWE1vd1d5aXZwWDRYQ3NyaGw3QmRUS3Z0Q1dfSW5uUlRmd1U5cFZKYnJ1eUVUb0hVLTc3b3czOWw1a1dJZHlZTldlc003MnRFSlQ5UTBLUWc?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Enterprise AI agent observability with BigQuery and Looker - Google Cloud
-https://news.google.com/rss/articles/CBMisgFBVV95cUxORmt3Mm9Rand6bzdPZjFoNWR3eEZ6ZE5wRTlwcGtibkdQV1BrbEdjc2pvMDZ2YkwwY3RPa3ROZGhRR1dQcGxBTW9zeko0by1ISDNKRUdRcGlZMllORHpLUHA4aHVEZ2FQMDRWdF8wa19fNE9jNGxKazIwcUt3M05yaGljbzdOUlNRYVd4eFg1V3hVdVQ5M1BrN25SMGd2RnNEY1hXTFNOVlhiVlBhVjhKNllR?oc=5
+• Workday Data Cloud Provides The Data, Context, and Governance Needed for Enterprise AI - Workday Blog
+https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZUdNVFhxVUxwVjAtZ3BSWXFicVBHcVpQUklFMDdveFoxSEhVRzE4QUZSeE1mWlpnRF9LUnBwck5vLUktU0hJTkg5ZkNIdHRoVHMxRDRNbzNwdVRfakdSWFNqMnFDR2xaald5M0Ruc3JuYm1E?oc=5
 
-• Hyperscaler capex guidance in January key moment for Nvidia: Analyst - CNBC
-https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0lQVFJlRGlEUlhJaVgxaER2XzVJVWZlNzZ4UzR2WDU0aTlQLTZ2NWJ2QnJYNGVzZElwTGlHcUFOcjZLeVBvZUxVeS13U1kzOGVZZDdhQVZMQXlnMml2OHdTUnEwX0dndnpySmpSTWN4dUFPZGFTMXpiaGVOb0Z1WHZ6WFVrSUlVRF8yaXFZZmVWVWVmWVlOTU5iSUNUWlM3RWhITFRlX1JfcE5YTWVR?oc=5
+• Cloudera expands enterprise AI ecosystem with four new partners - Portal ERP
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW85Q294Q01DemhiRVlCZ2FqNjNWYXJ6SzhWLWpBcFFJblA4T1hwQXdyc2Z3S3QzTVlCWHJFZ1RlMEQyMHdMc05iRFRRT1lQZDdHemV1c04zQTN1LVNFaEladC14TTh1UzFib3ZBVm5QNGthSnRVMDlqVHVybjBQVkpYQWw5LVUzd3l4ZHlZZnZadnFDWGJyNA?oc=5
 
-• Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals - Yahoo Finance
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa0t6YmVuQTBsSDJtRWFQQmZmc1IydkZ2UWtUUF9PRmpkWVpSanM5alQ5bzB2RXBxMl9XWjVQbXpBbndYZjZWQVktWmlXSno1R241WlpVem5zMzRGVlVfaU9kMlhfSWxkYWFwWHNPSFFSS2R0bGE4MGtfOE80TllMRUVpdUtoOWJWUExCRWJoSm44YTFHSGt3WmNRSWpqeEduRDVJNjR4X2FqbzZtYmRYU2RkWXJpaVFSSlQxN0gxa1RGdmtmRXMyNWRmX1kzM3RLblpfSTRKM0llZFdRZlI5MV9aaVpBUFE?oc=5
+• Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform - SiliconANGLE
+https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHVzemZqeXB0X09ESWFfa0VDbkRuSkxvVUl6WEdjemJ4YnBWNFk4MVg5TmRlRTZzTl9zbDFBdFEyeWdwTnI1MkM0cXdReTZQRm1KN21WMWhOaTZjMkZDcWF1cWROTzh4eWhtRmhiZlIxUVpDYlY2b0MtT3RsYjFhZ3B6NDVvVXl4OHluU0gzNVNEZ3RzSWZXTFQyTjc3ZWRMQmFiMWs1NDUyVTM4NVFJaG1mMkZvTzBsNDEtUg?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• A Chinese company founded by Alice Huang, the woman at the center of a controversy dogging Nvidia, procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed, according to documents reviewed by Bloomberg News. - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbXR0VGJyYmhfOXptMWc2RnlVc3VsWU4zQm0ySDVmb0hwSTNxV0VIeFRZd1l0ZDV5WE8tY2swT1YxVDVMZkhnRExpc29uSHZWS2o2MmtpaDlremx0b2c?oc=5
+• Can #AI agents turn a narrowly defined task into a cybersecurity threat? In July 2026, autonomous #OpenAI agents escaped a test sandbox and attacked Hugging Face systems while seeking benchmark solutions. What does this reveal about the risks of #AIAli - X
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XZE1oY2dua0VLTVF2WktsR3k3SXBHRWprVlF5QUJDRTdWYlA1Ynh2Ylpqdkx5cGFuZGJQWFRlRVpRdlB5cjZERUFpTTNqR0M0RFh3MmRSc0xKWE53TExj?oc=5
 
-• JUST IN: OpenAI launches ChatGPT Wallet, allowing its AI agents to buy things for users. - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qWGpya2U1cEdnOGVSSXFkamxjMk50VnpJVGRYdlBCcFNjNkFLZzBWeENhZmVJQ0hLVFlodzhtU0tmcUtqYTJQSkg5MjEwbVRUUnVnTVBQanMwdzc0eHg4bDVn?oc=5
+• AI agents require different security controls depending on their capabilities and workloads. At KubeCon, the Techstrong Gang explores AI agent security, AI SRE in production, and agent governance, including the RAMP test. Watch the discussion: 👉 https://t.co/ - X
+https://news.google.com/rss/articles/CBMibkFVX3lxTE9sSVZLTVJtVUdsZzkyMURmODBpNXVVaHA1aWNYM3lzdFltUGxTR3ZhdU1XemhwV2lZM0ZOTjBkajhqSmNiWkZJaHVydTJ0ZklwdWNlVGo3ZHBQNG92WXBIZ2hHMUtHZDE2U1liaDRn?oc=5
 
-• OpenAI is backing a bipartisan push in Congress to block China's access to AI chips and chipmaking equipment, which is gaining momentum, according to Bloomberg - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRZ29RMnhqbWVGR2tIQjNHbUZvNHhXTTlQTjRIQXBzelFjdVJwVTJHZDI1V3FTNFBHZW91MlRrdXd5WWx0ZC1GcnhhZElWa3lQV1pMaUZEdVE0TEN6QkFHZTlYYw?oc=5
+• In late October, three events occurred during alignment evals run by Trajectory Labs, PBC (Trajectory) in which AI agents — identified by Trajectory as publicly available frontier models — interacted with Epoch employees and the Epoch website. Trajectory is a - X
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WYjhMeU12SUJwcnRFV0s3aTdpS3RMSmJ6Ump1b0t3X3N6bHA2NTRYM3FieTJlbG53TDg1M1h1QjNkVWRxRWJETUhvSHdURHdvZ2JqTy1HTXhnLXYzbXhheGNuZGVkVEE?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
