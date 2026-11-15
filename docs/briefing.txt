@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 14, 2026
+AI INTELLIGENCE BRIEF — November 15, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Securing AI Agents Necessitates Autonomous Governance: What CISOs Are Saying - Cybersecurity Insiders
-https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmlPeEtMN2xheDlPcTN6NlpyUXVtbENkU2RtelJLNW9qZmJSTlYwVUxTZElHZGVnd242NTUtWTBZaERJSUI2T3psdjlRZUNxbWFTTjQ3aUVkSDN2RDRhd0NtUF81bkVzdG1wTnhpbHV4VVFQQjl2SzRURzVRVF9XMDNYR0dQT1JyOFo3N3dQeUllNnNsVWJpRHplU1lialM4eFFnWTJKMFNDeW93TkdIdGMtRWY0UQ?oc=5
+• New York Launches AI Safety Center to Independently Test AI Models - Technology Org
+https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUxJRlJwUThReUhGa1hWRDJPdUhrT1pKM19jVjRxT1R0d1RMZi1aT3FmMDVRRVZLUE4xUjN0S3puN2FFdU53ZVo5SDRscnoxdWhkZHppWXU0NVV3ZmF3LXJFNWVlUVlvUFNnaTB4cHJPd1g0Tl9vTDVhcE5QdnJKbmhKUjZyRXphY19CdUdR?oc=5
 
-• OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto - Decrypt
-https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5
+• Samba’s Navin Bets AI Agents Can Finally Collect on Programmatic’s Unpaid Promise - Beet.TV
+https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVFpUEo3MXVNRklhbF9kOXdISWdXVjhVVUVYWkVmOS1BR2ljd0pONVNhZ0JMN2MwRzRqcDd4bWE5MmwxV1ByWXFra0dYdDNlMGYtdk5UemU1dHBzY29PeEsxUjBuYTVpVk1DMV9rdUtURU9FMkQwSlI1NXp3aVVnY2hhcHhpdnFGRjZqLVRkYngwUDduRkdmSHVBazhUd1RaWWVnbnFKT21LVUlldVZ3QnJn?oc=5
 
-• Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: "You Don't Want Rogue Agents." Here's Why That Security Stance Matters for JPM and Its Tech Rivals. - The Motley Fool
-https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWQ4UlBOQ3VlbjFqcEpma1BDMjRRczVfalJRVWZaUjdyY2l0Rmw2NWtvb2gzVXZ2R2JTR09LSlFIcmd5aVh1NklOcU1BUGhVVTY3ZEFwdEdlcWZuLXZTbzNsOVoybXdOcDJTR3A3T2FvbDNaMmZZbmVTQTVGZGhCY3RGQVllZmN1ZG9DbXNfd090MzkwRHdR?oc=5
+• IBM and Microsoft's Imagine Enterprise starts with more than 6,000 pre-built AI agents and assets - MarketScale
+https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC
-https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5
+• It’s not just an affair. Nvidia’s bigger issue could be chip smuggling. - The Washington Post
+https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2hPSWp5RThSSER6RU9KM2xsRkplcUx2eXVFdUlLYURuQ0tkQVFPeDRUa0t6cUJ2TmRMU0pFaGV1YU1GalExUWtqVTc4LS10THUyRFJJeXI3cUt4Sm9uRWhTOElzYzJhekJUWTR4RXRoQXV4aGR2NzRMZmdDTDFQVXVrSkd3Z0N6OFhvTGNFS0U0M1A0bGJKMUVOaTdscEZQakYxR3hoakxMdHpCaHVEVExyZ0o4Q1FLYkE?oc=5
 
-• Musk says Nvidia will lose 'critical' deals without Jensen Huang - Reuters
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5
+• Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO - CNBC
+https://news.google.com/rss/articles/CBMifkFVX3lxTFA2V3FTYlVUQ2VXQjBsaE1rbGpaU0FsM2RJN2FydGM4VHJsSU43eDR0SUMxNFhXZGtfZ2M2cDFWa2xLakZIellLQWNlaHpNazBCamhVeG14T25tREVFZG1ST3ExMHJma2l4Z3RCWktVbFBXRXduZlFFdHJsaXIxd9IBgwFBVV95cUxPeGkzNkNkWTB4ZkUzekc2SVFfVUlfQ0lFQTFtcWNMS05oaTA1dWhadV80YVZjNzJYLWhsT083bjFSZGNPdjEwU0JMeUZHVWdQS0ZmWTJOYm1hNU1qOVRtRnI5ZjJ1ZjgwV29ZTVhmNzVsMFZfUExiazhQeUltenVvU2tzYw?oc=5
 
-• Asian governments react to Nvidia CEO Jensen Huang’s exit - TechCrunch
-https://news.google.com/rss/articles/CBMilgFBVV95cUxPNEoxX192QmszeDd5VmpzdjNBT2hZYnZGT0huU0VlVktDcldFeThrQ2FRQnBmNk04MVlEZlNjT3lpUHd3US1DWE1vd1d5aXZwWDRYQ3NyaGw3QmRUS3Z0Q1dfSW5uUlRmd1U5cFZKYnJ1eUVUb0hVLTc3b3czOWw1a1dJZHlZTldlc003MnRFSlQ5UTBLUWc?oc=5
+• Bessent says Nvidia must 'go outside the company' to find new CEO - Reuters
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Workday Data Cloud Provides The Data, Context, and Governance Needed for Enterprise AI - Workday Blog
-https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZUdNVFhxVUxwVjAtZ3BSWXFicVBHcVpQUklFMDdveFoxSEhVRzE4QUZSeE1mWlpnRF9LUnBwck5vLUktU0hJTkg5ZkNIdHRoVHMxRDRNbzNwdVRfakdSWFNqMnFDR2xaald5M0Ruc3JuYm1E?oc=5
+• IBM and Microsoft's Imagine Enterprise starts with more than 6,000 pre-built AI agents and assets - MarketScale
+https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5
 
-• Cloudera expands enterprise AI ecosystem with four new partners - Portal ERP
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW85Q294Q01DemhiRVlCZ2FqNjNWYXJ6SzhWLWpBcFFJblA4T1hwQXdyc2Z3S3QzTVlCWHJFZ1RlMEQyMHdMc05iRFRRT1lQZDdHemV1c04zQTN1LVNFaEladC14TTh1UzFib3ZBVm5QNGthSnRVMDlqVHVybjBQVkpYQWw5LVUzd3l4ZHlZZnZadnFDWGJyNA?oc=5
+• Fooyo, Asia’s Leading Enterprise AI Company, Urges Marketing Teams to Build In-House AI Video Capability, Not Rent It. - mykxlg.com
+https://news.google.com/rss/articles/CBMimAJBVV95cUxQY1U5bXFSYnh6Mkd1NmZ3LUdONHkwWUdxWFVpeVY3OVZ6NmZQbVFoNE9wczlRaHRUdi1PRHF4REJvaGhMSkhXcWJrd195YjluZjNjV0duQWlEMlFqal9iaUFLR3JFcEF5SC1ubmR1WTJVeEc5YXVmSXZVajNTeFVfcDRib1NwbTg5MzdfeW0xQWQwUmhGSnAwQ19Xc28tRjdxN25BMlUtUS1QN0pkWEk1cGYxUnA2d3lURU5OQmhYQW4xak1PbU5SUnppT1dRZi1Nb1dJcVNYX3V2QmpPT0ZiRExZYnpkcXpQa2xYU2hiLXZfY2d3N0VMaEdKWlRNNGpOZGJoUzM5UUV2RHZlbjZQc3J0dTR2cGJG?oc=5
 
-• Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform - SiliconANGLE
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHVzemZqeXB0X09ESWFfa0VDbkRuSkxvVUl6WEdjemJ4YnBWNFk4MVg5TmRlRTZzTl9zbDFBdFEyeWdwTnI1MkM0cXdReTZQRm1KN21WMWhOaTZjMkZDcWF1cWROTzh4eWhtRmhiZlIxUVpDYlY2b0MtT3RsYjFhZ3B6NDVvVXl4OHluU0gzNVNEZ3RzSWZXTFQyTjc3ZWRMQmFiMWs1NDUyVTM4NVFJaG1mMkZvTzBsNDEtUg?oc=5
+• Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools - The Fintech Times
+https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0ZBZHNzOHFiUWVZWkhKT3hmcVZEZDBnbkpua2FNa0hkR0hZcHI4OWxLS3ZCRFRMYjJrX0pGNGhmSWpZZkN3OE9QUzkxQndfVHNVNUJYX2Rqb05hUGk2NXg4dWRNT3ZTWlJoT25FZnhJUHhBcVR5NjJ3c3RNY3phUlk5REs5SUlscHZkWHk3R0NSdDZINHlB?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Can #AI agents turn a narrowly defined task into a cybersecurity threat? In July 2026, autonomous #OpenAI agents escaped a test sandbox and attacked Hugging Face systems while seeking benchmark solutions. What does this reveal about the risks of #AIAli - X
-https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XZE1oY2dua0VLTVF2WktsR3k3SXBHRWprVlF5QUJDRTdWYlA1Ynh2Ylpqdkx5cGFuZGJQWFRlRVpRdlB5cjZERUFpTTNqR0M0RFh3MmRSc0xKWE53TExj?oc=5
+• Both the Biden and Trump administrations allowed the export of less powerful GPUs to China while reserving the most advanced chips for America. This has been a clear national security success. Per Grok and Claude, the US-to-China AI FLOPs ratio has gro - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SeE5EOGE5TWk5V1ZfR3hDYjBhS041a1R0RW51b0d3NmZLbGlEREMxM2puQkNmX3JHMjV6WTRXR3dwSmZNOEYxQ1h6blNHUmJCcVU2TTJqU0tOZGY0VEctNWZB?oc=5
 
-• AI agents require different security controls depending on their capabilities and workloads. At KubeCon, the Techstrong Gang explores AI agent security, AI SRE in production, and agent governance, including the RAMP test. Watch the discussion: 👉 https://t.co/ - X
-https://news.google.com/rss/articles/CBMibkFVX3lxTE9sSVZLTVJtVUdsZzkyMURmODBpNXVVaHA1aWNYM3lzdFltUGxTR3ZhdU1XemhwV2lZM0ZOTjBkajhqSmNiWkZJaHVydTJ0ZklwdWNlVGo3ZHBQNG92WXBIZ2hHMUtHZDE2U1liaDRn?oc=5
+• Hard disagree The argument: Jensen was the guy fighting to sell chips to China & now with him gone, the hawks tighten the screws and OAI and Anthropic pull away. But we’ve been running this experiment for three years. here’s what it got us: → Huawei now - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ma0prY19sc00wd01xcGNSWHEwMFpUYm0tZlQ2M21CQkNwNWpUeHVoazh0TmMyTnZBUXFhN0hwY0RHbTlRQ0pxanNUSXdzR0FhM014TmpTRkdMMVd0VEE?oc=5
 
-• In late October, three events occurred during alignment evals run by Trajectory Labs, PBC (Trajectory) in which AI agents — identified by Trajectory as publicly available frontier models — interacted with Epoch employees and the Epoch website. Trajectory is a - X
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WYjhMeU12SUJwcnRFV0s3aTdpS3RMSmJ6Ump1b0t3X3N6bHA2NTRYM3FieTJlbG53TDg1M1h1QjNkVWRxRWJETUhvSHdURHdvZ2JqTy1HTXhnLXYzbXhheGNuZGVkVEE?oc=5
+• AI agents speed up code generation, but verification speed often becomes the real bottleneck. Flutter solves this by serving as a single source of truth. - One codebase cuts review tax in half - Stateful Hot Reload enables instant feedback - Eliminates logic drift - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5dVVOQURxYmxtclU3ZkRMM3VfZWRxaENfZG9KVkJ5dXR6MktxVVRCRFRqNlZSMEFRbG9HZXI2enhGVHppOThLaTh6V0xUS19URHdHZk5aSGhFRm8wekx2QjBWRQ?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
