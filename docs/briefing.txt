@@ -1,45 +1,36 @@
-AI INTELLIGENCE BRIEF — November 15, 2026
+AI INTELLIGENCE BRIEF — November 16, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• New York Launches AI Safety Center to Independently Test AI Models - Technology Org
-https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUxJRlJwUThReUhGa1hWRDJPdUhrT1pKM19jVjRxT1R0d1RMZi1aT3FmMDVRRVZLUE4xUjN0S3puN2FFdU53ZVo5SDRscnoxdWhkZHppWXU0NVV3ZmF3LXJFNWVlUVlvUFNnaTB4cHJPd1g0Tl9vTDVhcE5QdnJKbmhKUjZyRXphY19CdUdR?oc=5
+• California Sues OpenAI Over A.I. Safety Issues - The New York Times
+https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5
 
-• Samba’s Navin Bets AI Agents Can Finally Collect on Programmatic’s Unpaid Promise - Beet.TV
-https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVFpUEo3MXVNRklhbF9kOXdISWdXVjhVVUVYWkVmOS1BR2ljd0pONVNhZ0JMN2MwRzRqcDd4bWE5MmwxV1ByWXFra0dYdDNlMGYtdk5UemU1dHBzY29PeEsxUjBuYTVpVk1DMV9rdUtURU9FMkQwSlI1NXp3aVVnY2hhcHhpdnFGRjZqLVRkYngwUDduRkdmSHVBazhUd1RaWWVnbnFKT21LVUlldVZ3QnJn?oc=5
+• Apple reveals new Mac security controls as AI agents raise privacy risks - TechCrunch
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5
 
-• IBM and Microsoft's Imagine Enterprise starts with more than 6,000 pre-built AI agents and assets - MarketScale
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5
+• AI agents promise a life free from friction. The cost could be human judgment. - Atlantic Council
+https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXR6dGhSMTlEYmNxLXhveU1KUGQ3ajZlWWI3aERTb25xYjZjcnd3NkVFZ1pfaDVYdHJfNnhXREZZWlRlS25xNTNjUnJsZzM1Nl9sZ1pMZ3hsMDJ5MWVxZXN5VnhrazRRdUlYVGhPNkNPNFRHUFY2Q1M0S1o0YksxekZPLVRuUHltdHEyX0xVZW9leVJtcnJ1ZXZPcnA2OGd4N3NmcHhjc1N5YmJLeU5ITExqbHRQeDJwN3pJYw?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• It’s not just an affair. Nvidia’s bigger issue could be chip smuggling. - The Washington Post
-https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2hPSWp5RThSSER6RU9KM2xsRkplcUx2eXVFdUlLYURuQ0tkQVFPeDRUa0t6cUJ2TmRMU0pFaGV1YU1GalExUWtqVTc4LS10THUyRFJJeXI3cUt4Sm9uRWhTOElzYzJhekJUWTR4RXRoQXV4aGR2NzRMZmdDTDFQVXVrSkd3Z0N6OFhvTGNFS0U0M1A0bGJKMUVOaTdscEZQakYxR3hoakxMdHpCaHVEVExyZ0o4Q1FLYkE?oc=5
+• Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post
+https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlDQ0VJUFBIZS1nQTJUN281Z2JRbmJ4N3JFSEo2cDJYdlpXOWhIWkw4Mm95ZXZXWkQ1MjJGRnZCVkVKUWlVakVub2ZwU0dhVUJKeGtJclFVa2pMZFVMZjRmYUhTbFBZV1BGdENBdGkzMV9nZGRaUkhFcVJMYUtITkN3M0pwRFlsQmkxUXNIaEpPanZIRll1TVNXRFJpVzlDOTNLUTVaNDY1Ql9TVXdV?oc=5
 
-• Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO - CNBC
-https://news.google.com/rss/articles/CBMifkFVX3lxTFA2V3FTYlVUQ2VXQjBsaE1rbGpaU0FsM2RJN2FydGM4VHJsSU43eDR0SUMxNFhXZGtfZ2M2cDFWa2xLakZIellLQWNlaHpNazBCamhVeG14T25tREVFZG1ST3ExMHJma2l4Z3RCWktVbFBXRXduZlFFdHJsaXIxd9IBgwFBVV95cUxPeGkzNkNkWTB4ZkUzekc2SVFfVUlfQ0lFQTFtcWNMS05oaTA1dWhadV80YVZjNzJYLWhsT083bjFSZGNPdjEwU0JMeUZHVWdQS0ZmWTJOYm1hNU1qOVRtRnI5ZjJ1ZjgwV29ZTVhmNzVsMFZfUExiazhQeUltenVvU2tzYw?oc=5
+• Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC - CNBC
+https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRkFudW1QLXhGVm5uaGtHOHFZeEFPdklQV3dVRDBrOTlUZWRqOHJHNk5ITU9uQzczRmI0R3hSOEJOaGtkZjBKS0xoa2x5QUdMbmRXVFlscHlrbXJLWm9pWG8xdndXYThvOG5mddIBckFVX3lxTE5zX3BydjZ1RlBGYVJhUnJxX0RNcC10Q2FndG0xcktFOXVSTXZINjBuTl9wM0FmVURFMzNEVnpEaGREVGs2TVNUNzN3WktmWEZDWTFJQ3A3NG9WaHZ1TzY1QUhEaDdfY1I3Z1c0VnFYWThFUQ?oc=5
 
-• Bessent says Nvidia must 'go outside the company' to find new CEO - Reuters
-https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5
+• Trump says he ‘would not mind’ if Jensen Huang returned as Nvidia CEO - NBC News
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQNklPOFpXVnJqNEZPX09lNVFUWlJZTFFNYmV2ZkVtZmFtd0xmUXE0TF8xaWZoM0hFVDVvQlAyU2lYcDFyY1pzWURiS1A3akFkb21neS03N0tZVHJmMXNXZmtob0lnUWpJSFZwQkJaUjNtRUZMdEM3V3ZIMFc1VGR2VmVYNGxwRHhFbUw1ek9Zbmlmc0ItZFFzRkNiT0VrTGtqQ2FqNQ?oc=5
 
 === TECHNOLOGY INVESTING ===
-• IBM and Microsoft's Imagine Enterprise starts with more than 6,000 pre-built AI agents and assets - MarketScale
-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR01hbHZqSjEzZmUtLTdpWjIzbmN5YlVORUoxRHE5bkZqU0c3ZTQySERHNDg1NmtPMGVBR2JSeHFpQ1R1VUROakpleXd2TmlPajVoUlUzQUhKdEVJLVF3dzlXV3RmX2tPMHRIUWJPV0VWam9SeTRFa2ZWUExLOXVaYXRDc2xHUFFKMHFMSHYtOUdlUmc1dXdoLWlVcGVueDFCYWc3NmRDd21nYW9GLW5Ra0hVSHB6dzZxMkFEUUY1QmRrYmRlcnIzNTNJMDNTUVdxQ1Y4Z0tNOTBqMDdOWGpKZElaT3BQcEk?oc=5
+• AI Spending Accelerates: 3 Hyperscaler Stocks for Strong 2027 Returns - Zacks Investment Research
+https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFNLSjY0NnkyOU5VRE9aUFZFOXNfemh0QzBmOVFKYjJESV9MaXpQT1BfaFQ4TFliXzFPdGJiQXk5TjZXYnUtc3Q3S1ZpOGN2WkxNc1I5ekZjZTV5TjZaWGtuQWcxdzV6VXJhTEo5cC1KejFzb1FRRzRidmxkdnJjQlBWUEhuSDVUUTVoRGpvVXdUVGtuTUpzNE5rU1RZTXU2Vm5sWkNqQlVVdS1SWUE?oc=5
 
-• Fooyo, Asia’s Leading Enterprise AI Company, Urges Marketing Teams to Build In-House AI Video Capability, Not Rent It. - mykxlg.com
-https://news.google.com/rss/articles/CBMimAJBVV95cUxQY1U5bXFSYnh6Mkd1NmZ3LUdONHkwWUdxWFVpeVY3OVZ6NmZQbVFoNE9wczlRaHRUdi1PRHF4REJvaGhMSkhXcWJrd195YjluZjNjV0duQWlEMlFqal9iaUFLR3JFcEF5SC1ubmR1WTJVeEc5YXVmSXZVajNTeFVfcDRib1NwbTg5MzdfeW0xQWQwUmhGSnAwQ19Xc28tRjdxN25BMlUtUS1QN0pkWEk1cGYxUnA2d3lURU5OQmhYQW4xak1PbU5SUnppT1dRZi1Nb1dJcVNYX3V2QmpPT0ZiRExZYnpkcXpQa2xYU2hiLXZfY2d3N0VMaEdKWlRNNGpOZGJoUzM5UUV2RHZlbjZQc3J0dTR2cGJG?oc=5
+• Introducing the Databricks AI Index: The state of enterprise AI tokenomics - Databricks
+https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0c0a1J4dVd0WjljTTU4c3g3dU1oU3pGRU1SWV95X3ZtaVNVSHo1NW1acDlGRmp3NXduSXl4YTNrT1lTLWVBNl9NMG5CdWtHNVdmWmRGVmVtdWpqVjZCdGItMENMZ3kybnpXMnpmb2IxbGlxbVVqWEtqcTd1blVrUHcxdE1GU3l5cEVUTVprMjFYZk1PZWtON2ZR?oc=5
 
-• Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools - The Fintech Times
-https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0ZBZHNzOHFiUWVZWkhKT3hmcVZEZDBnbkpua2FNa0hkR0hZcHI4OWxLS3ZCRFRMYjJrX0pGNGhmSWpZZkN3OE9QUzkxQndfVHNVNUJYX2Rqb05hUGk2NXg4dWRNT3ZTWlJoT25FZnhJUHhBcVR5NjJ3c3RNY3phUlk5REs5SUlscHZkWHk3R0NSdDZINHlB?oc=5
+• Exclusive | EQT Ventures Invests $10 Million in Enterprise AI Company Edra - WSJ
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3VoTTBrT0l0VWowSm42OUJ2MWRQMjJNOTJUbVNhVXBpN2dwR2lHZEU4bGx0NF94UnZjNWgxczEwYzFQZmwzNFV6SHFGaFRuS1FLZUpCc3dBa01ERjR2RkdOU1puYXBhMzBHOGRiWF9Renl4cWJTRjlXZEMtUG9lblBUbU11WnBOb2V1WlplVFc4dXhvMDVkQUtTZDVSSEk?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Both the Biden and Trump administrations allowed the export of less powerful GPUs to China while reserving the most advanced chips for America. This has been a clear national security success. Per Grok and Claude, the US-to-China AI FLOPs ratio has gro - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SeE5EOGE5TWk5V1ZfR3hDYjBhS041a1R0RW51b0d3NmZLbGlEREMxM2puQkNmX3JHMjV6WTRXR3dwSmZNOEYxQ1h6blNHUmJCcVU2TTJqU0tOZGY0VEctNWZB?oc=5
-
-• Hard disagree The argument: Jensen was the guy fighting to sell chips to China & now with him gone, the hawks tighten the screws and OAI and Anthropic pull away. But we’ve been running this experiment for three years. here’s what it got us: → Huawei now - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ma0prY19sc00wd01xcGNSWHEwMFpUYm0tZlQ2M21CQkNwNWpUeHVoazh0TmMyTnZBUXFhN0hwY0RHbTlRQ0pxanNUSXdzR0FhM014TmpTRkdMMVd0VEE?oc=5
-
-• AI agents speed up code generation, but verification speed often becomes the real bottleneck. Flutter solves this by serving as a single source of truth. - One codebase cuts review tax in half - Stateful Hot Reload enables instant feedback - Eliminates logic drift - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5dVVOQURxYmxtclU3ZkRMM3VfZWRxaENfZG9KVkJ5dXR6MktxVVRCRFRqNlZSMEFRbG9HZXI2enhGVHppOThLaTh6V0xUS19URHdHZk5aSGhFRm8wekx2QjBWRQ?oc=5
-
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
