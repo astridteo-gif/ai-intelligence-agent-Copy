@@ -1,36 +1,36 @@
-AI INTELLIGENCE BRIEF — November 16, 2026
+AI INTELLIGENCE BRIEF — November 17, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• California Sues OpenAI Over A.I. Safety Issues - The New York Times
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5
+• Build WhatsApp AI agents with Amazon Bedrock AgentCore - Amazon Web Services (AWS)
+https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5
 
-• Apple reveals new Mac security controls as AI agents raise privacy risks - TechCrunch
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5
+• How to shape platform strategy for humans and AI agents - MIT Sloan
+https://news.google.com/rss/articles/CBMingFBVV95cUxOZm56eFRQOVh5MGJhR2g3dHl4UHBOOWxTd2ltLV9rUGxXUnkwREVZZlZVdlRlSTFtOFctTFJuTC05NUNlVDQwU2UzcHhlTHYwSEdEcDhCdHV2dDZ4SnRiNFgyMlNRa0ZGUGpsMFoyRnVrek9aNjNGZE03YUJXcmdraTNSN3N5eW8xV2ZEdUpNblJmcEZsNFJueUxWLUVMZw?oc=5
 
-• AI agents promise a life free from friction. The cost could be human judgment. - Atlantic Council
-https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXR6dGhSMTlEYmNxLXhveU1KUGQ3ajZlWWI3aERTb25xYjZjcnd3NkVFZ1pfaDVYdHJfNnhXREZZWlRlS25xNTNjUnJsZzM1Nl9sZ1pMZ3hsMDJ5MWVxZXN5VnhrazRRdUlYVGhPNkNPNFRHUFY2Q1M0S1o0YksxekZPLVRuUHltdHEyX0xVZW9leVJtcnJ1ZXZPcnA2OGd4N3NmcHhjc1N5YmJLeU5ITExqbHRQeDJwN3pJYw?oc=5
+• Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’ - The Register
+https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYnhUWVgzd0ZZa0phMEctbWtGVG9OZ1pWei1DbzJldEJ0ODYwcmJDYnIxM21lWEg0WTBYZkhTRnBrTTlHUE5rVHVIUzUwRkRvQjdGbUZfZkZkVktzaTR3bDc5d09fS2hSZGptR1J1M1IwLW43RkxmOXFoWG52Z0RMU25fN2owMjh1VjJ3QmdLYTlnbDNoUmpFLXpkX1ljQnhpVWJ4QTZGQUxzMHk0bVk5RjV2Z2t6YXBIcjJlVjR1UDlUMjlEOFVLamVnWnh5NjlpV1FibTNicVVwX1JQcmQxaFgxM2NrbXQx?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post
-https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlDQ0VJUFBIZS1nQTJUN281Z2JRbmJ4N3JFSEo2cDJYdlpXOWhIWkw4Mm95ZXZXWkQ1MjJGRnZCVkVKUWlVakVub2ZwU0dhVUJKeGtJclFVa2pMZFVMZjRmYUhTbFBZV1BGdENBdGkzMV9nZGRaUkhFcVJMYUtITkN3M0pwRFlsQmkxUXNIaEpPanZIRll1TVNXRFJpVzlDOTNLUTVaNDY1Ql9TVXdV?oc=5
+• Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO - WSJ
+https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5
 
-• Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC - CNBC
-https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRkFudW1QLXhGVm5uaGtHOHFZeEFPdklQV3dVRDBrOTlUZWRqOHJHNk5ITU9uQzczRmI0R3hSOEJOaGtkZjBKS0xoa2x5QUdMbmRXVFlscHlrbXJLWm9pWG8xdndXYThvOG5mddIBckFVX3lxTE5zX3BydjZ1RlBGYVJhUnJxX0RNcC10Q2FndG0xcktFOXVSTXZINjBuTl9wM0FmVURFMzNEVnpEaGREVGs2TVNUNzN3WktmWEZDWTFJQ3A3NG9WaHZ1TzY1QUhEaDdfY1I3Z1c0VnFYWThFUQ?oc=5
+• Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress - NPR
+https://news.google.com/rss/articles/CBMifkFVX3lxTE5EalRiWEJJQlhHY1VhazRNalhHZm9tZ2dQdFB0U3VuT2hJa1hQNXpuZEY0YnlOV3J5ajEyczd4N18ycjhDZ1B4RHpiTVhYTjlhWTFrdUdrUEhiMXJndlRzMU95VG9PazdzRGNyMHd4WWdsOGtqSWxrX2NNcG1FZw?oc=5
 
-• Trump says he ‘would not mind’ if Jensen Huang returned as Nvidia CEO - NBC News
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQNklPOFpXVnJqNEZPX09lNVFUWlJZTFFNYmV2ZkVtZmFtd0xmUXE0TF8xaWZoM0hFVDVvQlAyU2lYcDFyY1pzWURiS1A3akFkb21neS03N0tZVHJmMXNXZmtob0lnUWpJSFZwQkJaUjNtRUZMdEM3V3ZIMFc1VGR2VmVYNGxwRHhFbUw1ek9Zbmlmc0ItZFFzRkNiT0VrTGtqQ2FqNQ?oc=5
+• Nvidia Lost Jensen Huang. Trump Is Adding to AI Stocks’ Risks. - Barron's
+https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkgwMVA1LURCZFlnaXpqQ2t6Z0ZyM1ZvLXR1LU5WRkdMU21JdUtOU0VpOHd3Q05PZlpFQUJZUDk4X2FzUVVubWtqM3JzaUpfZHNxUkJfNGRhdnpwR0gxY195cXFtSWpqNjRLQzFjZXgtVVhvVGVyd19iMnU4VU9OOUptM19rMlhYT0xNYg?oc=5
 
 === TECHNOLOGY INVESTING ===
-• AI Spending Accelerates: 3 Hyperscaler Stocks for Strong 2027 Returns - Zacks Investment Research
-https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFNLSjY0NnkyOU5VRE9aUFZFOXNfemh0QzBmOVFKYjJESV9MaXpQT1BfaFQ4TFliXzFPdGJiQXk5TjZXYnUtc3Q3S1ZpOGN2WkxNc1I5ekZjZTV5TjZaWGtuQWcxdzV6VXJhTEo5cC1KejFzb1FRRzRidmxkdnJjQlBWUEhuSDVUUTVoRGpvVXdUVGtuTUpzNE5rU1RZTXU2Vm5sWkNqQlVVdS1SWUE?oc=5
-
-• Introducing the Databricks AI Index: The state of enterprise AI tokenomics - Databricks
-https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0c0a1J4dVd0WjljTTU4c3g3dU1oU3pGRU1SWV95X3ZtaVNVSHo1NW1acDlGRmp3NXduSXl4YTNrT1lTLWVBNl9NMG5CdWtHNVdmWmRGVmVtdWpqVjZCdGItMENMZ3kybnpXMnpmb2IxbGlxbVVqWEtqcTd1blVrUHcxdE1GU3l5cEVUTVprMjFYZk1PZWtON2ZR?oc=5
-
-• Exclusive | EQT Ventures Invests $10 Million in Enterprise AI Company Edra - WSJ
-https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3VoTTBrT0l0VWowSm42OUJ2MWRQMjJNOTJUbVNhVXBpN2dwR2lHZEU4bGx0NF94UnZjNWgxczEwYzFQZmwzNFV6SHFGaFRuS1FLZUpCc3dBa01ERjR2RkdOU1puYXBhMzBHOGRiWF9Renl4cWJTRjlXZEMtUG9lblBUbU11WnBOb2V1WlplVFc4dXhvMDVkQUtTZDVSSEk?oc=5
-
 === PUBLIC X DISCUSSIONS ===
+• ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ Wake the F up! ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ For months I have said, on practically every major TV network, “stop focusing on the doomers” “Focus for now instead on the infrastructure and cybersecurity problems that agents are causing.” “Recall gene - X
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE12RnFNd05FYW53X0VmdHNiVHJVdFhhWV84amF1aWhTSjZQVEpyQUpHcFk5TGFWaWE4TFN0ejVrTE1tWVBfUE9xMkc4bmZsSkFMcndmLUptbGpieGVjeDRnag?oc=5
+
+• BREAKING: Dylan Patel of SemiAnalysis on the Current State of the AI Market I sat down with @dylan522p, Founder & CEO of @SemiAnalysis_, to discuss models, data centers, AI agents like Instinct, Dots, & Muse, why he bought Citrini Research, the competit - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE91XzEyOHpOQU02Xy1BUjNRM2hZNFN0bUxJVmRaVFRTU0R3N2R4TE1TRV9UTFctanJGU2k2TGp1cUZVSjNSb2J2REhTbTRZQTRBY2ZFaWdjMXJ0QVd1QTZCTGJB?oc=5
+
+• Introducing NVIDIA Nemotron for Science, just announced at #SC26 by Ian Buck, our VP of Hyperscale and High-Performance Computing. The collection includes open models, datasets, tools, and post-training recipes to help researchers build more accurate - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hekU0X3l4ODBtOGt5MGE3MHR3aEhDZXhSMUdWaWRpcVFnM0lGVzRHWjJSRDdIdnA0MDNjN0lZRXpfREQyb0VtNm12cGdmeE1FX25hSEx6ZWIyNHhTc3c?oc=5
+
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
