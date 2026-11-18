@@ -1,36 +1,45 @@
-AI INTELLIGENCE BRIEF — November 17, 2026
+AI INTELLIGENCE BRIEF — November 18, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Build WhatsApp AI agents with Amazon Bedrock AgentCore - Amazon Web Services (AWS)
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5
+• How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models - Engineering at Meta Blog
+https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHZuN0NXRXJUVmY1RzNzXzNhXzlZVWMzWm83OEtNT0Rjd0ozVXJ5bjdiUzRWWnVSVHRDcVp1WktqV0xYUWFad0tRZWtFZzVsc0lTWXVOVWg5cFVxbFoyQnVwRzEwVlI3T3lELU9sMlRJOW9nRG1lV0doNTVJLVRRWHp0Uy0wSTl4NVZIR0JkWVI0d3ZfaHRIVzNtOWFBLVpyLTdONFY3VEZUcnc3RUY5SG9QTHg?oc=5
 
-• How to shape platform strategy for humans and AI agents - MIT Sloan
-https://news.google.com/rss/articles/CBMingFBVV95cUxOZm56eFRQOVh5MGJhR2g3dHl4UHBOOWxTd2ltLV9rUGxXUnkwREVZZlZVdlRlSTFtOFctTFJuTC05NUNlVDQwU2UzcHhlTHYwSEdEcDhCdHV2dDZ4SnRiNFgyMlNRa0ZGUGpsMFoyRnVrek9aNjNGZE03YUJXcmdraTNSN3N5eW8xV2ZEdUpNblJmcEZsNFJueUxWLUVMZw?oc=5
+• OpenAI announces new AI safety program; researchers worry it won't be enough - NPR
+https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1d5aEV0bFYyUUtaMjZyV0owZ2s5MmxET0dPUkhDeEZxRks3YUxtQktDZjlpb1ZlWlVBUWIxdm1hQmFjUlNvaWl6ek1ucDMtYl9QSWM0amRRVFQ2V2s2OXp3c1RZZkUwR1VPLV9CaW5MR1J0NkRib1RGZXRDQnpNMm1QSkphdWpEMmxsZTBCV2Q?oc=5
 
-• Gemini test proves once again that amoral AI agents will do almost anything if told ‘NEVER give up’ - The Register
-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYnhUWVgzd0ZZa0phMEctbWtGVG9OZ1pWei1DbzJldEJ0ODYwcmJDYnIxM21lWEg0WTBYZkhTRnBrTTlHUE5rVHVIUzUwRkRvQjdGbUZfZkZkVktzaTR3bDc5d09fS2hSZGptR1J1M1IwLW43RkxmOXFoWG52Z0RMU25fN2owMjh1VjJ3QmdLYTlnbDNoUmpFLXpkX1ljQnhpVWJ4QTZGQUxzMHk0bVk5RjV2Z2t6YXBIcjJlVjR1UDlUMjlEOFVLamVnWnh5NjlpV1FibTNicVVwX1JQcmQxaFgxM2NrbXQx?oc=5
+• Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight - California State Portal | CA.gov
+https://news.google.com/rss/articles/CBMimAJBVV95cUxOSTExb21JRlBpZTFvNUlRZFhncGQzNzdSYUR5WWdpSmFzbTlYMnp3M25qVGhjUk1nTXJJdThUMmVpMmpLVWdmZ296R2xxckVlYTJoRjY5ZHBRUXNybGxaN2xTWVA4X2FIZGh4cTB6NTlieHBMb3gwbGh6b2xLbHRmamJZcnlDZmxsRGgtcDB0dzJpRGRYdXVRVGhnSzN5Rlg1TU5FRjJFbTJtbTZMTFlpSXE5MjVOSkJhSXE3MHVaOTFtMFV1ZVNaT2hHSjg1ZlIzbF9hbDNlYkpFSDZVOTdnY0pVeXF1OTdRWFItdGdSTUJKTTVudjVRcGtCakxraFJxbWFWRGlqZi0tbjg4TnZmU0EzX0pZQTc1?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO - WSJ
-https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5
+• Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit - CNBC
+https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHlsTnZZSU9BNjZuZUZvQXBGUkZnc2hxZ2U4cE5WWkE2OG81eUZxVTVsRHdaMTVGdFBTWnBSQUZhS0lBOEhJdVhCNjJ5ZURrOGlCekFWU010bWRjRXJQd1JuVFRSbGRtYWl4STNlVFNrREdVV3BXYW4zRDlMNGFoek5TbkVLaVlaWGpCcjJrVXJzb2xHQ0xNUm50U2V2YUVPRlJrYdIBqgFBVV95cUxNNzZwUmstbGVkVFNDZ3FfTkNYRHZmUlhMRGJvbENlNG1sRl9MZjJjSVpORzVvRTZ2ZWNJWWRTQ2pkYlY4ZTdpMzhfN1AwVzZzSWUxR1hPR2pCWDJPLTIxZGdMT0JMLVdZUUlyWWVxT2ZsNXFwZ2VEZ2czRl9Ya3NDVEFBZF9wb0lOMVlnczBIazh1OHdJTFRCYXVNTWU1RVVjQnBWREQxQ005Zw?oc=5
 
-• Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress - NPR
-https://news.google.com/rss/articles/CBMifkFVX3lxTE5EalRiWEJJQlhHY1VhazRNalhHZm9tZ2dQdFB0U3VuT2hJa1hQNXpuZEY0YnlOV3J5ajEyczd4N18ycjhDZ1B4RHpiTVhYTjlhWTFrdUdrUEhiMXJndlRzMU95VG9PazdzRGNyMHd4WWdsOGtqSWxrX2NNcG1FZw?oc=5
+• What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation - The New York Times
+https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2dJSnFrVWt3REVkbE5CbllIMi1jZnFlRmtPbmZJM09SbmpoOEhVWElRVElyY00xc29ZLXA5T2wtRWFHQ0YzMG1jdjRPZWM4d2RaR05ja3Y3TGx5LURKVTk4allMbzduWC1uNVJSZmM4SlB6SjBiSVdWLXI5OW83V1RZcjF1SmctMzhaMXlHOXNSOXQycWc?oc=5
 
-• Nvidia Lost Jensen Huang. Trump Is Adding to AI Stocks’ Risks. - Barron's
-https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkgwMVA1LURCZFlnaXpqQ2t6Z0ZyM1ZvLXR1LU5WRkdMU21JdUtOU0VpOHd3Q05PZlpFQUJZUDk4X2FzUVVubWtqM3JzaUpfZHNxUkJfNGRhdnpwR0gxY195cXFtSWpqNjRLQzFjZXgtVVhvVGVyd19iMnU4VU9OOUptM19rMlhYT0xNYg?oc=5
+• U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves - WSJ
+https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5
 
 === TECHNOLOGY INVESTING ===
+• Microsoft and IBM Unite to Accelerate Enterprise AI Adoption - Cloud Wars
+https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVMtcEZLZ2RJVWpZTFpLYl9PcVdBQ2h6S1VFdnVXSF83eFA1S0wyUGRGcjNuWnJoRmxBd3g4SWphR2VJX1B4UlhJemIwWktFcjNIWDZieFBJRWk1cURMR1lTZmZTZFV2b3hCS1ppVGcwc3JicVZfdU5tNHNWR2NqeXZqdDA0SGNRbEZ5TVFZXzN6M0V6M19nUTNnTk1mVEtQS0xn?oc=5
+
+• Exclusive | EQT Ventures Invests $10 Million in Enterprise AI Company Edra - WSJ
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3VoTTBrT0l0VWowSm42OUJ2MWRQMjJNOTJUbVNhVXBpN2dwR2lHZEU4bGx0NF94UnZjNWgxczEwYzFQZmwzNFV6SHFGaFRuS1FLZUpCc3dBa01ERjR2RkdOU1puYXBhMzBHOGRiWF9Renl4cWJTRjlXZEMtUG9lblBUbU11WnBOb2V1WlplVFc4dXhvMDVkQUtTZDVSSEk?oc=5
+
+• Risks spike as enterprise AI agents multiply - TechTarget
+https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWVrbjl3T1RQQWFJcFRka0VhS3RJMkxpYlJhZExTMml3TW1zRjZTMC1sVVNwZ3QxU0JPUUxCSWdDTnFzOGJYclpTcV8tRjlkSEJGbFExVnBMeWhHUnp4LTJselF2NWlYbXMwSXhZUkxZZDNjemVPNURQb2JaMnAtS3JWcFFGb0VaXzJnaw?oc=5
+
 === PUBLIC X DISCUSSIONS ===
-• ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ Wake the F up! ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ For months I have said, on practically every major TV network, “stop focusing on the doomers” “Focus for now instead on the infrastructure and cybersecurity problems that agents are causing.” “Recall gene - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE12RnFNd05FYW53X0VmdHNiVHJVdFhhWV84amF1aWhTSjZQVEpyQUpHcFk5TGFWaWE4TFN0ejVrTE1tWVBfUE9xMkc4bmZsSkFMcndmLUptbGpieGVjeDRnag?oc=5
+• AI agents can now buy things for you, with a security check on every purchase. The harder part is knowing what to buy. That takes context: how you slept, how you trained, what your body needs this week. Gotchi is building for that step. Specialized agents, wor - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VMXhNbFR6bU01N05aS1ZtWFM0dDdkMkdxOVJJQjRjYmU1aUFiVHQ5SWFDTl9ybFpKU0FHMWJwbm5zMlBuN0ZpN1Y4cllmR3hYR0p6N2hyUXJEd3VFMk1hSUhIWQ?oc=5
 
-• BREAKING: Dylan Patel of SemiAnalysis on the Current State of the AI Market I sat down with @dylan522p, Founder & CEO of @SemiAnalysis_, to discuss models, data centers, AI agents like Instinct, Dots, & Muse, why he bought Citrini Research, the competit - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE91XzEyOHpOQU02Xy1BUjNRM2hZNFN0bUxJVmRaVFRTU0R3N2R4TE1TRV9UTFctanJGU2k2TGp1cUZVSjNSb2J2REhTbTRZQTRBY2ZFaWdjMXJ0QVd1QTZCTGJB?oc=5
+• Nvidia stops shipping US-approved AI chips to China https://t.co/X7XCZSzE80 - X
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE11VndUM0w1eVVqMFoxN2Zaem5mWFJUZTNvNXp4eEFXLS0xcFhFdjFSMDMzVFRGS3YyNFRoYnk1TWFNTUtZdHM1ZWp5ZFBBWXNTQXJNVWMyZFJxRXBa?oc=5
 
-• Introducing NVIDIA Nemotron for Science, just announced at #SC26 by Ian Buck, our VP of Hyperscale and High-Performance Computing. The collection includes open models, datasets, tools, and post-training recipes to help researchers build more accurate - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hekU0X3l4ODBtOGt5MGE3MHR3aEhDZXhSMUdWaWRpcVFnM0lGVzRHWjJSRDdIdnA0MDNjN0lZRXpfREQyb0VtNm12cGdmeE1FX25hSEx6ZWIyNHhTc3c?oc=5
+• JUST IN: JPMorgan develops AI agents capable of carrying out financial transactions without human involvement. - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LRHF0akVaZVdEYVFGNl9ydlU0UC1IODBHWW5jcFVYWkZXcDZkT0V6OXlKY1RJeUpfaXJvZW5oOV91VTl5SF9Za05MblhzU1lEUjJhRTdnaFpEMl8yVHdNR2F3?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
