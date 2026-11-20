@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 19, 2026
+AI INTELLIGENCE BRIEF — November 20, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Jacobs, Maloy, Beyer Release Outline For Sweeping, Bipartisan AI Safety Legislation - Jacobs, Sara (.gov)
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmdYdXA5Wjdid2JPQklvb040NFFwRmdvdjduTnhsUlRKZ2kwdG10U0dOMTFHVlBYcGp0djBqOGY4S2lHMFpkSVZXNmptSkhMQWlNeHFqc0tDRFFicm5sSHRJdEhHb2prR0pQVktEalJJcVVzMW00WlpkaHZWbTNWaHRoc2tKQkJYQ3ZuNU4wV0xqMXJDbmFVTDJIR3B2bXFUcWE0MHpfSGFBU1BTMjRfQWdHOEdsajBwLXJYRThvYW9tOW1BU2JJLQ?oc=5
+• AI Agents Should Not Access Financial Accounts Just Yet - Bank Policy Institute
+https://news.google.com/rss/articles/CBMifEFVX3lxTE1IY050b2wtdGJZbDF3TzFJQTUzY2JYUUtjclJVQUJPMEZITXBaeW9aaExnaEE2WlVPa1B4NDZZamZ1WG15X0lLUzJpOU1zLWM5T3lXcWRlTTJ0Q3JRY25vckZ1NkhxX055Y1FEVDdWMTM5aDBCYjNEcFVhbDA?oc=5
 
-• AI agents at scale: Why programmes fail and how to fix them - World Economic Forum
-https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHNJaFpsVU5TNDVHdlJxVEVacVdIM29tRzRXampJaVVLd21KWVVHekVTYlRCV0U2Q2pmR2lhT056OEdjc29tQWFvQ1RtQ1FWWU5wMzgtZEYyekR2YWFXR19rTmpTZ3NCX1R6dmNFOVFWdUtoYlpEYTgyalBPQV90aHlYVzlCa3Z4RmZieFB6Q1puUnh2Y19ucXhKRHNXNVdTM3NGWQ?oc=5
+• The AI Safety Community Is Increasingly Freaked Out. Should They Be? - Mother Jones
+https://news.google.com/rss/articles/CBMifkFVX3lxTE0talVXUERDdVZ6NFF6b1BTR2lPMi1hVXFtRzd0MXBaR3RjS2xycld5Y0lkMWpUMDB2QUlraVlfWGZJbkRnY3hRWFBwYjlDMFNEWmNPZjBmX0NicTByN19TRk9jSnJJOEV5RFZVV2dacnJiMVIxX09IMUt4MmJDdw?oc=5
 
-• Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents - WIRED
-https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGJoN2NDT1pLQnRlbzdfV1ZjQlBlV1JxUjZIV1hXYVlTV2FNZWpyYTdTZWpyNXFYdm9UNDF1ZG1MZnUwakVTZmxXelN6QWJ3UGZkZHdiRTBOMUlnQTI5Sng0bC1yRDhNYjFYYmszTExwNDdNdWRBVGd6bUtwTG4wZlAtam5pUEdOU0NScGJfMEUtbHhBeHQ1ajNRQWc2UFhra0plTFFybw?oc=5
+• Scaling Airflow pipelines with AI agents on Managed Airflow - Google Cloud
+https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUs4V2lwTldXRmMtY3dlUTVINmNEV3d6ZDViNEJDN2lXUUEtNDhpQWp1QjNxZ2pMWDFWd20zOE92eVVWOXZSWVN6MnRqSHhvSGZyZXFlYTFYYUg3eVpqUlFRLWowY3BlVnZrQUplMlkxeURvUFE0OFp4aDBqNjZqNzB4eEVoYUdmUFVRVGluVGs0cTgtNzhjc3VadE5jZU5iNHR4M2VUMXZRYW51RkZxcUZHQQ?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5
+• EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters
+https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5
 
-• What we learned from Nvidia’s first earnings call without Jensen Huang - SiliconANGLE
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFUzTFFzeW1OQi11OGFDaWVXdkhYUzJDXzY4Tk9IWklxU1dXSjcybk5wWkRpQ0UtZk9ZYmRfYjFwMmJBUXloMXlFbDRoSmRWcXlsRE1EaWJkOG45LUhQWWx1WE1kQndhME5sbm1pRFh6SEtZVGYxQ0U1UmdGQy0xa1pPWUpMOGNjWjRoS0lldVhkY2JWMWpxcURFOEQ0OXBJS2dJZkJfV0h3Zw?oc=5
+• Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis - CNBC
+https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXJZbEJSVExtUGxySHJ5eFBaLTRFV0dTRWFjY244NWdhVTZ5cENMNXBqcVhBS08xLS1oSG5jbVJTME9QdWZKcXlzOXpTN3ZmMFZrREtNVzhHUVFMZXBmTndDUklLWFFrOGlpNTc5Y3dQR25mMjhXdGlSbl9SNVBfbFVOVXhCZTg3a3gtVUwyN1FWOVZ6NWIwRXUxZTdReG56V1MxeGdIONIBrAFBVV95cUxNN3pqQmZoNHdVc1M2SHpMWERNaDNHOUVyRGNDM3dlVzdGR19IaVdyRG5mQ0p6SzBZYlpWemdoZDN1M3NzZVpVVWpNVkFGa2ZpT3g0YVR1aFBLb0RoWm5mM0EwMkRkdmEtNndicG9iTHNLTGU4VUg4XzdPNWpDd0tYMWItNFM1NDNuMTN5OHEwbWFBNUloZEh6ekdsYW5WY2FXSHZjcmgxS3M5Tmx0?oc=5
 
-• Jensen Huang's — and Nvidia's — legal exposure balloons - CNBC
-https://news.google.com/rss/articles/CBMib0FVX3lxTE5renBiTFZfWW5JYjR5VmVjOC1ZVWVlMWFqa2NzNmZadWMyUE8zYkxVaVhCYTBUTm5rU0VoS0ZvdVJBaEljeWxpRVV6WkVrbUM4SlVfUERfRU1wbFg3Z1hlRHF2M250ZlQtWWZTek9tb9IBdEFVX3lxTFBmOHY3TDNVM1JySWlETDlPMlRsOE5QbW1lYlNCaXRKSGp4eVZOZkJ0TF84WGdJUmd2eU11aklNYkJEZ3I0RVRYUXdDU1BldVBFNkN5cmJXODAzUUV5SklLSENQUUltOVBNZWRsQmtOU2tHaFdh?oc=5
+• Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance
+https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Everpure revenues surge 51% as AI demand drives more hyperscaler wins - SDxCentral
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFhocTJiRlNEY3IzY2ZJaWZXYUlRZnZSM2JMR1ZGTzNSc0lpVXhRV2lTdkNUaVFRVHNuRG5jd0d1TW1iVHFYM3ZFaVQ4RkFQZ1h2V0Q0QUk3YmROWHBpd2lGbjRYRWMxaHpZWTBxd2xiTTBEM3lQcmFRR2htRF9Vdl9hMTdQaHZYZGloN3FkVDdjNXNybVFxYl9LWFBYd1FpUWpZ?oc=5
+• UK competition body probes hyperscaler security and cloud lock-in - SDxCentral
+https://news.google.com/rss/articles/CBMinwFBVV95cUxQam5pczZTV0xmNUFFWU5ua2I5UWhnVmJ6VnJBZzVfdHYwWkNBNE5qbDdIRExSY2R5UXo5VTc0RXh2NTZvTmVBYUVETVlraVJSQVdyT2xtc05wNHpPNlFfSnlMc3pWTG9ITDMwUmpTTHdydnhkbWVQaDNXMFNlVDBxR1N3NEN5Wkk2cmRhWmRaUjZhR3I1Q0RKdkczUWYwMTg?oc=5
 
-• The Real Reason Most Enterprise AI Never Pays Off - Forbes
-https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0lMZ3l2dm9YeHBucllBcDRVelVQY3JHb2lKMFUwVERaM0wxUTdxakJBYzN2WnJsMDE2c3JfUGxPcENNSmNqWWR4ZUFaNHYwdExsclVOUVZnVWRWYWx6WW42dFEzUTRuR284dmZYZjlkYmhlc1JBMXF4V21KQ05VTnJEeVUySzVaOWZyMjh4Um9mSHhCZzdOMk1sTXdmMGVPS0Ew?oc=5
+• Exclusive | EQT Ventures Invests $10 Million in Enterprise AI Company Edra - WSJ
+https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3VoTTBrT0l0VWowSm42OUJ2MWRQMjJNOTJUbVNhVXBpN2dwR2lHZEU4bGx0NF94UnZjNWgxczEwYzFQZmwzNFV6SHFGaFRuS1FLZUpCc3dBa01ERjR2RkdOU1puYXBhMzBHOGRiWF9Renl4cWJTRjlXZEMtUG9lblBUbU11WnBOb2V1WlplVFc4dXhvMDVkQUtTZDVSSEk?oc=5
 
-• Anthropic’s blockbuster IPO raises the stakes for its enterprise AI business - Fortune
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnpWbF9hNVdsbHV0M2wxRHpwV2w4NkNLZldaRHJGdTFyWWlJQUVZQ3BRY3lwaFFEeFRHam10Y0tNenloU1Ruemh2RVd4YmZ1RGNDRkRQMlM1VWZhUERpdzNZekRGRThEQTBDY0Z3THJEM3BPekxQcEczalJjSGE2dUEzb1JGOEMwTzgtUURSWTRXMDRYYW96RTJXMGc0OWJT?oc=5
+• CoreWeave and Humatica: Scaling Proprietary Enterprise AI - AI Magazine
+https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlZMWTNaYTJnT0RvcFhBWXFRQlg4aVF3WWFNTkRPZVJ3S09zX2p3UzBSTTcwWnJGci1Pb0JHb3ROTG1RY0NRMElaRUI1SG91bXpvdHRrc3ExRktrcllHV2IwbTgwTzBjVmNvR1lNcGdDSlJhOVphTk1YQU0xSlBRYmphZ191U3lZSXZKSA?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Introducing FrontierML, a benchmark for evaluating AI agents on autonomous empirical ML R&D. Most existing benchmarks for ML "research" give the agent a validation set or verifier that closely tracks its final score. In practice, human researchers rarely have t - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fS3o4bnNyd2ttQ1VseTRGZll6Wjc5N3Vob3RWLWV5S0otOWRBdkFNYkFVRnJ4MFRaVUtOWGtHU1dHMU9kbGVTYTQwTkFQd3dSc3ZkUDk3MnZ5Z2M0VV9YOQ?oc=5
+• Super interesting research: almost 1,000 AI agents from 35 labs did research on their own for 12 weeks and ended up building their own scientific community. - They published 936 studies with code and data and even started their own peer-review journal. Pu - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DZThMWVRoY212SldMOGM1Qlc5djBFM2NBRFpqaFd4alVUdV9kRG5HZFBfX213WnB1QlB1QWRoQXVMalhvWDVEd0NrV1N1bkVzd0V5YktEVDBvUWYzTUdlX1Nn?oc=5
 
-• Blue Origin and Google have entered into a launch services agreement for Project Suncatcher, Google’s research moonshot exploring how an interconnected network of solar-powered satellites equipped with its AI chips, Tensor Processing Units (TPUs), coul - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZdHRGYnpFWFdEY2hnMjJ5eVRUWnpYWFFGWWFvZ1JBMlo3SWxfcC1tSTNreEZyd2cwcDZFV2owTzEwNE1nekluZ09Ha09ZeGRIdzBVVXdwQ281VWJNU3FmZg?oc=5
+• GPT-6.2 Astra understands the physical 3D world better than any other AI. It ranks #1 on Blueprint-Bench 2, a benchmark where AI agents draw floorplans from photographs of apartment interiors. GPT-6.2 Sol is also very strong, ranking #3. - X
+https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLcW0yTDFGUEwxQkhpSGEybGJ3MF9iMldvVHBDTzlDYjFvNm1zTTBzRkJ5VDl1NnVicFQ1WFh5LTFrcUlpVTZkQjNVUUM2MHNRZzVFVVBqcjhXZGVvRlpv?oc=5
 
-• A 4x faster alternative to GPU inference is here! AI agents can spend more time generating tokens than running tools or executing code. Researchers studied SWE-bench Pro and Terminal-Bench found that model inference accounted for 71% to 98% of agent r - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZGV6ZXZLSmttQnVYSUdhZ3FRcHBOdEhyUWtGWldfWkVabnNHWWJ0Wk42WDlHeFBYbHppVlByVTFMZTNFc3NUcUN4aU9KTnVwOUpZdV9qaDkwUExoS0NGNw?oc=5
+• US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says https://t.co/PWVs9mY7xk - X
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQW83bzA5cmJTNEw2MEhkd1NfdHR3M2VFa3phUUZ0cEk1UThtRXhoWlJTMWJOUmJJM1NUUXd3d3Jad09uSEszWHdKZzlvenMtaWgwYUpRNE1SQ25S?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
