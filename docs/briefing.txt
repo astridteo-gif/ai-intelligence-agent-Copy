@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 20, 2026
+AI INTELLIGENCE BRIEF — November 21, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• AI Agents Should Not Access Financial Accounts Just Yet - Bank Policy Institute
-https://news.google.com/rss/articles/CBMifEFVX3lxTE1IY050b2wtdGJZbDF3TzFJQTUzY2JYUUtjclJVQUJPMEZITXBaeW9aaExnaEE2WlVPa1B4NDZZamZ1WG15X0lLUzJpOU1zLWM5T3lXcWRlTTJ0Q3JRY25vckZ1NkhxX055Y1FEVDdWMTM5aDBCYjNEcFVhbDA?oc=5
+• Here are the top AI agents that can live in your text messages - TechCrunch
+https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUhxQXlJS1pjd0swWl9LM1VGQS1jMmFKMnBtNGpjNmY0Q1BXZ0VEV3NZM0ZOdXFDOWU1bHVjT0pPZlI1enV5cGhiZVJidlJKMGZZOGcwZGhZRE9tVU5QWnNxN2VtRHMtTkNwWmp2MHloTnFRVU81dTZfcU5IZmk2YW5SdDIyVWljRVowclN2ejJlUQ?oc=5
 
-• The AI Safety Community Is Increasingly Freaked Out. Should They Be? - Mother Jones
-https://news.google.com/rss/articles/CBMifkFVX3lxTE0talVXUERDdVZ6NFF6b1BTR2lPMi1hVXFtRzd0MXBaR3RjS2xycld5Y0lkMWpUMDB2QUlraVlfWGZJbkRnY3hRWFBwYjlDMFNEWmNPZjBmX0NicTByN19TRk9jSnJJOEV5RFZVV2dacnJiMVIxX09IMUt4MmJDdw?oc=5
+• AI Agents in Financial Advice: From Hype to Reality - Wealth Management
+https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUd3S0MwNmw2WGRzZ2U3a3dKeFI3SUVhQlZNMWlJR1RRT1dmVGY3bXFEalprdjlYaHNGN2FFbC1YMktZTHctTTR1MXlEUnBRRFJ6ZEdPNnhWTHk3TUNMTXVYMFBCajd0UHZTY2ltdGdTVU9XTU9IeFdpUjZYV2h1Q2xiNVViWGNSMkI0SGkyZjk0Zkk3TlE4RVBNZkdUZ1B6NjUyaW1Wc0IzbFE?oc=5
 
-• Scaling Airflow pipelines with AI agents on Managed Airflow - Google Cloud
-https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUs4V2lwTldXRmMtY3dlUTVINmNEV3d6ZDViNEJDN2lXUUEtNDhpQWp1QjNxZ2pMWDFWd20zOE92eVVWOXZSWVN6MnRqSHhvSGZyZXFlYTFYYUg3eVpqUlFRLWowY3BlVnZrQUplMlkxeURvUFE0OFp4aDBqNjZqNzB4eEVoYUdmUFVRVGluVGs0cTgtNzhjc3VadE5jZU5iNHR4M2VUMXZRYW51RkZxcUZHQQ?oc=5
+• Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access - The Hacker News
+https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFZmbjVDQTBnN181azlaZXV4R0VMVkxuT0xtN0FnQ3JINzRpTEJwZ2N1TUlvMmVXb3NsVzJrMnJJYm82eEozZmRpYU9tQ1Y2VzJCRVVHUXNHZFN0cFpnTFkwWXJ4WTVyQzVueGNjQ28yN3ZOU0FrRUJFUWZjcVZUdlRR?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters
-https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5
+• Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS
+https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhFLVdNQVNlbl9tSXFrRmI4LS1VQmhxamhUS0F0WjhFMmoydGtBbG5Lc1AzbklUekQ0NDdvWDM0Q2Nfd2dOUTZEdE9MVnZCUVJtc1p3M0R4M2VjVS1zNUdXWWF1R2ZnNmpQU2lJSXNQQlM5WUk3cF92bDB3c3F5N3d6ZEEySktWeVRmSkE4SXR3R3JUaXhObmhjdmgzSEgxNTV6d3N0M2k5UU9uSDBsRXZiNzIxRWJsQmfSAb8BQVVfeXFMUElMcEVVRXcweUZhTloxWGJFdlN0UWx2ZDBBSm5DRzhiejNJZlgtWWV2eUpiQ0diajZlZ3BrbmZEMTJRZnU2eVBJWkwxdGNzTkprSElzTk05VXhKREVDcnYwN0t4aXl2V2VFbHZ4SWNuWEVvUXA5bEE1dm94UWU3aTBQT0phSEEydHdEMWYzSkNvbWtlbHVlajJRblRfUUc3eFBXTFZmd2VYQWh2RjMwZzM3N2ZYQ0l3OWhqS29mQm8?oc=5
 
-• Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis - CNBC
-https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXJZbEJSVExtUGxySHJ5eFBaLTRFV0dTRWFjY244NWdhVTZ5cENMNXBqcVhBS08xLS1oSG5jbVJTME9QdWZKcXlzOXpTN3ZmMFZrREtNVzhHUVFMZXBmTndDUklLWFFrOGlpNTc5Y3dQR25mMjhXdGlSbl9SNVBfbFVOVXhCZTg3a3gtVUwyN1FWOVZ6NWIwRXUxZTdReG56V1MxeGdIONIBrAFBVV95cUxNN3pqQmZoNHdVc1M2SHpMWERNaDNHOUVyRGNDM3dlVzdGR19IaVdyRG5mQ0p6SzBZYlpWemdoZDN1M3NzZVpVVWpNVkFGa2ZpT3g0YVR1aFBLb0RoWm5mM0EwMkRkdmEtNndicG9iTHNLTGU4VUg4XzdPNWpDd0tYMWItNFM1NDNuMTN5OHEwbWFBNUloZEh6ekdsYW5WY2FXSHZjcmgxS3M5Tmx0?oc=5
+• How Jensen Huang Made Humiliation Routine at Nvidia - The New York Times
+https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5
 
-• Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance
-https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5
+• Should You Buy Nvidia Stock Right Now? - The Motley Fool
+https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGdtcW12ZjJrSklaNDU3RTdUMGo4SlpTUFh0cVlFR0JBb1U2cmRLUWRmc0xIYUZ2SENDTFFiXzJtaUNOQ0phUVQxOXcySHlRUUVVRmNTeG9iS0VpLTI2TWd4ZDJMLXV0NWx1LW0xU3N6ckFFZ2w0MUdkZlZoTGxPZlpqSWpUc0E?oc=5
 
 === TECHNOLOGY INVESTING ===
-• UK competition body probes hyperscaler security and cloud lock-in - SDxCentral
-https://news.google.com/rss/articles/CBMinwFBVV95cUxQam5pczZTV0xmNUFFWU5ua2I5UWhnVmJ6VnJBZzVfdHYwWkNBNE5qbDdIRExSY2R5UXo5VTc0RXh2NTZvTmVBYUVETVlraVJSQVdyT2xtc05wNHpPNlFfSnlMc3pWTG9ITDMwUmpTTHdydnhkbWVQaDNXMFNlVDBxR1N3NEN5Wkk2cmRhWmRaUjZhR3I1Q0RKdkczUWYwMTg?oc=5
+• Limina merges with Amberflo to meter enterprise AI usage - Dealroom
+https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVlWTko0NTVuUmtIcFBTekZ4cUtDVk5JUWpsVXdFa3FfWTNDVF90a01nYUR2MVNWRjNreTM3YXJXYXZiX2hWQ2Iwbks3Sm5Rdjc0eURmSkNNbFZya0tjNXY2UzVUZU8xb0EyQnpQbFVSZHhXaEhtVHlKTXNreDB4TTFtaFM5ZTYtbTNMcGoydVAwdUpW?oc=5
 
-• Exclusive | EQT Ventures Invests $10 Million in Enterprise AI Company Edra - WSJ
-https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3VoTTBrT0l0VWowSm42OUJ2MWRQMjJNOTJUbVNhVXBpN2dwR2lHZEU4bGx0NF94UnZjNWgxczEwYzFQZmwzNFV6SHFGaFRuS1FLZUpCc3dBa01ERjR2RkdOU1puYXBhMzBHOGRiWF9Renl4cWJTRjlXZEMtUG9lblBUbU11WnBOb2V1WlplVFc4dXhvMDVkQUtTZDVSSEk?oc=5
+• Tokens only tell part of the enterprise AI spend story - CIO Dive
+https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmhIWmJHZVcxR0ZvTzNCNThfZDUxcThwYmhhbHdqZWlpaFF6ZmZ3a0JXOXlGdUpoeEU2QUFoOGdnb3F3ZzNfeUI0WGFtQmthLUY1R1l0Qy1IQzdWc3c5eWxKbVhjQmJpM1pLV1NaajE3MVpDTi1ScThnbm9vSnB1bzhnd3l4UQ?oc=5
 
-• CoreWeave and Humatica: Scaling Proprietary Enterprise AI - AI Magazine
-https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlZMWTNaYTJnT0RvcFhBWXFRQlg4aVF3WWFNTkRPZVJ3S09zX2p3UzBSTTcwWnJGci1Pb0JHb3ROTG1RY0NRMElaRUI1SG91bXpvdHRrc3ExRktrcllHV2IwbTgwTzBjVmNvR1lNcGdDSlJhOVphTk1YQU0xSlBRYmphZ191U3lZSXZKSA?oc=5
+• Dell, Microsoft target enterprise AI inference with Nvidia HGX B300 - TechTarget
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWZCaDNFekdQTkdKUEtoWDJ0cHFoQVhTVGIwU0UzWGxxTlVaaVZhU19pUlJoaFh4STRxWHYzOXFEbGFVMmJWTE5NME1iY2hieDdack1HWGJ6MTIzN0dnb0NlUjd6bGlldmJYaVRVVHZtZGhjSVlOX0VENlUyb1M0Wm90Mzc2Y0t0ZktuMW5FWl8tWnl4dWpkU3FjQTdCcV9DZTN3QlhOc1I4UQ?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Super interesting research: almost 1,000 AI agents from 35 labs did research on their own for 12 weeks and ended up building their own scientific community. - They published 936 studies with code and data and even started their own peer-review journal. Pu - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DZThMWVRoY212SldMOGM1Qlc5djBFM2NBRFpqaFd4alVUdV9kRG5HZFBfX213WnB1QlB1QWRoQXVMalhvWDVEd0NrV1N1bkVzd0V5YktEVDBvUWYzTUdlX1Nn?oc=5
+• Giving AI agents access to company systems creates new security needs, from controlling permissions to recovering data after an attack. Cybersecurity funds approach that opportunity differently. @CGannatti examines how selection rules shape the companie - X
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNGxZWDRSMHBHQnpNeFVlcHpRc1A1Y0lnbFBwOEJfM2tycWhLLUllTkdVeXdfcVA2cnF5QVQ2bVpDRlgzcjk2cjRiVGkyRkRCUDFNb05KN1RpSWpVRXNXTUZUUXRPU3c?oc=5
 
-• GPT-6.2 Astra understands the physical 3D world better than any other AI. It ranks #1 on Blueprint-Bench 2, a benchmark where AI agents draw floorplans from photographs of apartment interiors. GPT-6.2 Sol is also very strong, ranking #3. - X
-https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLcW0yTDFGUEwxQkhpSGEybGJ3MF9iMldvVHBDTzlDYjFvNm1zTTBzRkJ5VDl1NnVicFQ1WFh5LTFrcUlpVTZkQjNVUUM2MHNRZzVFVVBqcjhXZGVvRlpv?oc=5
+• .@T_E_Howarth got to eavesdrop on AI agents doing science. It was eye opening. 936 agents exchanged thousands of messages, each publishing end-to-end research on their own preprint server. But was it any good? https://t.co/dVnwaC7s2v - X
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iY2pDRjRxWXpNNzdqdy1JblBsYWROOFVabWNsZnA5STJKZXpWUTE5NkJpMnI2VzM4MVIzRnhtOV9MSXZVMFBBWU5nVFJLb0lpSWpRU0xlbGdBaUk?oc=5
 
-• US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says https://t.co/PWVs9mY7xk - X
-https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQW83bzA5cmJTNEw2MEhkd1NfdHR3M2VFa3phUUZ0cEk1UThtRXhoWlJTMWJOUmJJM1NUUXd3d3Jad09uSEszWHdKZzlvenMtaWgwYUpRNE1SQ25S?oc=5
+• JUST IN: JPMorgan, Bank of America and Citi now warn YOU will be responsible if your AI agent goes rogue. 1. Citi: New terms say if your AI agent's login gets leaked, every action taken with it counts as "authorized by You." 2. Bank of America: Emailed custo - X
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZjVTQXY5SVp2QTg5aVpZNEI3eFR4TDBkaC1EM1dYNTlncWlGUjdPQVpfdEliUm00amxSUkZRTUdQN1dONkNPcHUzUXVUMnk2b1FfTEQtbTFZUFpNZXJjdQ?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
