@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 21, 2026
+AI INTELLIGENCE BRIEF — November 22, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Here are the top AI agents that can live in your text messages - TechCrunch
-https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUhxQXlJS1pjd0swWl9LM1VGQS1jMmFKMnBtNGpjNmY0Q1BXZ0VEV3NZM0ZOdXFDOWU1bHVjT0pPZlI1enV5cGhiZVJidlJKMGZZOGcwZGhZRE9tVU5QWnNxN2VtRHMtTkNwWmp2MHloTnFRVU81dTZfcU5IZmk2YW5SdDIyVWljRVowclN2ejJlUQ?oc=5
+• We need international AI safety cooperation to drive national action - Bulletin of the Atomic Scientists
+https://news.google.com/rss/articles/CBMiowFBVV95cUxPUl9VbWNaNHQtNTVjaDdyRThHVURmeFFiVG9CNWhrNGRieERxUms0Z3U4R0RiQk0tNU1jQ0NPbWJwVGFibW5vMkc0NG9GMkxpYU9zVzlIQlVHa21talJ4NFZXdFljNXQyUEY5ZlRHRjFRRUZ2dDdtMnQzRkNrckpMeG85WWd1Sk9RUWc0NVJjUlVMTkQ0RFNrRDJtVjBaRklGckZR?oc=5
 
-• AI Agents in Financial Advice: From Hype to Reality - Wealth Management
-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUd3S0MwNmw2WGRzZ2U3a3dKeFI3SUVhQlZNMWlJR1RRT1dmVGY3bXFEalprdjlYaHNGN2FFbC1YMktZTHctTTR1MXlEUnBRRFJ6ZEdPNnhWTHk3TUNMTXVYMFBCajd0UHZTY2ltdGdTVU9XTU9IeFdpUjZYV2h1Q2xiNVViWGNSMkI0SGkyZjk0Zkk3TlE4RVBNZkdUZ1B6NjUyaW1Wc0IzbFE?oc=5
+• Alignment Healthcare, Inc. (ALHC) stock price, news, quote and history - Yahoo Finance Singapore
+https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jZGJQVGpwOWRJU25lUE5QaHFKV3VXOF9qQzNMUk1kTVZkSEZRZWprQ3FjNDUwZFNqT0lUeS1EUDRTZWVuQmdUZmxpQl9kWTZvZ3c?oc=5
 
-• Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access - The Hacker News
-https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFZmbjVDQTBnN181azlaZXV4R0VMVkxuT0xtN0FnQ3JINzRpTEJwZ2N1TUlvMmVXb3NsVzJrMnJJYm82eEozZmRpYU9tQ1Y2VzJCRVVHUXNHZFN0cFpnTFkwWXJ4WTVyQzVueGNjQ28yN3ZOU0FrRUJFUWZjcVZUdlRR?oc=5
+• Signal Is Blocking AI Agents From Reading Your Screen - Security Affairs
+https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlLaURHYWlxOG1ZWmNrRXppRUYxY1A4aG50dnFNTTZvMWNRbmRqSjZBYlpaNWdEbFpVaXAtbXlKSXpsRmlBSTRqdm0xR2IybzdBazh1QjBvVVZManNFdzFMY0JvaXRnZzlmYW5OREJseUxlTERDaFZKT0QxM0RGRU16d0dkeW5vSGtVcThQLVR0UkN4YXUtVEJWYU7SAaIBQVVfeXFMT0ViVkJhek9LWXlFM2FhVUxEYmFodlhNS2xTMG1OOG9VTndjMDJVSDhIZ1pSRW5fNU5ab3U5NVA5aEJwd2ZRbHhLa1JYYlBWRmhSVE1pcm5oV2F2cUZSUmpWdFpmMlZSM3FtQ2ZLTmctMVZhdEVpTVpVN3FyWlZYaGdEUS1YZkY0Z3NQOU1NanpkUHlXUWxIQTYwNXRIZ2xkdTVB?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS
-https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhFLVdNQVNlbl9tSXFrRmI4LS1VQmhxamhUS0F0WjhFMmoydGtBbG5Lc1AzbklUekQ0NDdvWDM0Q2Nfd2dOUTZEdE9MVnZCUVJtc1p3M0R4M2VjVS1zNUdXWWF1R2ZnNmpQU2lJSXNQQlM5WUk3cF92bDB3c3F5N3d6ZEEySktWeVRmSkE4SXR3R3JUaXhObmhjdmgzSEgxNTV6d3N0M2k5UU9uSDBsRXZiNzIxRWJsQmfSAb8BQVVfeXFMUElMcEVVRXcweUZhTloxWGJFdlN0UWx2ZDBBSm5DRzhiejNJZlgtWWV2eUpiQ0diajZlZ3BrbmZEMTJRZnU2eVBJWkwxdGNzTkprSElzTk05VXhKREVDcnYwN0t4aXl2V2VFbHZ4SWNuWEVvUXA5bEE1dm94UWU3aTBQT0phSEEydHdEMWYzSkNvbWtlbHVlajJRblRfUUc3eFBXTFZmd2VYQWh2RjMwZzM3N2ZYQ0l3OWhqS29mQm8?oc=5
+• Bessent says we "need answers" on role Nvidia played in sending AI chips to China, suggests Alice Huang is "kind of a canard" - CBS News
+https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0w1SkRVbmd2cF9NcmxBeHYyeTdIdjQwR3c0VG5KT0g1UHlxRm15S1B4ZE1KbUVXOHhlMXhuS1VOeEFnd3VkQmNES2ZpekFDbERtQzFJUVNYXzJHZ0VvdDlUZFVQTWsxOUlJeWRGQnI4ZElsMTc3eklnUDRBcEFmLXF4Z3o?oc=5
 
-• How Jensen Huang Made Humiliation Routine at Nvidia - The New York Times
-https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5
+• Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China - The New York Times
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPNU9MT1BaVjdSS2pURVRCVjNXdm02bzJhTU9Uc1lVUEI1TkpLb2lJaXVYblJyZWtYWjRiV0NLZTVaay11all2cUUtaThtUDFQYjU0UzVQMTVEajRrNC1USTQ0S05QQ2NFc2xBa3cxajMtTzFNOEVPeEZJYXMtRTBHdGZ2bG4wbzZsSHc?oc=5
 
-• Should You Buy Nvidia Stock Right Now? - The Motley Fool
-https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGdtcW12ZjJrSklaNDU3RTdUMGo4SlpTUFh0cVlFR0JBb1U2cmRLUWRmc0xIYUZ2SENDTFFiXzJtaUNOQ0phUVQxOXcySHlRUUVVRmNTeG9iS0VpLTI2TWd4ZDJMLXV0NWx1LW0xU3N6ckFFZ2w0MUdkZlZoTGxPZlpqSWpUc0E?oc=5
+• US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters
+https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Limina merges with Amberflo to meter enterprise AI usage - Dealroom
-https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVlWTko0NTVuUmtIcFBTekZ4cUtDVk5JUWpsVXdFa3FfWTNDVF90a01nYUR2MVNWRjNreTM3YXJXYXZiX2hWQ2Iwbks3Sm5Rdjc0eURmSkNNbFZya0tjNXY2UzVUZU8xb0EyQnpQbFVSZHhXaEhtVHlKTXNreDB4TTFtaFM5ZTYtbTNMcGoydVAwdUpW?oc=5
+• Databricks Seeks Fresh Funding at approximately $222.9 Billion Valuation as Enterprise AI Investment Frenzy Persists - BigGo Finance
+https://news.google.com/rss/articles/CBMidkFVX3lxTE53NXdEenh3MlhnRWRrb0syY0FXaWVnaTJBa1A0OEw4WFhCVS1JR2h0UWxsei1VWmlOMzhzRTZaNzdqTThMTFRfSWxjdVJBZ0ZCQkg5Rl9VQ3pSZldwdWR2aXpBNDZGMFdNdkd4MG9CQk56N0xiU3c?oc=5
 
-• Tokens only tell part of the enterprise AI spend story - CIO Dive
-https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmhIWmJHZVcxR0ZvTzNCNThfZDUxcThwYmhhbHdqZWlpaFF6ZmZ3a0JXOXlGdUpoeEU2QUFoOGdnb3F3ZzNfeUI0WGFtQmthLUY1R1l0Qy1IQzdWc3c5eWxKbVhjQmJpM1pLV1NaajE3MVpDTi1ScThnbm9vSnB1bzhnd3l4UQ?oc=5
+• Learning about Taxonomy, Enterprise Search, Enterprise AI, and Text Analytics at KMWorld 2026 - KMWorld
+https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYTVDYXFQYlF4bDByZElLc05DVTdvQWh4ZElhVzBQXzAtVEg3MzJJU1Jkb2FIQWtlVkRnNWphSHlhdEt5dHAxOWFFVGgtNzd6TGFPb0NDSXlNMHJ3SENWdk1uUXJBQ3dkT2o4ZUpQcG1hc0Zkc256bWk4dkpZX3dpS2RZZjduS3luanNiaXQtU0JncUZxNjBnOWE3bHprUGp0cUl3bS12eV9XTWZ1Q2stYjVjXzlzYzQ5ZHFWX1FSSmJDS3IzY2p2bW1hbTZPeEE0eWwyMEg4N181R1lkaUVFWUFVcV9uNlVi?oc=5
 
-• Dell, Microsoft target enterprise AI inference with Nvidia HGX B300 - TechTarget
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWZCaDNFekdQTkdKUEtoWDJ0cHFoQVhTVGIwU0UzWGxxTlVaaVZhU19pUlJoaFh4STRxWHYzOXFEbGFVMmJWTE5NME1iY2hieDdack1HWGJ6MTIzN0dnb0NlUjd6bGlldmJYaVRVVHZtZGhjSVlOX0VENlUyb1M0Wm90Mzc2Y0t0ZktuMW5FWl8tWnl4dWpkU3FjQTdCcV9DZTN3QlhOc1I4UQ?oc=5
+• Hitachi Digital Inc. Launches HARC Compose for Enterprise AI - TradingView
+https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFBveGE0MVdxMFlLMTNWVmRLVi11d3B0dHZMY0p5N3hXaFRVamZ0NWo5VDFHTkNaUGtQZmc1emR4bkhaVW5UMlY3UFI5QUJnM002eHdCOGpxM192YVhMNFBva0twckpXSEg0azBEZXVKWUJwQkRaUmN1YVJzT0xwU0k1aXF6Q1E2VFU2cHpVcXY2eW1mLXc1T0haRlFvajZvUjVlT1RnNmxpRTVqZmxaemtibDVSZ2w3bGt4VGZR?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Giving AI agents access to company systems creates new security needs, from controlling permissions to recovering data after an attack. Cybersecurity funds approach that opportunity differently. @CGannatti examines how selection rules shape the companie - X
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNGxZWDRSMHBHQnpNeFVlcHpRc1A1Y0lnbFBwOEJfM2tycWhLLUllTkdVeXdfcVA2cnF5QVQ2bVpDRlgzcjk2cjRiVGkyRkRCUDFNb05KN1RpSWpVRXNXTUZUUXRPU3c?oc=5
+• EpochAI: "Between Q2 2025 and Q2 2026, the estimated agentic inference capacity of AI chips sold to date grew 4.6×, compared with 2.6× growth in computing power. We measure agentic capacity using our Inference Performance Index (IPI), which compares - X
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EaWpwdGVJUjBkSWdycDZ4MXdSeTQ2LW0zZkhNOGpPV19WTG5oU0ExcXdsQVV5MmNreFZ2VXpIcTRUQ0dHWjY5YTMyZXU1OGg0VlpiZXpVVkNEUzJ5RjdSbkxES2dLMGs?oc=5
 
-• .@T_E_Howarth got to eavesdrop on AI agents doing science. It was eye opening. 936 agents exchanged thousands of messages, each publishing end-to-end research on their own preprint server. But was it any good? https://t.co/dVnwaC7s2v - X
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iY2pDRjRxWXpNNzdqdy1JblBsYWROOFVabWNsZnA5STJKZXpWUTE5NkJpMnI2VzM4MVIzRnhtOV9MSXZVMFBBWU5nVFJLb0lpSWpRU0xlbGdBaUk?oc=5
+• 🚨ALERT: U.S. banks are taking a HANDS-OFF approach to outside AI agents’ mistakes. If you give an AI agent access to your account and it sends money to the wrong person, your bank may treat the payment as one you approved. And, you could be on the h - X
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jc3ZybUxKVzJBUENCRWJTSFk3cEVZRV9sLThnREgzelJZMFFlR1Juc3dFT2lodkNHaDNTVEJaaTNjdWdweGEtVUZVbEJ3QmVvdVBDN2F5LW4zUnY2U0dNNQ?oc=5
 
-• JUST IN: JPMorgan, Bank of America and Citi now warn YOU will be responsible if your AI agent goes rogue. 1. Citi: New terms say if your AI agent's login gets leaked, every action taken with it counts as "authorized by You." 2. Bank of America: Emailed custo - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZjVTQXY5SVp2QTg5aVpZNEI3eFR4TDBkaC1EM1dYNTlncWlGUjdPQVpfdEliUm00amxSUkZRTUdQN1dONkNPcHUzUXVUMnk2b1FfTEQtbTFZUFpNZXJjdQ?oc=5
+• An Amazon memo details strategy for agentic AI shopping, per Reuters. It currently blocks AI agents from platform. Plans to build a “World Product Graph”, basically a search engine for every product on Earth (even ones Amazon doesn't sell). The memo writes t - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rYzBIUFhDbnNINUxrVk5Kb2wzMmhhcnQ3UkFtTVRBWGYyWHRrQ3kyX084YVNQemFPa0txck5vamhYTmRrVF9ZcnhFZFFUNjAtZ1pORV9HM0FwNUdBUVE?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
