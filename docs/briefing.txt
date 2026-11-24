@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 22, 2026
+AI INTELLIGENCE BRIEF — November 24, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• We need international AI safety cooperation to drive national action - Bulletin of the Atomic Scientists
-https://news.google.com/rss/articles/CBMiowFBVV95cUxPUl9VbWNaNHQtNTVjaDdyRThHVURmeFFiVG9CNWhrNGRieERxUms0Z3U4R0RiQk0tNU1jQ0NPbWJwVGFibW5vMkc0NG9GMkxpYU9zVzlIQlVHa21talJ4NFZXdFljNXQyUEY5ZlRHRjFRRUZ2dDdtMnQzRkNrckpMeG85WWd1Sk9RUWc0NVJjUlVMTkQ0RFNrRDJtVjBaRklGckZR?oc=5
+• Barbados and United Nations to co-host Special Summit on AI Safety on 23 November - Welcome to the United Nations
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXUtRjM5RTA0NG1KNkttd0FBMEhrcWdTb3piSEdMaWpSQ3R2czB1c2RiazVfX3hsVkJhSVM0cjJHQmVZMnVqMlB4cU9NY3EwQ3drRVE2V05DWEsyLTBtQi1PVGt1aGlPYWprX2tJalktMnlQWnA1RjRKcjdQSUlSLVZMd3h6QWpCRlFlclV6aWhwN1ROSDdTOGp2S2JwRW1uZXlNTks3NXFnNTJBYUlyWU92WGFXRzFHVjZodXdLd1JKQW1pa2NQNA?oc=5
 
-• Alignment Healthcare, Inc. (ALHC) stock price, news, quote and history - Yahoo Finance Singapore
-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jZGJQVGpwOWRJU25lUE5QaHFKV3VXOF9qQzNMUk1kTVZkSEZRZWprQ3FjNDUwZFNqT0lUeS1EUDRTZWVuQmdUZmxpQl9kWTZvZ3c?oc=5
+• QCon San Francisco 2026: Securing AI Agents in Production - infoq.com
+https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQk5UTjF2OEh6cVRfWC1NNDNyNTZpeDNWRU5kMHdDY01OY0VlWWtHR0pMQmp6RnZrRXRyNmhuc0FKZHdYYjdCS05vdlVncHhTQUZqRGR2cnBjUDdGOXh4WUd2b2xFTXItQUE?oc=5
 
-• Signal Is Blocking AI Agents From Reading Your Screen - Security Affairs
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlLaURHYWlxOG1ZWmNrRXppRUYxY1A4aG50dnFNTTZvMWNRbmRqSjZBYlpaNWdEbFpVaXAtbXlKSXpsRmlBSTRqdm0xR2IybzdBazh1QjBvVVZManNFdzFMY0JvaXRnZzlmYW5OREJseUxlTERDaFZKT0QxM0RGRU16d0dkeW5vSGtVcThQLVR0UkN4YXUtVEJWYU7SAaIBQVVfeXFMT0ViVkJhek9LWXlFM2FhVUxEYmFodlhNS2xTMG1OOG9VTndjMDJVSDhIZ1pSRW5fNU5ab3U5NVA5aEJwd2ZRbHhLa1JYYlBWRmhSVE1pcm5oV2F2cUZSUmpWdFpmMlZSM3FtQ2ZLTmctMVZhdEVpTVpVN3FyWlZYaGdEUS1YZkY0Z3NQOU1NanpkUHlXUWxIQTYwNXRIZ2xkdTVB?oc=5
+• Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Bessent says we "need answers" on role Nvidia played in sending AI chips to China, suggests Alice Huang is "kind of a canard" - CBS News
-https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0w1SkRVbmd2cF9NcmxBeHYyeTdIdjQwR3c0VG5KT0g1UHlxRm15S1B4ZE1KbUVXOHhlMXhuS1VOeEFnd3VkQmNES2ZpekFDbERtQzFJUVNYXzJHZ0VvdDlUZFVQTWsxOUlJeWRGQnI4ZElsMTc3eklnUDRBcEFmLXF4Z3o?oc=5
+• Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5
 
-• Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China - The New York Times
-https://news.google.com/rss/articles/CBMiigFBVV95cUxPNU9MT1BaVjdSS2pURVRCVjNXdm02bzJhTU9Uc1lVUEI1TkpLb2lJaXVYblJyZWtYWjRiV0NLZTVaay11all2cUUtaThtUDFQYjU0UzVQMTVEajRrNC1USTQ0S05QQ2NFc2xBa3cxajMtTzFNOEVPeEZJYXMtRTBHdGZ2bG4wbzZsSHc?oc=5
+• Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang - The New York Times
+https://news.google.com/rss/articles/CBMiekFVX3lxTE41T3Z1VnJLSk9LLURuSVhPYVJEdHZmUXIwQzYteGVERktDYm55NEpKNU1jMEFpbzgtTmVURzlzU2drN0Juc19HR0tCREl2MUJRWjFaTGFCd3FJWVEwNUwwalc3RktTcHVLMDVfMnZCVU9DLUZMaWZ1dnd3?oc=5
 
-• US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters
-https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5
+• Trump sealed deal for Nvidia to rehire Jensen Huang as CEO - CNBC
+https://news.google.com/rss/articles/CBMib0FVX3lxTE9ab2habU9pTTllNmRCRDdqTjgwQ3hsVFZDX1hhVkJxaVVCWHNhYjRHLXFMaWtnME41NGZ1Z1REMkh1d2Y0NUJGamJSdVJQcV9rZEV1aW9nUlhHQWN1WkFSU3RRMnZrNEpobEp5bVBoY9IBdEFVX3lxTFBXNkNGSW1MaGlybGVOX0YtaVI0YVFfd3NYMi1BenZKN2Ewd1JJT3NMMjdpaElsRF9jSThyVzBHYlg4dUxocjBjYnV1dml4czdrWHR4akNId1g3SVJYa0oyRkdEUHJPMnRUVFpkbUpxWHRtWUxE?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Databricks Seeks Fresh Funding at approximately $222.9 Billion Valuation as Enterprise AI Investment Frenzy Persists - BigGo Finance
-https://news.google.com/rss/articles/CBMidkFVX3lxTE53NXdEenh3MlhnRWRrb0syY0FXaWVnaTJBa1A0OEw4WFhCVS1JR2h0UWxsei1VWmlOMzhzRTZaNzdqTThMTFRfSWxjdVJBZ0ZCQkg5Rl9VQ3pSZldwdWR2aXpBNDZGMFdNdkd4MG9CQk56N0xiU3c?oc=5
+• Applied Digital Secures New 150 MW, 18-Year Lease with Tier-One Investment-Grade Hyperscaler, Bringing Contracted Base-Term Revenue Above $41 Billion - Applied Digital Corporation (APLD)
+https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFhfVHFHUlYxWDZrSUl5TWo4ZjdMcllqcEE2NXVPWXhXTUlfVU9xRjN1QmlkaTdCV29KN0M5Smk2bXdQcEh3aG5UMjVkTWk0aWxNMTFUVkI4Q2NkSzJ1cEp0cUFnanZkendaNzlDTDJLdmZPRndZTEJyc0ExcHVfelcxaUdpbGc2bjlhMU5Za3ZqOU90U3I4Tld0S0VHSFJNczd0elNKa0w5UXlLcmRWZlZ5aWVyckUzMG5mWFl3?oc=5
 
-• Learning about Taxonomy, Enterprise Search, Enterprise AI, and Text Analytics at KMWorld 2026 - KMWorld
-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYTVDYXFQYlF4bDByZElLc05DVTdvQWh4ZElhVzBQXzAtVEg3MzJJU1Jkb2FIQWtlVkRnNWphSHlhdEt5dHAxOWFFVGgtNzd6TGFPb0NDSXlNMHJ3SENWdk1uUXJBQ3dkT2o4ZUpQcG1hc0Zkc256bWk4dkpZX3dpS2RZZjduS3luanNiaXQtU0JncUZxNjBnOWE3bHprUGp0cUl3bS12eV9XTWZ1Q2stYjVjXzlzYzQ5ZHFWX1FSSmJDS3IzY2p2bW1hbTZPeEE0eWwyMEg4N181R1lkaUVFWUFVcV9uNlVi?oc=5
+• 5 Retail and Tech Earnings Charts to Watch This Week - Zacks Investment Research
+https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVEtSFRXUHlYdGttR1RTazY5MndnenQyMkRoOUh1UlRQMmFtSnRXa0NJV09XY1pUQjVicHlvUVFHNXFkb3U0a1FyQmI5aS1iUHVXWUtXLTc4WTlJeU50UnN5c0FxTFZjeUNaUUdzeE9OMzY5QUJpckNCTUY2ZWVZNFlMcjF3TVZuekdBR2QwMGlMNUdIVzc1NQ?oc=5
 
-• Hitachi Digital Inc. Launches HARC Compose for Enterprise AI - TradingView
-https://news.google.com/rss/articles/CBMivgFBVV95cUxNSFBveGE0MVdxMFlLMTNWVmRLVi11d3B0dHZMY0p5N3hXaFRVamZ0NWo5VDFHTkNaUGtQZmc1emR4bkhaVW5UMlY3UFI5QUJnM002eHdCOGpxM192YVhMNFBva0twckpXSEg0azBEZXVKWUJwQkRaUmN1YVJzT0xwU0k1aXF6Q1E2VFU2cHpVcXY2eW1mLXc1T0haRlFvajZvUjVlT1RnNmxpRTVqZmxaemtibDVSZ2w3bGt4VGZR?oc=5
+• Enterprise AI Model Flexibility: Why Switching Matters - World Economic Forum
+https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGs2QmZETDhBRnRXdUZiWnIxSmY0SmpWRzlpS08yaDhfMEFBbmdMdEdqNEk4cXBSRlh1THpaTlZsN2N2NU11ZHlESTR5NjRPalB2VVV3OHRldDZiSm9venhlS1R4VUYtcHVwQ0x2NFRRMGlSZHN6N0N5NWFDd2lKdFpvdHdtTUFuc1FVZDFHX3p5UUZLcmcySUUwV3FId21maU9WczZQUQ?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• EpochAI: "Between Q2 2025 and Q2 2026, the estimated agentic inference capacity of AI chips sold to date grew 4.6×, compared with 2.6× growth in computing power. We measure agentic capacity using our Inference Performance Index (IPI), which compares - X
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EaWpwdGVJUjBkSWdycDZ4MXdSeTQ2LW0zZkhNOGpPV19WTG5oU0ExcXdsQVV5MmNreFZ2VXpIcTRUQ0dHWjY5YTMyZXU1OGg0VlpiZXpVVkNEUzJ5RjdSbkxES2dLMGs?oc=5
+• As Chairman of the @HouseForeignGOP, export controls on our most advanced AI chips has been a top priority. The reports of Jensen Huang’s alleged affair with a Chinese intelligence asset and the smuggling of our most advanced technology to China is ext - X
+https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ybEdEZ3ZpSDN6Mm5BYlgtNHJ3Z1VkOE1pd2tDM01rYjR2R3ZzNWROSm4tRUU0M0VFaUc5bzlSdnRiUFV2SExLOTc0bWM3OW5UR2VFUnVSakJJZ2x1YTBab0R3OA?oc=5
 
-• 🚨ALERT: U.S. banks are taking a HANDS-OFF approach to outside AI agents’ mistakes. If you give an AI agent access to your account and it sends money to the wrong person, your bank may treat the payment as one you approved. And, you could be on the h - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jc3ZybUxKVzJBUENCRWJTSFk3cEVZRV9sLThnREgzelJZMFFlR1Juc3dFT2lodkNHaDNTVEJaaTNjdWdweGEtVUZVbEJ3QmVvdVBDN2F5LW4zUnY2U0dNNQ?oc=5
+• If an AI buys your plane ticket, it shouldn’t come back with a new car. Red Hat’s @kernelcdub explains why AI agents need clear limits. Tomorrow on the NVIDIA AI Podcast. - X
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUW1LN3lHcVVsLVdyR2wtaU13RXd4U1lOdDNNRDFVbmFxV19WX3JiZTdTM0pjYmVlbGRXZlI5Z01MLWpjVU9Qek5FanJhY1h3eXpuMEtXRFlNSFU?oc=5
 
-• An Amazon memo details strategy for agentic AI shopping, per Reuters. It currently blocks AI agents from platform. Plans to build a “World Product Graph”, basically a search engine for every product on Earth (even ones Amazon doesn't sell). The memo writes t - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rYzBIUFhDbnNINUxrVk5Kb2wzMmhhcnQ3UkFtTVRBWGYyWHRrQ3kyX084YVNQemFPa0txck5vamhYTmRrVF9ZcnhFZFFUNjAtZ1pORV9HM0FwNUdBUVE?oc=5
+• Now it's all fully AI agents appealing to be removed from the AI spam list You can't make this up, it's like Moltbook 😂 - X
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRk9iZmowUjAwYlkya2JFdGF4YV84X2FyRE5xRV9yNE54UERIaUZCb0ZMZlF1UGU3OW9YOG9kOEI0V1RleldiU2tyMk9adFlkNkt4cHd3NDJQVFdLNFFydHBaSVRVLW9K?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
