@@ -3,43 +3,43 @@ AI INTELLIGENCE BRIEF — November 24, 2026
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Barbados and United Nations to co-host Special Summit on AI Safety on 23 November - Welcome to the United Nations
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXUtRjM5RTA0NG1KNkttd0FBMEhrcWdTb3piSEdMaWpSQ3R2czB1c2RiazVfX3hsVkJhSVM0cjJHQmVZMnVqMlB4cU9NY3EwQ3drRVE2V05DWEsyLTBtQi1PVGt1aGlPYWprX2tJalktMnlQWnA1RjRKcjdQSUlSLVZMd3h6QWpCRlFlclV6aWhwN1ROSDdTOGp2S2JwRW1uZXlNTks3NXFnNTJBYUlyWU92WGFXRzFHVjZodXdLd1JKQW1pa2NQNA?oc=5
+• Signal Moves to Block AI Agents - Electronic Frontier Foundation
+https://news.google.com/rss/articles/CBMic0FVX3lxTE00cE8ydHcyVlZmaS1vbnR1bnl5U1MycnhQb0dfUWgzNHEzNnZqWWFKcUVXOEg5N1VVaF9vckN2aHI3VHAxNHhDWUVxcUltWDNrb3lLRlpxVG9jRUhHRS1tNHZfZEVrQ0o0Rmp4M1A1LVduTmM?oc=5
 
-• QCon San Francisco 2026: Securing AI Agents in Production - infoq.com
-https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZQk5UTjF2OEh6cVRfWC1NNDNyNTZpeDNWRU5kMHdDY01OY0VlWWtHR0pMQmp6RnZrRXRyNmhuc0FKZHdYYjdCS05vdlVncHhTQUZqRGR2cnBjUDdGOXh4WUd2b2xFTXItQUE?oc=5
+• This California GOA report may shape frontier AI safety nationwide. Here are 5 big takeaways - Transparency Coalition
+https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVpuY1luamhubE9wZi1feE5pU05aNC1IOE44N0ZZOXdsdGdoRm1zeGJSS2dVQkZ4aTdIYkQ0MEowQ1pGNlhfZUtOWXlqMUZON1NISTZwQXp3QnlGWXZTNWp5VzNib1R3R0hVQWY5bnpfZjNTRDZtaWU5UWk2Q3FLX3ZuUzRJNWpidnYyN1Q4Q2VxQ2FUd0Y5R2RwTW9aSHl4?oc=5
 
-• Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUdkSUFqUUdSaDIwclBOdjhNS2ltR3hsOW4tQTlMTzAzVjVrazZLN3J1eWJsYm02NDBOcUFlLXdoRV9CY3F2OHdwb215cm5mamdRZTBBS19keDhieXZiQ080SnJlTFVsNEpjNkEzMlBjOUhTSHNHTzZwNHJiYTBzSnpDemUwdFNxTXNDRHB3VEs5cnhIUTJpZ1FMd3Z1OTBXRG00Q0dlSmlqUW53eEd2dDJKaVJlRDVQdXFB?oc=5
+• OpenAI, Cisco debut tool that lets AI agents safely block vulnerability exploitation - Cybersecurity Dive
+https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2RmTnhvd3BxMmpmMXBoVWN0UV8wS3R3aTI5WDVDazZTOWZfYy0tVDF2a2tMZWF6Tm82UGNLZklwV2xXZnI1NmtSRU9sSll0eUFzN3g5VHFqZ0gtbldTd1hxdUlvT2tmcnJrR1FDOFdmOXRJbGVuVldnMGVwSWRNdHNsMzcxZ20tTHFlWXZFMGtFOXY3?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia soars 31% as board reinstates Jensen Huang as CEO, chip stocks jump - Yahoo Finance
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXQxeWtYZkw0VGdES0pzRTNhc1h5aW9VNWNkRU0zeVE0QzBBYk12VmM1cjFkWEJSUmwzQndzZHVJaGF3bGdvSGI1UEtwWXBzZ1NuZExiejR2bkFsVl9ZWl9hS1FEekV3TS1ZV1hnZnNSVU9ybGRJTkF5b193dXVPLUs1ZDRJMWY3X25UYV8wNEU0RTliTXk4NFNDUElmWjZhSFJXVy1MSmlsbXZEajY5MEJoVmpBWEt1a3g0SFRFalpZSmdXWjVZYw?oc=5
+• Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy - The New York Times
+https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5
 
-• Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang - The New York Times
-https://news.google.com/rss/articles/CBMiekFVX3lxTE41T3Z1VnJLSk9LLURuSVhPYVJEdHZmUXIwQzYteGVERktDYm55NEpKNU1jMEFpbzgtTmVURzlzU2drN0Juc19HR0tCREl2MUJRWjFaTGFCd3FJWVEwNUwwalc3RktTcHVLMDVfMnZCVU9DLUZMaWZ1dnd3?oc=5
+• Nvidia board's Huang reversal raises doubts about independence, critics say - Reuters
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0s4b2VlR0lnRDlhYWpheHZuRHcwNmd3VWFzUFZTZkNfbjlYaG8ybDVjZ1d4VlFXS3JaZmFWTjhkTlpaeTBKVTN3aGV1eERkMFlmZGRxUzVsYzRaZFhNblp5S2d0czFZV3ZJZVpOc0c4YlJJazhiQzlYYkFJYUo5YnhfMklmdDVGVklQMHBCQkN6dVRLQkRHWEFGaDZQMFBDblJzam5wSTFxdWd5SUdNRXdpUVRSVzNFYmNOUFo0SkllU0FMSF9lbQ?oc=5
 
-• Trump sealed deal for Nvidia to rehire Jensen Huang as CEO - CNBC
-https://news.google.com/rss/articles/CBMib0FVX3lxTE9ab2habU9pTTllNmRCRDdqTjgwQ3hsVFZDX1hhVkJxaVVCWHNhYjRHLXFMaWtnME41NGZ1Z1REMkh1d2Y0NUJGamJSdVJQcV9rZEV1aW9nUlhHQWN1WkFSU3RRMnZrNEpobEp5bVBoY9IBdEFVX3lxTFBXNkNGSW1MaGlybGVOX0YtaVI0YVFfd3NYMi1BenZKN2Ewd1JJT3NMMjdpaElsRF9jSThyVzBHYlg4dUxocjBjYnV1dml4czdrWHR4akNId1g3SVJYa0oyRkdEUHJPMnRUVFpkbUpxWHRtWUxE?oc=5
+• The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn - WSJ
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlFlMDJyN1daWmpBcWlPdU1jMTFxLU1UNGEyOW14YjB1RXQtRFJScE5ud0FWd3N1YmdFXzlYZ2lPRWp5M2kzc2RyZDB6c1VpUUlaZlkwV2ZLUEZWWEhESVd4anl5bWVwWkJhRnlnMVhKb1ROTG9waU5HVTh4UUhTRUsyYkJBN3VlT2Zxc0RxWGFodE1teGt5b1dHUjV3ZHNhZ3VDdy0yYjdEajI2aGlFSTd5NVZiNTZ0RF9z?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Applied Digital Secures New 150 MW, 18-Year Lease with Tier-One Investment-Grade Hyperscaler, Bringing Contracted Base-Term Revenue Above $41 Billion - Applied Digital Corporation (APLD)
-https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFhfVHFHUlYxWDZrSUl5TWo4ZjdMcllqcEE2NXVPWXhXTUlfVU9xRjN1QmlkaTdCV29KN0M5Smk2bXdQcEh3aG5UMjVkTWk0aWxNMTFUVkI4Q2NkSzJ1cEp0cUFnanZkendaNzlDTDJLdmZPRndZTEJyc0ExcHVfelcxaUdpbGc2bjlhMU5Za3ZqOU90U3I4Tld0S0VHSFJNczd0elNKa0w5UXlLcmRWZlZ5aWVyckUzMG5mWFl3?oc=5
+• Backboard R-CLI & Studio: Secure Enterprise AI Coding, OnPrem/Air-Gapped - Amazon Web Services
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkpVVEZVY1VzSEdJQm5IU3VFSERua0RuM3JJNXRabDlCRVNSTWlSM0gwTjNPemxjUlMtLXlLQ1hUWFliR3czVnZpOHU1OEttZ28tcFBHLXRJclhzR1FPQjhLbjJrcV9QVnBvTVNVemNuQmdVZzItN0E3c1JpSURpREoxOElDXzc3dnV1eTlPWkF6bU9sYU9jbWJGVDE1MGZFVUpETGxwMEE?oc=5
 
-• 5 Retail and Tech Earnings Charts to Watch This Week - Zacks Investment Research
-https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVEtSFRXUHlYdGttR1RTazY5MndnenQyMkRoOUh1UlRQMmFtSnRXa0NJV09XY1pUQjVicHlvUVFHNXFkb3U0a1FyQmI5aS1iUHVXWUtXLTc4WTlJeU50UnN5c0FxTFZjeUNaUUdzeE9OMzY5QUJpckNCTUY2ZWVZNFlMcjF3TVZuekdBR2QwMGlMNUdIVzc1NQ?oc=5
+• SailPoint Predicts Strict Governance Will Reshape Enterprise AI Security - Security Today
+https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjlqNzRwUDQ0NDVBM2lGbHJfVmlleEdORXNTVTNGWVY3ZjhxckdMbllTeUc2N3RVb3RKRFVMdzhrbVUzUGt4X25zRFNmcDBUV214QnJNaWI3bEoxejNRQy1LdXZla293OWlyQkY2M1NPMzNoMktaUURpckZpODNPZlAxZm5OeXhEaTh2Ui0yZzlCZUk0S2RNV3laNGFoU2JfWi1ydEpNRmJ1eHlZX0tjWmtuOUlhY3FBOVd2ajJNUXU?oc=5
 
-• Enterprise AI Model Flexibility: Why Switching Matters - World Economic Forum
-https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGs2QmZETDhBRnRXdUZiWnIxSmY0SmpWRzlpS08yaDhfMEFBbmdMdEdqNEk4cXBSRlh1THpaTlZsN2N2NU11ZHlESTR5NjRPalB2VVV3OHRldDZiSm9venhlS1R4VUYtcHVwQ0x2NFRRMGlSZHN6N0N5NWFDd2lKdFpvdHdtTUFuc1FVZDFHX3p5UUZLcmcySUUwV3FId21maU9WczZQUQ?oc=5
+• Emerson, Databricks target IT/OT data gap through native integration of industrial data fabric with enterprise AI platform - Industrial Cyber
+https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSGlJVHFhZHRlTzRETmRMZG9zXzc1QllwRU1uMzZJaHcxLWZsajZYTFRISHEyNzNRQWZBLTk5ZFRJTkk5S2tqUVVfNmpaTjlJVV91MjcwMG1jLW5ndnVXSUc0R2ZrSll0RmhmckN4OVZRWmRNSm5SNHlHbjRScTZJeFlpLTMxaUNUcEttM3VTYVoycUhVWHd6Zi1jQ1M5OFNfMDZ4aDRMWXh2RXNMUHhlWUdBWUNzQ1V1R1RnSlNYM0ZuckpIa0VNUENrQWZnY0NqUERSY1VkbGVfTTI1bmVYcmhmd2FSNUYyNFE?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• As Chairman of the @HouseForeignGOP, export controls on our most advanced AI chips has been a top priority. The reports of Jensen Huang’s alleged affair with a Chinese intelligence asset and the smuggling of our most advanced technology to China is ext - X
-https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ybEdEZ3ZpSDN6Mm5BYlgtNHJ3Z1VkOE1pd2tDM01rYjR2R3ZzNWROSm4tRUU0M0VFaUc5bzlSdnRiUFV2SExLOTc0bWM3OW5UR2VFUnVSakJJZ2x1YTBab0R3OA?oc=5
+• Introducing Biomni Swarm: any scientist can now direct an organization of thousands of AI scientists to autonomously pursue entire research objectives. - Knowledge discovery: 500 agents collaborated to construct an interconnected knowledge graph atlas spa - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OUzFnbGhBY3lIVmQwNDJ4eXQzRVowbG9MU2tYSTEwLUhxV1ozOG5Bc0d3SmhXWUJkYU8yNHljTWRRRFpLTUtuY0gtemdBV1BKUkZ6aGptU2s5UjFBZEFxeW1R?oc=5
 
-• If an AI buys your plane ticket, it shouldn’t come back with a new car. Red Hat’s @kernelcdub explains why AI agents need clear limits. Tomorrow on the NVIDIA AI Podcast. - X
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUW1LN3lHcVVsLVdyR2wtaU13RXd4U1lOdDNNRDFVbmFxV19WX3JiZTdTM0pjYmVlbGRXZlI5Z01MLWpjVU9Qek5FanJhY1h3eXpuMEtXRFlNSFU?oc=5
+• Amazon says hackers' AI agents found and exploited 0-day with little human input: The Cairn AI framework is… arstechnica.​com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/ #cybersecurity #computers - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wa0tPMFNrOGdJNFJWVjZsYW1qZkJLdzNXNzQwY2o4a0N4aVl2ZVVIUjR5bU1LTUdCUUl6enJRZmhNeDBJYmxmeFJKMnRfYUxocmVzRXNEWEctbkpQSnZaMkpqdzFwUQ?oc=5
 
-• Now it's all fully AI agents appealing to be removed from the AI spam list You can't make this up, it's like Moltbook 😂 - X
-https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRk9iZmowUjAwYlkya2JFdGF4YV84X2FyRE5xRV9yNE54UERIaUZCb0ZMZlF1UGU3OW9YOG9kOEI0V1RleldiU2tyMk9adFlkNkt4cHd3NDJQVFdLNFFydHBaSVRVLW9K?oc=5
+• What can decades of Linux teach us about securing AI agents? @RedHat CTO @kernelcdub joins NVIDIA’s AI Podcast to talk transparency, open collaboration, and how clear rules help people put AI agents to work with confidence. 0:00 How Linux earned ent - X
+https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SG9OWFVjWmhuSjdFWFVvT3pMLU03UnIzQVFRbGJFVTBPTUhRdkhmWnZfMVc2RlNRTHpSYlR3aTRISEtNXzRZSWR4bmhVS0RZb2M1Q001N0tnTzQ?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
