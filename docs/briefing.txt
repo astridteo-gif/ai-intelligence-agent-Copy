@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 24, 2026
+AI INTELLIGENCE BRIEF — November 25, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• Signal Moves to Block AI Agents - Electronic Frontier Foundation
-https://news.google.com/rss/articles/CBMic0FVX3lxTE00cE8ydHcyVlZmaS1vbnR1bnl5U1MycnhQb0dfUWgzNHEzNnZqWWFKcUVXOEg5N1VVaF9vckN2aHI3VHAxNHhDWUVxcUltWDNrb3lLRlpxVG9jRUhHRS1tNHZfZEVrQ0o0Rmp4M1A1LVduTmM?oc=5
+• What to know before using AI agents for Black Friday shopping - NPR
+https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDlWaVNLMGhDTHpmeHc1MmJNNDVIcVZ0WVNDUnhyYlZlS3BGR1lGdThQYWppcW5NSkxpbXhscG4tZkttMUJqZmhRNmI2OHNYbjBJSnRjdG1fNXpxelg0dm5kTFJjOVhCQ255VWhNYmkydHpmRnlaRnh0aWFvZHhLVmVfSVBMLVh4Q2tPVUNJUjloT3NJLXFsTExDcGUzbF9TeXRxMDg0dFJJUQ?oc=5
 
-• This California GOA report may shape frontier AI safety nationwide. Here are 5 big takeaways - Transparency Coalition
-https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVpuY1luamhubE9wZi1feE5pU05aNC1IOE44N0ZZOXdsdGdoRm1zeGJSS2dVQkZ4aTdIYkQ0MEowQ1pGNlhfZUtOWXlqMUZON1NISTZwQXp3QnlGWXZTNWp5VzNib1R3R0hVQWY5bnpfZjNTRDZtaWU5UWk2Q3FLX3ZuUzRJNWpidnYyN1Q4Q2VxQ2FUd0Y5R2RwTW9aSHl4?oc=5
+• Taking AI Safety Seriously - The American Prospect
+https://news.google.com/rss/articles/CBMia0FVX3lxTE9kaTdMdzU2Ulc5TTNQQzM1N3llbkg3dEdlNHJSN2d4RHdNaWc2UHA5NV9taWloNDhWS0p5ZVpUcnA3TUNEUGRNdWM0c2lROEsyTS1YWXAtc1hzd0VnVGtuX2I2Rm56Z2x1UFlr?oc=5
 
-• OpenAI, Cisco debut tool that lets AI agents safely block vulnerability exploitation - Cybersecurity Dive
-https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2RmTnhvd3BxMmpmMXBoVWN0UV8wS3R3aTI5WDVDazZTOWZfYy0tVDF2a2tMZWF6Tm82UGNLZklwV2xXZnI1NmtSRU9sSll0eUFzN3g5VHFqZ0gtbldTd1hxdUlvT2tmcnJrR1FDOFdmOXRJbGVuVldnMGVwSWRNdHNsMzcxZ20tTHFlWXZFMGtFOXY3?oc=5
+• How people are using AI agents to handle annoying tasks and save money - CBS News
+https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTHJrdkhLR3RIdTRMUzc1UE1Haldja2xkMHNiT2JYamNVRXhPeG83SHdYUHFNWWpUMDJHb0RydGZVek5xZXY4NU1WbUx5Q3ZlcjlMQVVtcENSWDVUU0R2dlRDN3ppdmxP?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy - The New York Times
-https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5
+• Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC - CNBC
+https://news.google.com/rss/articles/CBMie0FVX3lxTE1IN1pwRHJFN1ZiXzJpeXpsLWI5RGJNMTNUU3VSNFY5Q21iUkVkNDhneFg2VFg4TTI3R3k5RXUtb0hBRGRhYkVXdXZablA3dG4zSF9yc3Q5YmVDTjBBZjAxMXJFWUdCUFFwZHQ3dm9QWG5uSWhXdS1KRGRVY9IBgAFBVV95cUxPYW9MbXdwMWFTZFd6dmhZLVNGYzdHUmNDaF9VQk5jN2lMdDFfU010WUdOX2t1ai1qNXYtZi1TbnVTbEt6b0pvejRsdjJoYmZuWXJwZjl4TkpuZHNpeHNIbEpFZkxuc3RnNExQZGRWZ0ZQTy0xYU9wYnhCT3k5a2tBUA?oc=5
 
-• Nvidia board's Huang reversal raises doubts about independence, critics say - Reuters
-https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0s4b2VlR0lnRDlhYWpheHZuRHcwNmd3VWFzUFZTZkNfbjlYaG8ybDVjZ1d4VlFXS3JaZmFWTjhkTlpaeTBKVTN3aGV1eERkMFlmZGRxUzVsYzRaZFhNblp5S2d0czFZV3ZJZVpOc0c4YlJJazhiQzlYYkFJYUo5YnhfMklmdDVGVklQMHBCQkN6dVRLQkRHWEFGaDZQMFBDblJzam5wSTFxdWd5SUdNRXdpUVRSVzNFYmNOUFo0SkllU0FMSF9lbQ?oc=5
+• S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks - Reuters
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5
 
-• The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn - WSJ
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlFlMDJyN1daWmpBcWlPdU1jMTFxLU1UNGEyOW14YjB1RXQtRFJScE5ud0FWd3N1YmdFXzlYZ2lPRWp5M2kzc2RyZDB6c1VpUUlaZlkwV2ZLUEZWWEhESVd4anl5bWVwWkJhRnlnMVhKb1ROTG9waU5HVTh4UUhTRUsyYkJBN3VlT2Zxc0RxWGFodE1teGt5b1dHUjV3ZHNhZ3VDdy0yYjdEajI2aGlFSTd5NVZiNTZ0RF9z?oc=5
+• Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair - The New York Times
+https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDI2MUVaY1NkUWpVOWRFMXJUQW9McW5HSDUtZlZtTlNjQVFoQzU3TE92WlB4c04wenRXZWpmamRibm0xc1pzM29WU0tHMGt2N05kQVV0b01QTTduTGxRX2EzWmZCNmRtV3F2SXp4aGZZZVJSbmNUd3F5SWhZdDhQLXBuUkZVdzZ6cnJuN1ROOWlQNmRnMGlrZHZ6bjVJUkF2WGZz?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Backboard R-CLI & Studio: Secure Enterprise AI Coding, OnPrem/Air-Gapped - Amazon Web Services
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkpVVEZVY1VzSEdJQm5IU3VFSERua0RuM3JJNXRabDlCRVNSTWlSM0gwTjNPemxjUlMtLXlLQ1hUWFliR3czVnZpOHU1OEttZ28tcFBHLXRJclhzR1FPQjhLbjJrcV9QVnBvTVNVemNuQmdVZzItN0E3c1JpSURpREoxOElDXzc3dnV1eTlPWkF6bU9sYU9jbWJGVDE1MGZFVUpETGxwMEE?oc=5
+• Hyperscaler emissions are soaring. Do they need better climate goals? - Latitude Media
+https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkpfNFktV29tMFlNcEtldDZBenFUZnpOenoxSldWalVSSVpPU21XaExRV09JbzB3NFNzcF92ZmVDVFhJUUZiaEJ6aDdRWDZjbDJQaDJmVzVOUmVCQzhfaDdybDJhek1XazIwUWpWUEZUOG5vdjJXRlhuZHdrWnRYWnFsS2tXYnBfcFVFQk02ZmVLY0lIZjg2b3d1ZEZSRENaaExhNWRR?oc=5
 
-• SailPoint Predicts Strict Governance Will Reshape Enterprise AI Security - Security Today
-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjlqNzRwUDQ0NDVBM2lGbHJfVmlleEdORXNTVTNGWVY3ZjhxckdMbllTeUc2N3RVb3RKRFVMdzhrbVUzUGt4X25zRFNmcDBUV214QnJNaWI3bEoxejNRQy1LdXZla293OWlyQkY2M1NPMzNoMktaUURpckZpODNPZlAxZm5OeXhEaTh2Ui0yZzlCZUk0S2RNV3laNGFoU2JfWi1ydEpNRmJ1eHlZX0tjWmtuOUlhY3FBOVd2ajJNUXU?oc=5
+• TrustHouse.AI Introduces Enterprise AI-DLC Governance to Bring Trust to AI-Driven Software Development - The Detroit News
+https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaWNWMy1JRHVEVG9vaTlXbUw2N1FYZGNYWlZCbUxGYjc3SGpfcTVETFpHcWtJYTBtd2htTU96LTAzMGxTeTZfbmtjUFdlMFBNZmI0cmRhOG5renBJMHJrNWFzdFNqcEZac3lwRXlpN2RXUTNCSEZWMU5zcldDdzJzLTNsZW9DeTV1R3lVODhFX05VUUpOZDZvaWlDXzJZRlJ2RkpoMXJrUzFReVRPSDhnUkRyUjNZb1dFWWh2V1hUc3pnUlcxa2NibHBYMDZsVmJrb1F6ZkF3ME1SLXp6dWhHOXQ5VkpOOHdUS2ZweHV5dw?oc=5
 
-• Emerson, Databricks target IT/OT data gap through native integration of industrial data fabric with enterprise AI platform - Industrial Cyber
-https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSGlJVHFhZHRlTzRETmRMZG9zXzc1QllwRU1uMzZJaHcxLWZsajZYTFRISHEyNzNRQWZBLTk5ZFRJTkk5S2tqUVVfNmpaTjlJVV91MjcwMG1jLW5ndnVXSUc0R2ZrSll0RmhmckN4OVZRWmRNSm5SNHlHbjRScTZJeFlpLTMxaUNUcEttM3VTYVoycUhVWHd6Zi1jQ1M5OFNfMDZ4aDRMWXh2RXNMUHhlWUdBWUNzQ1V1R1RnSlNYM0ZuckpIa0VNUENrQWZnY0NqUERSY1VkbGVfTTI1bmVYcmhmd2FSNUYyNFE?oc=5
+• SA Asks: What's the most attractive hyperscaler stock right now? - TradingView
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFRwejF2bFdXMk9yZ2R4ay1FVGh5R1hyeDBYLVRZSVl1OGg2T2ZtREVKQlVadUJ6d0EtZWIzWG9MTXUxOHZUbl85bDlwNlIwcGlnbnJpeEswVHlXUmlTaFk2aDF5aFJ6SU9tUHFwSXlFRkpwTVZDTzU4eGhrWnpMREsySEV4Q203Szl4QnVZcTZVYjB3alNYNjU4NG9wZmZYR0xQUzFaelEzTXdIWURaY0pKeXFUXzlNYkdpdmdMMU44Y2M?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• Introducing Biomni Swarm: any scientist can now direct an organization of thousands of AI scientists to autonomously pursue entire research objectives. - Knowledge discovery: 500 agents collaborated to construct an interconnected knowledge graph atlas spa - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OUzFnbGhBY3lIVmQwNDJ4eXQzRVowbG9MU2tYSTEwLUhxV1ozOG5Bc0d3SmhXWUJkYU8yNHljTWRRRFpLTUtuY0gtemdBV1BKUkZ6aGptU2s5UjFBZEFxeW1R?oc=5
+• ‼️ BREAKING: Switzerland has confirmed its first cyberattacks using AI agents. Every known attack succeeded. Critical infrastructure operators in at least two sectors were hit, its cybersecurity office says. The agents hunt for weak passwords and unpatched sy - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NVXl0eVpaS0lKd1Y5d1h2WC1QWjV5TndrdHBFdXZTUXRYZU51eEIwbjhET08yMXUxd09YTzBOSHM0cEt3NmlGaHpvZkJ5aXZiNFYzQWxXbTdzenlTTDh6ZzZRN0hLUQ?oc=5
 
-• Amazon says hackers' AI agents found and exploited 0-day with little human input: The Cairn AI framework is… arstechnica.​com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/ #cybersecurity #computers - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wa0tPMFNrOGdJNFJWVjZsYW1qZkJLdzNXNzQwY2o4a0N4aVl2ZVVIUjR5bU1LTUdCUUl6enJRZmhNeDBJYmxmeFJKMnRfYUxocmVzRXNEWEctbkpQSnZaMkpqdzFwUQ?oc=5
+• Make your web apps agent-ready without rewriting your frontend. Use the Modern Web Guidance skill in Antigravity to add declarative WebMCP tools straight to your existing HTML forms, giving AI agents structured access while keeping the experience identic - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BbkxlVEFLcEp1bWZveTdfeE83R3FROWJxdUFjbm9KbkNmQjdVQTVIWncyVWtEWExkOXdOczI4aWx1VjVZQ0R6Z1ZPM1RWREtQODBidnh0ZGUxTXJMMUNYQ09B?oc=5
 
-• What can decades of Linux teach us about securing AI agents? @RedHat CTO @kernelcdub joins NVIDIA’s AI Podcast to talk transparency, open collaboration, and how clear rules help people put AI agents to work with confidence. 0:00 How Linux earned ent - X
-https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SG9OWFVjWmhuSjdFWFVvT3pMLU03UnIzQVFRbGJFVTBPTUhRdkhmWnZfMVc2RlNRTHpSYlR3aTRISEtNXzRZSWR4bmhVS0RZb2M1Q001N0tnTzQ?oc=5
+• It is no coincidence that on Tuesday Jensen Huang returned as Nvidia CEO, and on Wednesday, the AI chips in Vaibhav Sooryavanshi's bat came back. - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE42c1JlNzZpUGtjeUpxUUt0QzROejVQQVBDRXlqRGZWUm9kbnU0MjA5Q092cXlLdGJlZzhrTlhPczl1NXExSGdVQVd6TG1CQXo5QVRYaHFIRV9xQjVIQUllbTNQWEVQUQ?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
