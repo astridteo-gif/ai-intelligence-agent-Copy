@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 25, 2026
+AI INTELLIGENCE BRIEF — November 26, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• What to know before using AI agents for Black Friday shopping - NPR
-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDlWaVNLMGhDTHpmeHc1MmJNNDVIcVZ0WVNDUnhyYlZlS3BGR1lGdThQYWppcW5NSkxpbXhscG4tZkttMUJqZmhRNmI2OHNYbjBJSnRjdG1fNXpxelg0dm5kTFJjOVhCQ255VWhNYmkydHpmRnlaRnh0aWFvZHhLVmVfSVBMLVh4Q2tPVUNJUjloT3NJLXFsTExDcGUzbF9TeXRxMDg0dFJJUQ?oc=5
+• United States: Emerging Frontier AI Safety Requirements: What AI developers and their business partners should know - PYMNTS.com
+https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFVscmYyMlJQeGV6U1dnVnlGY0ZxVHRXVXBtM1dFdTR5MExmMFgyOEhPS01IT0dfbUZSWU1ack5uOXhWZlpyTHZySkkyZGV4ZXF5c0xpY1RuODc3QUxaYWJnV09qMUdaVmNjbkUyWnc1ZTB3Z19DS2RIOURIVUFxSnBJN2ZFdmJlRHBpdHdNRVFySDNvdm4xb0pwTVpHVnNvMUhMeWZXbXRaa0VCV1ltN2dSTkZxZF9PVzZDbVVsNnR0UzhiaVNuZU9xSU1yRUZaOTVRXzl0eVdQaTEzU1VqNw?oc=5
 
-• Taking AI Safety Seriously - The American Prospect
-https://news.google.com/rss/articles/CBMia0FVX3lxTE9kaTdMdzU2Ulc5TTNQQzM1N3llbkg3dEdlNHJSN2d4RHdNaWc2UHA5NV9taWloNDhWS0p5ZVpUcnA3TUNEUGRNdWM0c2lROEsyTS1YWXAtc1hzd0VnVGtuX2I2Rm56Z2x1UFlr?oc=5
+• What to Know Before Using AI Agents for Black Friday Shopping - KQED
+https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGphTlFmejhGS2llWU1mVmVRWUVKaklHeVRKZDBnRUhxODQ2U2Q5eWxuT0daZlhjNkxsdzlHVVUxZUZxQ1laWUxOUXFoVjZBR2djOTR1blBuLUo3UldEM29hRlktbHdwREREaWw5clI1SXBWLXBmdERGZmx2Mlp1OWhXNWpOeE5ieEZFU0ZKSEU0ektiTm1POF9vNVA?oc=5
 
-• How people are using AI agents to handle annoying tasks and save money - CBS News
-https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTHJrdkhLR3RIdTRMUzc1UE1Haldja2xkMHNiT2JYamNVRXhPeG83SHdYUHFNWWpUMDJHb0RydGZVek5xZXY4NU1WbUx5Q3ZlcjlMQVVtcENSWDVUU0R2dlRDN3ppdmxP?oc=5
+• California Governor Seeks Action on AI Safety Bills Within 30 Days - Broadband Breakfast
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlNXeGJOdjYxcmY5T3VWcG93N2JpQUYzUmtnSUw1cVpKaG9BVm5qeFROb2Q3dTBjTXAzbFV6ZkZlcFYxeVl1MmRGeWxyUXUyXzItOURfM0xwbjBPY1JPQ21TQTJUZEItMEExbmNnRUpzUUxUMTZOQk1nVUJ5bUhfT2JiTmlIeGN5eUdUd2xtVGRZd0hCSG1BMllYTk15Z1E?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC - CNBC
-https://news.google.com/rss/articles/CBMie0FVX3lxTE1IN1pwRHJFN1ZiXzJpeXpsLWI5RGJNMTNUU3VSNFY5Q21iUkVkNDhneFg2VFg4TTI3R3k5RXUtb0hBRGRhYkVXdXZablA3dG4zSF9yc3Q5YmVDTjBBZjAxMXJFWUdCUFFwZHQ3dm9QWG5uSWhXdS1KRGRVY9IBgAFBVV95cUxPYW9MbXdwMWFTZFd6dmhZLVNGYzdHUmNDaF9VQk5jN2lMdDFfU010WUdOX2t1ai1qNXYtZi1TbnVTbEt6b0pvejRsdjJoYmZuWXJwZjl4TkpuZHNpeHNIbEpFZkxuc3RnNExQZGRWZ0ZQTy0xYU9wYnhCT3k5a2tBUA?oc=5
+• Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say - CNBC
+https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydHdQWUpYRU16SjgyRXBibzZ6UFN4RThEMUV3VkRJV0NCNmk1Nm1wTFlvTnpsLS1VVHdmczlIQjZRN0RKZnlBdm5oSmFUY0lCaWV5dTY2bDBiRHcyV0lfMjk3ZS1TQW1oM3F0TTJFRdIBdEFVX3lxTE1hb0dnX1V6U3RzcVduQUhNcHBONFFMMVVaaThOcEc5dy1EOVMwUXBVM1lSMWljNm12aTJXT0FvMWdkaUdyTEZyZGY0dHJ0R3kxQllKQ2RaMl9MYmxIY2pHcTh6TWVDRkhCSkVqUVUtbVFOam81?oc=5
 
-• S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks - Reuters
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5
+• Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - AP News
+https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVFCZEVvMWJxMnFTWE96SjlweXVka0V5WC1FVTF4R0IzX3lpODRfTzM5dDhfSWNrRS1iNXdzRWJZME1odmRCY2JMUXJMOENabjBUNzJKMS1lYW5SN1A2bTRrU2hOTXpOUEszSEQ2aTZMeG95VXNMVFltUzNJWHNxbVpKZnAwOFVMQk1KNVFyRFJ4NmctZUMzYw?oc=5
 
-• Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair - The New York Times
-https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDI2MUVaY1NkUWpVOWRFMXJUQW9McW5HSDUtZlZtTlNjQVFoQzU3TE92WlB4c04wenRXZWpmamRibm0xc1pzM29WU0tHMGt2N05kQVV0b01QTTduTGxRX2EzWmZCNmRtV3F2SXp4aGZZZVJSbmNUd3F5SWhZdDhQLXBuUkZVdzZ6cnJuN1ROOWlQNmRnMGlrZHZ6bjVJUkF2WGZz?oc=5
+• Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer - Yahoo Finance
+https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Hyperscaler emissions are soaring. Do they need better climate goals? - Latitude Media
-https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkpfNFktV29tMFlNcEtldDZBenFUZnpOenoxSldWalVSSVpPU21XaExRV09JbzB3NFNzcF92ZmVDVFhJUUZiaEJ6aDdRWDZjbDJQaDJmVzVOUmVCQzhfaDdybDJhek1XazIwUWpWUEZUOG5vdjJXRlhuZHdrWnRYWnFsS2tXYnBfcFVFQk02ZmVLY0lIZjg2b3d1ZEZSRENaaExhNWRR?oc=5
+• Google Cloud’s Jim Anderson on Scaling Enterprise AI - AI Magazine
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFBoVFNZQ3prRVoydzA3TW5tNW1GU1lWUWE5VzJ5VXdyaVd3bHlwX2FzOU42WWJVVnZ2VWI1bnRYX3pkZGhvcmRxYmhsOU9OSW1rSWxqUV9JYnB0MWJNYUE2bGVSSlpIZFl2aFoyRGI5RzFUSmlTckQxY2c5Q2h6VzI4ZHA4dURT?oc=5
 
-• TrustHouse.AI Introduces Enterprise AI-DLC Governance to Bring Trust to AI-Driven Software Development - The Detroit News
-https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaWNWMy1JRHVEVG9vaTlXbUw2N1FYZGNYWlZCbUxGYjc3SGpfcTVETFpHcWtJYTBtd2htTU96LTAzMGxTeTZfbmtjUFdlMFBNZmI0cmRhOG5renBJMHJrNWFzdFNqcEZac3lwRXlpN2RXUTNCSEZWMU5zcldDdzJzLTNsZW9DeTV1R3lVODhFX05VUUpOZDZvaWlDXzJZRlJ2RkpoMXJrUzFReVRPSDhnUkRyUjNZb1dFWWh2V1hUc3pnUlcxa2NibHBYMDZsVmJrb1F6ZkF3ME1SLXp6dWhHOXQ5VkpOOHdUS2ZweHV5dw?oc=5
+• Acer Gadget : Q1–Q3 revenue surpassed FY2025 as e-commerce, Plugable, and enterprise AI fueled expansion - TradingView
+https://news.google.com/rss/articles/CBMikAJBVV95cUxOZjBEWkxoNTNnXzA0ZlhieVdVblFJNjY3bXpqVWpoVmFJRGJ1anJFOXNZRWxSUDNBM3NHOTZuNV9FZnlyUG9FNTlVUWJqVDU5UWdOVlNPMjAtTmNPQTFtc3BYc1BFb2xndERyYjljMGhGX3lFMGN2YlJFU0ZYZ0ppRHppRUVtTlFfLVh1eHFsLVZHd19OaXpYLThIMjlNVzlhb1BzUU9xSHBkMVJ1OGxqS25OR3NzNm1zQ0dscWVIdFJRd0QzTDNqTGtXSllRN0pjMG1RY2F3QVZHOTRBNkxyUkZ0aFY0YmM4Y2xFTHlVQ3hsRFhKaElVOWt1bHVZeWhSSWtqTVZoX0FjMzlCdjVFcQ?oc=5
 
-• SA Asks: What's the most attractive hyperscaler stock right now? - TradingView
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFRwejF2bFdXMk9yZ2R4ay1FVGh5R1hyeDBYLVRZSVl1OGg2T2ZtREVKQlVadUJ6d0EtZWIzWG9MTXUxOHZUbl85bDlwNlIwcGlnbnJpeEswVHlXUmlTaFk2aDF5aFJ6SU9tUHFwSXlFRkpwTVZDTzU4eGhrWnpMREsySEV4Q203Szl4QnVZcTZVYjB3alNYNjU4NG9wZmZYR0xQUzFaelEzTXdIWURaY0pKeXFUXzlNYkdpdmdMMU44Y2M?oc=5
+• TrustHouse.AI Introduces Enterprise AI-DLC Governance to Bring Trust to AI-Driven Software Development - AiThority
+https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN1VKdXdTanZIWVFxbDR2X3JGTmxUeWpXNjJjZC0zajNwWDl1QkUzZkdHLXE4RU1TbjRJY2xyUG1NWkN0bXJtVmxDYmY1d3dhVkVHeHV3OUdmWHctMWZWOWs3LVRaMkZmME9TbXhzT2RZUktkZWhFczNZUHRKNjExVHFUNEN3dW5Hbm9Odlg0b2VlUnItOERieDhQMGZwd0FTNjlWUkVFbkJfd1ZHSXFvX0hvSHg2SHNNQXI0RGhDNmFxVjU5aTJFNHNmQ01ZNlo1eHBVMEtoZzV2QQ?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• ‼️ BREAKING: Switzerland has confirmed its first cyberattacks using AI agents. Every known attack succeeded. Critical infrastructure operators in at least two sectors were hit, its cybersecurity office says. The agents hunt for weak passwords and unpatched sy - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NVXl0eVpaS0lKd1Y5d1h2WC1QWjV5TndrdHBFdXZTUXRYZU51eEIwbjhET08yMXUxd09YTzBOSHM0cEt3NmlGaHpvZkJ5aXZiNFYzQWxXbTdzenlTTDh6ZzZRN0hLUQ?oc=5
+• APIs are critical infrastructure; now MCP connects AI agents with apps and data. Radware secures this layer. Learn more: https://t.co/yp801jwM2i #Radware #MCP #AgenticAI #AISecurity #ApplicationSecurity #Cybersecurity - X
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFBya1B1VDVSQk9VdVFhaFpDdm1ybzI4MzA4RTlHTG1Cc09sVWJBMkVneGhRenNEN01LeUpvT3lwRHVZRGtydVROM0hHcl92elJHNWU3djZRRV9LRC1T?oc=5
 
-• Make your web apps agent-ready without rewriting your frontend. Use the Modern Web Guidance skill in Antigravity to add declarative WebMCP tools straight to your existing HTML forms, giving AI agents structured access while keeping the experience identic - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BbkxlVEFLcEp1bWZveTdfeE83R3FROWJxdUFjbm9KbkNmQjdVQTVIWncyVWtEWExkOXdOczI4aWx1VjVZQ0R6Z1ZPM1RWREtQODBidnh0ZGUxTXJMMUNYQ09B?oc=5
+• You’ve heard about BNB Chain’s new L1, now take a look inside. Get a closer look at the network we’re developing for high-frequency trading, payments, private finance and AI agents, with BNB at its core. Read the litepaper below 👇 https://t.co/vwXBsws2xn - X
+https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XbHU5TG1INGJQTWRZUU1JdUtYUWFkd2JpM1RxRTg0YTJQcXNkd1ZyUHZtN3FPV2ZNY1JPXzl5TWVTbjNMYXJrUktrQXMzcU9OTDZxMFBPdzB2QWJZZ3c?oc=5
 
-• It is no coincidence that on Tuesday Jensen Huang returned as Nvidia CEO, and on Wednesday, the AI chips in Vaibhav Sooryavanshi's bat came back. - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE42c1JlNzZpUGtjeUpxUUt0QzROejVQQVBDRXlqRGZWUm9kbnU0MjA5Q092cXlLdGJlZzhrTlhPczl1NXExSGdVQVd6TG1CQXo5QVRYaHFIRV9xQjVIQUllbTNQWEVQUQ?oc=5
+• Cournot has raised $5M co-led by @papervc and @BeamFDN following earlier backing from @yzilabs through @EASYResidency S3, to build the verifiable intelligence layer for onchain applications and AI agents. Cournot's mission is to expand what oracles - X
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QS2hHVWZBeDdNSXB1ZHBjblpUYllZTWZ5M0RPRDkyaE9Cc0lQd3J4c2I2bWdWLWRULThGT1RCZjFlQmExbWVtU1I4WFhPVTBWbkNNbGVzdFRjX01KTnRmbDAtY2VBVjg?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
