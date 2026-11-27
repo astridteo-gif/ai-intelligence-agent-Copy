@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 26, 2026
+AI INTELLIGENCE BRIEF — November 27, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• United States: Emerging Frontier AI Safety Requirements: What AI developers and their business partners should know - PYMNTS.com
-https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFVscmYyMlJQeGV6U1dnVnlGY0ZxVHRXVXBtM1dFdTR5MExmMFgyOEhPS01IT0dfbUZSWU1ack5uOXhWZlpyTHZySkkyZGV4ZXF5c0xpY1RuODc3QUxaYWJnV09qMUdaVmNjbkUyWnc1ZTB3Z19DS2RIOURIVUFxSnBJN2ZFdmJlRHBpdHdNRVFySDNvdm4xb0pwTVpHVnNvMUhMeWZXbXRaa0VCV1ltN2dSTkZxZF9PVzZDbVVsNnR0UzhiaVNuZU9xSU1yRUZaOTVRXzl0eVdQaTEzU1VqNw?oc=5
+• AI Agents Will Take The Middleman's Chores, Not Its Risks - Forbes
+https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnpyWUk4U1R4ZnRfN2NyVkdFX0g2djNSY2M5Y0ZBeklYRnpZSUJmQkNUcENBN3czempKeVlURHVSUTdTUm9Ed3QzU0VUNlRGZnA3UWRuZFlHSE1mbWl6bFQ5a1ZRRUxVcWRac1Jpa2ZDVlhtUmxLMmFxMVRxZG5fMWRLQ3hwQ2o1czRVRXhzUjRWbUxac08wbmdZYWd1SDBVOHlnX1oxam9YNHFZQnR3?oc=5
 
-• What to Know Before Using AI Agents for Black Friday Shopping - KQED
-https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGphTlFmejhGS2llWU1mVmVRWUVKaklHeVRKZDBnRUhxODQ2U2Q5eWxuT0daZlhjNkxsdzlHVVUxZUZxQ1laWUxOUXFoVjZBR2djOTR1blBuLUo3UldEM29hRlktbHdwREREaWw5clI1SXBWLXBmdERGZmx2Mlp1OWhXNWpOeE5ieEZFU0ZKSEU0ektiTm1POF9vNVA?oc=5
+• How to Set Up AI Agents That Work Toward a Million-Dollar Business Goal Instead of Following Prompts - Entrepreneur
+https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVpGMnVNVmdEbmRGdW96TEVrRjlqakduWG9TUDJnZVFvTjc1RWFQV19WYzZsOGlpVGZGYml2LVhPVS03QUc3bFhueTdCM1RhM2pvNXZacmwwb2p2OUhfYms3Q0pwUzlmck9MVl9LdVZMN09sbE1KV3BLX3k5YWNfTlg1ZHVIeTZSNEg3ay1Eb3p6MGFmTl9ZMnRaZ1drNUZkTk1YM01DZ1puMThEclpTM0RXdnIySWJwakpLay15WWhUMTZ0MFE?oc=5
 
-• California Governor Seeks Action on AI Safety Bills Within 30 Days - Broadband Breakfast
-https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlNXeGJOdjYxcmY5T3VWcG93N2JpQUYzUmtnSUw1cVpKaG9BVm5qeFROb2Q3dTBjTXAzbFV6ZkZlcFYxeVl1MmRGeWxyUXUyXzItOURfM0xwbjBPY1JPQ21TQTJUZEItMEExbmNnRUpzUUxUMTZOQk1nVUJ5bUhfT2JiTmlIeGN5eUdUd2xtVGRZd0hCSG1BMllYTk15Z1E?oc=5
+• HYPR Introduces AgentPass to Bring Identity Security and Human Oversight to AI Agents - Cybersecurity Insiders
+https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHhJZEFySk1kQnc3c0xqajQyOUN4NWFEMDhETzhxakMxeF9oNlAzbWVaM2F2WWNSbUdrb2h2Nl9oNXFBUXRhU3dmczl1QTY3T2ZvWWVwam5DaHV5My1HZnZaWEwxdW55RVJ6VkZxZ3h2bF8xbFVzTFVrdjlQVGdYMjBsZjhINE1RMm9kNnRpRmVIcVdQVEVyUHM4NkpZblpWOHgzbzZRYjkzeTVoaWtkb3BYWE9GeVBEZGc2ZkpRUXJZTzg?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say - CNBC
-https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydHdQWUpYRU16SjgyRXBibzZ6UFN4RThEMUV3VkRJV0NCNmk1Nm1wTFlvTnpsLS1VVHdmczlIQjZRN0RKZnlBdm5oSmFUY0lCaWV5dTY2bDBiRHcyV0lfMjk3ZS1TQW1oM3F0TTJFRdIBdEFVX3lxTE1hb0dnX1V6U3RzcVduQUhNcHBONFFMMVVaaThOcEc5dy1EOVMwUXBVM1lSMWljNm12aTJXT0FvMWdkaUdyTEZyZGY0dHJ0R3kxQllKQ2RaMl9MYmxIY2pHcTh6TWVDRkhCSkVqUVUtbVFOam81?oc=5
+• Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang - Bloomberg
+https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5
 
-• Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - AP News
-https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVFCZEVvMWJxMnFTWE96SjlweXVka0V5WC1FVTF4R0IzX3lpODRfTzM5dDhfSWNrRS1iNXdzRWJZME1odmRCY2JMUXJMOENabjBUNzJKMS1lYW5SN1A2bTRrU2hOTXpOUEszSEQ2aTZMeG95VXNMVFltUzNJWHNxbVpKZnAwOFVMQk1KNVFyRFJ4NmctZUMzYw?oc=5
+• Banned Nvidia chips uncovered at Chinese data center linked to Megaspeed's Alice Huang: report - New York Post
+https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmNJTENPVGFQQ1NRU1RicF84NEdBOVhwdUxrdTBSdDZ2RlpCWUZyeEpJcG5IS0VzbkRVSEdQdTFSTW1NU0pmZUNsWWg3bEtyWnlGczdmWXVJSG1kYjFseWJyMkk3QmlqMWZKMGV4X1N5MHpOVzZCX0R4YnY3cHRJbG9yVGxiZDJwUHJROVpEbEtuMVVrZ0NTVlRiS0JyZ0dEMkV6bHktejlmbTZheU14LVR5OXhYUDY2QWVBZl9nLWxMVlA1NWxhQTd4Yw?oc=5
 
-• Should You Buy Nvidia After Its Sharp Decline? Warren Buffett’s Long-Held Investment Philosophy Provides a Clear Answer - Yahoo Finance
-https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3ZDaWhTMllvUEx6RzRWLUpFQW11TnpqYXZiTi1VZzdjUVl2aUhYUUVVeHctWVdiMmJCXzVaRDhFX2xmS2k1QWM2M1VpcWtqQVBiUDV2dXRXNWQ3MEI4N2pmcjB3UVo5bXNqbDFMMG5MOU9sWVIyTlk4b3ZhRTVUZDEwd3prLVVxX092d2xZc1dqZmYwcE5yemF5S2s?oc=5
+• Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3? - The Motley Fool
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLXRieWlpNzJqdWQ3RVRNQk5WUXBUSUY5WE5oNHdRNXNCekJFc1pWcEViZE95RFRzbDFKWTdDc29VbXNRTTBobDVGQnFnOXg0NFVLRzQ4NUVTeHFmT2NNRkM2WjFVYmxvQTg1UnpRU0R4OGNjbGZIUVpTT2R2VU5DdzFyb1RUYkY4VTBXM0NaTmpGM2h4OUMwVkZiRVFWaS12eEhLUGRrQVVkVDcyODl4ZlQ5dElBRDd6U3ROa2hzS3ZJNm9semJQZkk5ajBsUGVGbnhKajR6ZE1xdUtZ?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Google Cloud’s Jim Anderson on Scaling Enterprise AI - AI Magazine
-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFBoVFNZQ3prRVoydzA3TW5tNW1GU1lWUWE5VzJ5VXdyaVd3bHlwX2FzOU42WWJVVnZ2VWI1bnRYX3pkZGhvcmRxYmhsOU9OSW1rSWxqUV9JYnB0MWJNYUE2bGVSSlpIZFl2aFoyRGI5RzFUSmlTckQxY2c5Q2h6VzI4ZHA4dURT?oc=5
+• Behind Fujitsu and Google Cloud’s Enterprise AI Strategy - AI Magazine
+https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRUdoY1B0b2RoZUpHa1dzSFhXa1hYQXpwZlZYX2UxblphRVZWT3R4YW1MTi1TVWN3cUtTdm94a3FCcFd6b3VyQW84M3BPdC1nd19iemdRSW9GWFAyWWFJcURfQnVIaGFKZGRCMHllU1BacGYzQUNtdnZlMFZraGNUZmlsSDZjUlJiRzVJ?oc=5
 
-• Acer Gadget : Q1–Q3 revenue surpassed FY2025 as e-commerce, Plugable, and enterprise AI fueled expansion - TradingView
-https://news.google.com/rss/articles/CBMikAJBVV95cUxOZjBEWkxoNTNnXzA0ZlhieVdVblFJNjY3bXpqVWpoVmFJRGJ1anJFOXNZRWxSUDNBM3NHOTZuNV9FZnlyUG9FNTlVUWJqVDU5UWdOVlNPMjAtTmNPQTFtc3BYc1BFb2xndERyYjljMGhGX3lFMGN2YlJFU0ZYZ0ppRHppRUVtTlFfLVh1eHFsLVZHd19OaXpYLThIMjlNVzlhb1BzUU9xSHBkMVJ1OGxqS25OR3NzNm1zQ0dscWVIdFJRd0QzTDNqTGtXSllRN0pjMG1RY2F3QVZHOTRBNkxyUkZ0aFY0YmM4Y2xFTHlVQ3hsRFhKaElVOWt1bHVZeWhSSWtqTVZoX0FjMzlCdjVFcQ?oc=5
+• Why legacy GRC is failing the enterprise AI era - FinTech Global
+https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0FodU8xMWt6R0ZQb3ZhMXdISW9vLXV3MDhhbUw3V2JYQTd0aWhoUUNTc2tYSURKeG80ZXJRYjJhM0lUc1l1X3lja0JqRjdRWW1JQlY4elZEYUYxTENUb1U1U2o4dHFQbDFMS0RiZGk1MklxcTIxckVKbHZuVzFlRFBQRld1a0RWVlE?oc=5
 
-• TrustHouse.AI Introduces Enterprise AI-DLC Governance to Bring Trust to AI-Driven Software Development - AiThority
-https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN1VKdXdTanZIWVFxbDR2X3JGTmxUeWpXNjJjZC0zajNwWDl1QkUzZkdHLXE4RU1TbjRJY2xyUG1NWkN0bXJtVmxDYmY1d3dhVkVHeHV3OUdmWHctMWZWOWs3LVRaMkZmME9TbXhzT2RZUktkZWhFczNZUHRKNjExVHFUNEN3dW5Hbm9Odlg0b2VlUnItOERieDhQMGZwd0FTNjlWUkVFbkJfd1ZHSXFvX0hvSHg2SHNNQXI0RGhDNmFxVjU5aTJFNHNmQ01ZNlo1eHBVMEtoZzV2QQ?oc=5
+• Salesforce, Snowflake, Four Security Software Leaders Headline Barrage Of Tech Earnings - Investor's Business Daily
+https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmF5MURzNE9pMUd2NDFZTHE0S3RfT0wtd3hXTG9OTXRrTDY2M2xDMm5tQTJmZ1hKVVFqRFRpMmJYUGdmOU0ya1ZVeWxTM3FaTFptOW1QRjFGbzdlN0ZTRGMxZG1udFA2Und4R1g2eGFyNU5ocmktNWtxVlZOb2dja0lTLUhxdW43LTBTaUc1enZiWDRtYTRoejd2QWZROE1jejBpSFpIY1Y1YzlzR0lwMzJMUjB0TWMxbnc?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• APIs are critical infrastructure; now MCP connects AI agents with apps and data. Radware secures this layer. Learn more: https://t.co/yp801jwM2i #Radware #MCP #AgenticAI #AISecurity #ApplicationSecurity #Cybersecurity - X
-https://news.google.com/rss/articles/CBMiXEFVX3lxTFBya1B1VDVSQk9VdVFhaFpDdm1ybzI4MzA4RTlHTG1Cc09sVWJBMkVneGhRenNEN01LeUpvT3lwRHVZRGtydVROM0hHcl92elJHNWU3djZRRV9LRC1T?oc=5
+• AI agents may have just helped hack Germany's most valuable company: SAP confirmed a cyberattack to DER SPIEGEL. Insiders say the attackers stole employees' login tokens and used them to change and copy SAP source code on GitHub, possibly with ag - X
+https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SOHR4ODhhM2x2Q3RrbkQxNGFEUnptMHg0RV83c0VsNlVpNi1feWl6T3RlQ0tBVHdNcG1zS1RCSjlEd2hNN3YyRld3Vy13RGI3LTBSOURhMWhnN3pGaXFYNlFR?oc=5
 
-• You’ve heard about BNB Chain’s new L1, now take a look inside. Get a closer look at the network we’re developing for high-frequency trading, payments, private finance and AI agents, with BNB at its core. Read the litepaper below 👇 https://t.co/vwXBsws2xn - X
-https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XbHU5TG1INGJQTWRZUU1JdUtYUWFkd2JpM1RxRTg0YTJQcXNkd1ZyUHZtN3FPV2ZNY1JPXzl5TWVTbjNMYXJrUktrQXMzcU9OTDZxMFBPdzB2QWJZZ3c?oc=5
+• GOOGLE 🔥: Antigravity will have a way to create AI agents directly from its UI! > In the current implementation, users can configure agent's name, icon, and its goal. > Earlier, Google also added a way to create agents through prompts. Both features are currentl - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE15Ym04amRiQ2VfMnBORGU1dkNyQUt4TDh3enhGa19keHFjelBaTFFIczVKOEUtbkE0bVpOVGQ3QzJfM3dsZ2NCc2FOUnRPak9lUDV4empqamJic3R2RUd4WF9DemtGQQ?oc=5
 
-• Cournot has raised $5M co-led by @papervc and @BeamFDN following earlier backing from @yzilabs through @EASYResidency S3, to build the verifiable intelligence layer for onchain applications and AI agents. Cournot's mission is to expand what oracles - X
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QS2hHVWZBeDdNSXB1ZHBjblpUYllZTWZ5M0RPRDkyaE9Cc0lQd3J4c2I2bWdWLWRULThGT1RCZjFlQmExbWVtU1I4WFhPVTBWbkNNbGVzdFRjX01KTnRmbDAtY2VBVjg?oc=5
+• BREAKING: Nvidia's powerful Blackwell AI chips discovered at a Chinese data center linked to Alice Huang, despite U.S. export restrictions. — Bloomberg - X
+https://news.google.com/rss/articles/CBMiYEFVX3lxTFBobmhGUjFMdGdyRWpsRUpuYUNJT2hIdWJrR3ltc0Z1WFprWE1WVWxwWjByeldKdzVrSGRldXlpbm5yNzNobkZoczhwbTRjQnQ2VzF2blpPSVd6bll4LXZmRg?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
