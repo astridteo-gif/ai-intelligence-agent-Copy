@@ -1,45 +1,45 @@
-AI INTELLIGENCE BRIEF — November 27, 2026
+AI INTELLIGENCE BRIEF — November 28, 2026
 
 AI Safety | Semiconductors | Tech Investing
 
 === AI SAFETY & AGENTS ===
-• AI Agents Will Take The Middleman's Chores, Not Its Risks - Forbes
-https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnpyWUk4U1R4ZnRfN2NyVkdFX0g2djNSY2M5Y0ZBeklYRnpZSUJmQkNUcENBN3czempKeVlURHVSUTdTUm9Ed3QzU0VUNlRGZnA3UWRuZFlHSE1mbWl6bFQ5a1ZRRUxVcWRac1Jpa2ZDVlhtUmxLMmFxMVRxZG5fMWRLQ3hwQ2o1czRVRXhzUjRWbUxac08wbmdZYWd1SDBVOHlnX1oxam9YNHFZQnR3?oc=5
+• Inside Browser-Native AI Agents for Mapping - Esri
+https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmpkVVpSczBuOFY5aloyV1hsOURQQ3ZnUlRmS2lyRlltQ3pkUFAzem5LQUQwdm1CRTJSZVQtR3c1bDBjaXFRS2lDa05oLVNvelJySkh4aW9LYVVFZ1pPRmpnODVBalhGa2lpeFhVcXRSU0t4ZHhKVGhSR3hSTFVhdG05YnlyVE5YanJjOTNSQQ?oc=5
 
-• How to Set Up AI Agents That Work Toward a Million-Dollar Business Goal Instead of Following Prompts - Entrepreneur
-https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVpGMnVNVmdEbmRGdW96TEVrRjlqakduWG9TUDJnZVFvTjc1RWFQV19WYzZsOGlpVGZGYml2LVhPVS03QUc3bFhueTdCM1RhM2pvNXZacmwwb2p2OUhfYms3Q0pwUzlmck9MVl9LdVZMN09sbE1KV3BLX3k5YWNfTlg1ZHVIeTZSNEg3ay1Eb3p6MGFmTl9ZMnRaZ1drNUZkTk1YM01DZ1puMThEclpTM0RXdnIySWJwakpLay15WWhUMTZ0MFE?oc=5
+• The Promise and Challenges of AI Agents for Businesses - Kiplinger
+https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUNKVkZpajJpZlhZX1g1UlJTRGk1NTJKX3RSR0VrRy1RNHl1QWRsOFF4RllqSU9aQVVCa0dfLVlfQzBkUTdUYUFmT0FraW8wZWRPUXR1cE9fZElyR1Z5bGZ0bnQ5Ri0zTHpJUnU0dlJmeFZvMTJBdGhDaExEVkxnWVJaVF8wMUU1anc?oc=5
 
-• HYPR Introduces AgentPass to Bring Identity Security and Human Oversight to AI Agents - Cybersecurity Insiders
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHhJZEFySk1kQnc3c0xqajQyOUN4NWFEMDhETzhxakMxeF9oNlAzbWVaM2F2WWNSbUdrb2h2Nl9oNXFBUXRhU3dmczl1QTY3T2ZvWWVwam5DaHV5My1HZnZaWEwxdW55RVJ6VkZxZ3h2bF8xbFVzTFVrdjlQVGdYMjBsZjhINE1RMm9kNnRpRmVIcVdQVEVyUHM4NkpZblpWOHgzbzZRYjkzeTVoaWtkb3BYWE9GeVBEZGc2ZkpRUXJZTzg?oc=5
+• AI Agents Don’t Need to Go Rogue to Cross Security Boundaries - Cybersecurity Insiders
+https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDIwWkJFbWtkLW4tZWtYa2xINUJmYTlJVWMtcGI0TlU5SDNnMGk5NUpRU2dMOFFFaWpJaUE2MXRQTzRLd1JSUHU5cEhMcXduVWV3MFJDYnZqXzF1YTR1YmdzVFEwNlF5bzh1bFo3MWRGSDl4WThGVlQ5bndBVnVSNThkU1BnV2x5b1JLeEhjWU80eGFMME1FV1RTZEkzV2plWlE?oc=5
 
 === AI CHIPS & SUPPLY CHAIN ===
-• Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang - Bloomberg
-https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5
+• A New Figure Emerges in the Nvidia Chip-Smuggling Saga - WSJ
+https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhNXzR5WjJQLVh5WHE1dW1mdFE4MmZreUtrNHRhOVh1NEd5d2p5cjNkSlZRYzY0eU9wZUlfNms4NXM2Z1VnUDdUdnZkR20tekRUX1B4Mm01ZEJTVmFyMWdEdnFjVWFiMkFNZm5tTWtPVmJZV3ktMmdjQjdKQWY0blA1V210MGl3Q0ExTnRsZHpiakQyNWEw?oc=5
 
-• Banned Nvidia chips uncovered at Chinese data center linked to Megaspeed's Alice Huang: report - New York Post
-https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmNJTENPVGFQQ1NRU1RicF84NEdBOVhwdUxrdTBSdDZ2RlpCWUZyeEpJcG5IS0VzbkRVSEdQdTFSTW1NU0pmZUNsWWg3bEtyWnlGczdmWXVJSG1kYjFseWJyMkk3QmlqMWZKMGV4X1N5MHpOVzZCX0R4YnY3cHRJbG9yVGxiZDJwUHJROVpEbEtuMVVrZ0NTVlRiS0JyZ0dEMkV6bHktejlmbTZheU14LVR5OXhYUDY2QWVBZl9nLWxMVlA1NWxhQTd4Yw?oc=5
+• Bessent: No new curbs needed on Nvidia chip exports to China - The North State Journal
+https://news.google.com/rss/articles/CBMigwFBVV95cUxOcERnY1AwSk43TlpwWnhYdDhYTWFBU0JVdlF6OUFxTnNLak5mVHI0STg0M2lrX2Vkc09uNnNNMWxmQXl2VFowRWIwX3hyM1JodHpvOVg3dDJWNlpJZG1vbDltT0x0SVNKTXBsWm9LSWk0SW4xNzNzRVlxSVpIQjgtNkpVOA?oc=5
 
-• Should You Buy Nvidia Stock Before CEO Jensen Huang Testifies in Front of Congress on Dec. 1 and Dec. 3? - The Motley Fool
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLXRieWlpNzJqdWQ3RVRNQk5WUXBUSUY5WE5oNHdRNXNCekJFc1pWcEViZE95RFRzbDFKWTdDc29VbXNRTTBobDVGQnFnOXg0NFVLRzQ4NUVTeHFmT2NNRkM2WjFVYmxvQTg1UnpRU0R4OGNjbGZIUVpTT2R2VU5DdzFyb1RUYkY4VTBXM0NaTmpGM2h4OUMwVkZiRVFWaS12eEhLUGRrQVVkVDcyODl4ZlQ5dElBRDd6U3ROa2hzS3ZJNm9semJQZkk5ajBsUGVGbnhKajR6ZE1xdUtZ?oc=5
+• Why are Nvidia’s AI chips special? - Fast Company
+https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTNDSVBXZzV2ekhocHpzWjh0UFV1bHIxZFNQbm9VaEdKdzJaWmIxT0k3Q0d2QlUtSnFvbkYwSU84S3RJMUF6cGRaRk42Tl9FODk4SW41cDhyUl84bU5lMGFVOUtRZXpTTW9RMHRTeGRPeWRDQ3dlYjQzbVA3Tzk1VHBzOExZTXc?oc=5
 
 === TECHNOLOGY INVESTING ===
-• Behind Fujitsu and Google Cloud’s Enterprise AI Strategy - AI Magazine
-https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRUdoY1B0b2RoZUpHa1dzSFhXa1hYQXpwZlZYX2UxblphRVZWT3R4YW1MTi1TVWN3cUtTdm94a3FCcFd6b3VyQW84M3BPdC1nd19iemdRSW9GWFAyWWFJcURfQnVIaGFKZGRCMHllU1BacGYzQUNtdnZlMFZraGNUZmlsSDZjUlJiRzVJ?oc=5
+• The AA Expands Zscaler Partnership to Strengthen Data Security and Secure Enterprise AI Adoption - Cybersecurity Insiders
+https://news.google.com/rss/articles/CBMi0gFBVV95cUxNblMyUVhoQ1NZM0I0ME5DN3ZfZV85ZklhOHo1QWVSUnFHTjVPVXd3dWFkUmh2ejgxNGRmT2FOdFNienplRlVXTHhNSklwU01HZ1I5ZnZkVmZ6WDNETEY4cW9jUVZUd0ZIQk81M3QyY1hTWlEzcC1kcDdPZlk5U1Y0S2NlTExSR2k1TjV1WEU4eFNJN2FHMDRvSzRxUjVCLUVJQThpN0podHNIUTdwNjhtSERid05YTFdDQkItT2Z3QklrZklMTHNWSlhoZVF1MlVZSEE?oc=5
 
-• Why legacy GRC is failing the enterprise AI era - FinTech Global
-https://news.google.com/rss/articles/CBMiigFBVV95cUxNV0FodU8xMWt6R0ZQb3ZhMXdISW9vLXV3MDhhbUw3V2JYQTd0aWhoUUNTc2tYSURKeG80ZXJRYjJhM0lUc1l1X3lja0JqRjdRWW1JQlY4elZEYUYxTENUb1U1U2o4dHFQbDFMS0RiZGk1MklxcTIxckVKbHZuVzFlRFBQRld1a0RWVlE?oc=5
+• From pilot to production: Three enterprise AI infrastructure decisions that matter - Data Center Dynamics
+https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEh5MWxIcXlBbWc5bTJpdVpvcWtuQlhnMGpPd1VUTTdDRDB0X0ZQRTFSV3ZESm4tWVdBc05LY1Z4aTRaUWdsaUNUbEhvdmZ6NkZ3S3ZlOTVZR0I3aVlDMmRxTDBZazhvU1RyMnZBSHBHMEtXVFNQX290T09zeWlPT01XNi1OOWpReGxrdi1OSXZTajdnSlNNdG02b3dDVzN5OXEyTzJ6a0JVNVlYX2ZDd1Bta25Samc1Sl9HazFLYWhXdFRiWFVvNA?oc=5
 
-• Salesforce, Snowflake, Four Security Software Leaders Headline Barrage Of Tech Earnings - Investor's Business Daily
-https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmF5MURzNE9pMUd2NDFZTHE0S3RfT0wtd3hXTG9OTXRrTDY2M2xDMm5tQTJmZ1hKVVFqRFRpMmJYUGdmOU0ya1ZVeWxTM3FaTFptOW1QRjFGbzdlN0ZTRGMxZG1udFA2Und4R1g2eGFyNU5ocmktNWtxVlZOb2dja0lTLUhxdW43LTBTaUc1enZiWDRtYTRoejd2QWZROE1jejBpSFpIY1Y1YzlzR0lwMzJMUjB0TWMxbnc?oc=5
+• The recent tech outages were just a teaser of what’s ahead for enterprise AI - CTech
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qZzNyeTdKcldDLVJMVmlVTXFtWVdzbGR6SENRWFRhX0J5VXRzYjYtR2hxMms1anlYekNCNWRteVpDYnJObDFwZTJUNnRQZ1d3a2NEakhOa0JZd0ZXclozcVpuNEhMMGs?oc=5
 
 === PUBLIC X DISCUSSIONS ===
-• AI agents may have just helped hack Germany's most valuable company: SAP confirmed a cyberattack to DER SPIEGEL. Insiders say the attackers stole employees' login tokens and used them to change and copy SAP source code on GitHub, possibly with ag - X
-https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SOHR4ODhhM2x2Q3RrbkQxNGFEUnptMHg0RV83c0VsNlVpNi1feWl6T3RlQ0tBVHdNcG1zS1RCSjlEd2hNN3YyRld3Vy13RGI3LTBSOURhMWhnN3pGaXFYNlFR?oc=5
+• Two things can be true at the same time when it comes to the NVIDIA / China discussion. 1. China can be using NVIDIA's new/newest AI chips 2. NVIDIA could have violated 0 export control rules. Not sure why people assume that 1 being true guarantees 2 bei - X
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE5USHp0NE40U1E2Vm5ORHExR1A5S1pLel9tZU95cC1CbmtyNEdHZnhFd0RBaXpjNXpieWxibzR4OVhxMXUzRmpLLVJCc1pRY0JfSG9aYW9XNVkteDJheUZWd0MyVndqQQ?oc=5
 
-• GOOGLE 🔥: Antigravity will have a way to create AI agents directly from its UI! > In the current implementation, users can configure agent's name, icon, and its goal. > Earlier, Google also added a way to create agents through prompts. Both features are currentl - X
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE15Ym04amRiQ2VfMnBORGU1dkNyQUt4TDh3enhGa19keHFjelBaTFFIczVKOEUtbkE0bVpOVGQ3QzJfM3dsZ2NCc2FOUnRPak9lUDV4empqamJic3R2RUd4WF9DemtGQQ?oc=5
+• Leopold Aschenbrenner explains where to invest for the next big 3 year AI trade His Q3 investor letter says the market is underestimating the speed AI moves from chatbots to agents to superintelligence He expects 2027 to pack 3 years of AI progress into 1 ye - X
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJTUpjUlotbUZfVjZCQ1BGU0NFLV9PQUVoejk5bG45UDJfYUtxNktSdjRIaEY2b2ZuTUttM1NYRmxQdTFOWlJqVUZpNkFGZjc2SDQ3Zm5zWHZKNnRQbXZsdWYyR0tsZ0E?oc=5
 
-• BREAKING: Nvidia's powerful Blackwell AI chips discovered at a Chinese data center linked to Alice Huang, despite U.S. export restrictions. — Bloomberg - X
-https://news.google.com/rss/articles/CBMiYEFVX3lxTFBobmhGUjFMdGdyRWpsRUpuYUNJT2hIdWJrR3ltc0Z1WFprWE1WVWxwWjByeldKdzVrSGRldXlpbm5yNzNobkZoczhwbTRjQnQ2VzF2blpPSVd6bll4LXZmRg?oc=5
+• GOOGLE HAS RELEASED SOMETHING NO ONE EXPECTED. An 8-minute tutorial on how to build your first AI agents. - X
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WamJiLURUMzdtV01Wblh5c0JLd1h3YVZfN0VJejlGYzYtclVDWXp6Q1ZjbkI0MTJ0VV9hcUllWVNtRXdVRS1pWDFuNEFGNjZVeHZQeVhzQ2dEWTFUV3Bj?oc=5
 
 Note: Headlines are automatically selected. Claims and investment implications have not been independently verified.
